@@ -1,0 +1,896 @@
+#Ulster Region - 1846000
+#under rule of Britain 1836
+#Belfast (540000/135000 POPs)
+254 = {
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 990
+    }
+
+    officers = {
+        culture = irish
+        religion = catholic
+        size = 225
+    }
+
+    bureaucrats = {
+        culture = irish
+        religion = catholic
+        size = 1012
+    }
+
+    capitalists = {
+        culture = irish
+        religion = catholic
+        size = 180
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 1350
+    }
+
+    soldiers = {
+        culture = irish
+        religion = catholic
+        size = 10800
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 10800
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 110587
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 110
+    }
+
+    officers = {
+        culture = irish
+        religion = catholic
+        size = 25
+    }
+
+    bureaucrats = {
+        culture = irish
+        religion = catholic
+        size = 113
+    }
+
+    capitalists = {
+        culture = irish
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 150
+    }
+
+    soldiers = {
+        culture = irish
+        religion = catholic
+        size = 1200
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 12288
+    }
+}
+#Londonderry (524000/131000 POPS)
+255 = {
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 630
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 495
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 7200
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 103725
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 70
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 55
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 800
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 11525
+    }
+}
+#Armagh (274000/68500 POPS)
+256 = {
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 225
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 225
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 2250
+    }
+
+    labourers = {
+        culture = irish
+        religion = catholic
+        size = 65700
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 25
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 25
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 250
+    }
+
+    labourers = {
+        culture = irish
+        religion = catholic
+        size = 7300
+    }
+}
+#Donegal (508000/127000 POPS)
+257 = {
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 225
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 225
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 3375
+    }
+
+    labourers = {
+        culture = irish
+        religion = catholic
+        size = 110925
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 25
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 25
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 375
+    }
+
+    labourers = {
+        culture = irish
+        religion = catholic
+        size = 12325
+    }
+}
+#Connaught Region - 1316000
+#under rule of Britain 1836
+#Galway (548000/137000 POPS)
+258 = {
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 1125
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 6300
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 114075
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 50
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 125
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 700
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 12675
+    }
+}
+#Sligo (768000/192000 POPs)
+259 = {
+    bureaucrats = {
+        culture = irish
+        religion = catholic
+        size = 675
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 990
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 1800
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 8550
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 158625
+    }
+
+    bureaucrats = {
+        culture = irish
+        religion = catholic
+        size = 75
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 110
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 950
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 17625
+    }
+}
+#Munster Region - 2244000
+#under rule of Britain 1836
+#Cork (890000/224000 POPS)
+260 = {
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 1350
+    }
+
+    bureaucrats = {
+        culture = irish
+        religion = catholic
+        size = 2475
+    }
+
+    officers = {
+        culture = irish
+        religion = catholic
+        size = 675
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 1350
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 9000
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 9000
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 1800
+    }
+
+    soldiers = {
+        culture = irish
+        religion = catholic
+        size = 8100
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 165240
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 150
+    }
+
+    bureaucrats = {
+        culture = irish
+        religion = catholic
+        size = 275
+    }
+
+    officers = {
+        culture = irish
+        religion = catholic
+        size = 75
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 1000
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 1000
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 200
+    }
+
+    soldiers = {
+        culture = irish
+        religion = catholic
+        size = 900
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 18360
+    }
+}
+#Limerick (818000/204500 POPS)
+261 = {
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 990
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 1350
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 9000
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 3600
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 185850
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 110
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 1000
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 400
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 20650
+    }
+}
+#Waterford (536000/134000 POPs)
+262 = {
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 675
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 6300
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 112275
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 50
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 75
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 700
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 12475
+    }
+}
+#Leinster Region - 1836000
+#under rule of Britain 1836
+#Dublin (860000/215000 POPs)
+263 = {
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 630
+    }
+
+    bureaucrats = {
+        culture = irish
+        religion = catholic
+        size = 562
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 270
+    }
+
+    bureaucrats = {
+        culture = irish
+        religion = catholic
+        size = 1800
+    }
+
+    officers = {
+        culture = irish
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 2025
+    }
+
+    soldiers = {
+        culture = irish
+        religion = catholic
+        size = 13500
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 9000
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 9000
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 9000
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 9000
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 5400
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 5400
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 116437
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 22500
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 70
+    }
+
+    bureaucrats = {
+        culture = irish
+        religion = catholic
+        size = 63
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 600
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 2500
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 30
+    }
+
+    bureaucrats = {
+        culture = irish
+        religion = catholic
+        size = 200
+    }
+
+    officers = {
+        culture = irish
+        religion = catholic
+        size = 50
+    }
+
+    clergymen = {
+        culture = irish
+        religion = catholic
+        size = 225
+    }
+
+    soldiers = {
+        culture = irish
+        religion = catholic
+        size = 1500
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 1000
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 1000
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 1000
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 1000
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 600
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 12938
+    }
+}
+#Kildare (532000/133000 POPs)
+264 = {
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 315
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 135
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 5850
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 92250
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 19800
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 35
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 2200
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 15
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 650
+    }
+
+    farmers = {
+        culture = irish
+        religion = catholic
+        size = 10250
+    }
+}
+#Wexford (444000/111000 POPS)
+265 = {
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 315
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 135
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 4950
+    }
+
+    labourers = {
+        culture = irish
+        religion = catholic
+        size = 79200
+    }
+
+    labourers = {
+        culture = irish
+        religion = catholic
+        size = 14400
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 35
+    }
+
+    labourers = {
+        culture = irish
+        religion = catholic
+        size = 1600
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = catholic
+        size = 15
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 550
+    }
+
+    labourers = {
+        culture = irish
+        religion = catholic
+        size = 8800
+    }
+}

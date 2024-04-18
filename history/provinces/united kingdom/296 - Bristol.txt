@@ -1,0 +1,6 @@
+owner = DUA
+controller = DUA
+add_core = ENL
+add_core = DUA
+trade_goods = iron
+life_rating = 35

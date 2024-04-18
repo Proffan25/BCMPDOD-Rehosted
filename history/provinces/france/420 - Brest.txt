@@ -1,0 +1,7 @@
+owner = DUA
+controller = DUA
+add_core = FRA
+add_core = DUA
+trade_goods = grain
+life_rating = 32
+naval_base = 2
