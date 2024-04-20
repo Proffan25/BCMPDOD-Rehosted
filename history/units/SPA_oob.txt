@@ -1,67 +1,8 @@
-#Sphere of Influence
-MEX = {
-	value = 75		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
+VIJ = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 25
 }
-ECU = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-PEU = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-BOL = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-CHL = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-PRG = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-UCA = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-CLM = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-BRZ = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-URU = {
-	value = 75		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-POR = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-
-FRA = {
-	value = 55
-}
-ALD = {
-	value = 75
-}
-
 leader = {
 	name = "Baldomero Espartero"
 	picture = spa_gen_espartero
@@ -178,7 +119,7 @@ leader = {
 #Army
 army = {
 	name = "Ejército Cristino del Centro"
-	location = 512
+	location = 2209
 	regiment = {
 		name= "1. Granaderos del Rey"
 		type = hussar
@@ -200,7 +141,7 @@ army = {
 	regiment = {
 		name= "1. Brigada de Infantería 'El Ramillete'"
 		type = infantry
-		home = 503
+		home = 521
 	}
 
 	regiment = {
@@ -210,15 +151,15 @@ army = {
 	}
 
 	regiment = {
-		name= "3. Brigada de Infantería"
+		name= "5. Brigada de Ingenieros"
 		type = artillery
 		home = 513
 	}
 
 	regiment = {
-		name= "1. Brigada de Ingenieros"
+		name= "2. Brigada de Ingenieros"
 		type = artillery
-		home = 495
+		home = 521
 	}
 
 	regiment = {
@@ -228,13 +169,13 @@ army = {
 	}
 
 	regiment = {
-		name= "2. Granaderos del Rey"
+		name= "3. Granaderos del Rey"
 		type = artillery
 		home = 489
 	}
 
 	regiment = {
-		name= "3. Granaderos del Rey"
+		name= "4. Granaderos del Rey"
 		type = artillery
 		home = 488
 	}
@@ -247,7 +188,7 @@ army = {
 	regiment = {
 		name= "4. Brigada de Infantería 'San Jorge'"
 		type = hussar
-		home = 498
+		home = 1686
 	}
 
 	regiment = {
@@ -271,7 +212,7 @@ army = {
 	regiment = {
 		name= "7. Brigada de Infantería"
 		type = infantry
-		home = 497
+		home = 525
 	}
 
 	regiment = {
@@ -307,7 +248,7 @@ army = {
 
 army = {
 	name = "Ejército de Cuba"
-	location = 511
+	location = 2212
 	
 	regiment = {
 		name = "1. Brigada Colonial"
@@ -318,7 +259,7 @@ army = {
 	regiment = {
 		name = "2. Brigada Colonial"
 		type = infantry
-		home = 2209
+		home = 524
 	}
 	
 	regiment = {
@@ -330,25 +271,25 @@ army = {
 	regiment = {
 		name = "4. Brigada Colonial"
 		type = infantry
-		home = 1455
+		home = 522
 	}
 
 	regiment = {
 		name = "5. Brigada Colonial"
 		type = infantry
-		home = 1463
+		home = 520
 	}
 	
 	regiment = {
 		name = "6. Brigada Colonial"
 		type = artillery
-		home = 1456
+		home = 519
 	}
 	
 	regiment = {
 		name = "7. Brigada Colonial"
 		type = artillery
-		home = 1457
+		home = 518
 	}
 	
 	regiment = {

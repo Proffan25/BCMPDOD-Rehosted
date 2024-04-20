@@ -5,61 +5,61 @@
     aristocrats = {
         culture = central_american
         religion = catholic
-        size = 34
+        size = 42
     }
 
     clergymen = {
         culture = central_american
         religion = catholic
-        size = 42
+        size = 52
     }
 
     artisans = {
         culture = central_american
         religion = catholic
-        size = 85
+        size = 106
     }
 
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 17
+        size = 26
     }
 
     farmers = {
         culture = central_american
         religion = catholic
-        size = 1521
+        size = 1901
     }
 
     clergymen = {
         culture = central_american
         religion = catholic
-        size = 85
+        size = 106
     }
 
     artisans = {
         culture = central_american
         religion = catholic
-        size = 170
+        size = 212
     }
 
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 42
+        size = 65
     }
 
     farmers = {
         culture = central_american
         religion = catholic
-        size = 2252
+        size = 2815
     }
 
     slaves = {
         culture = central_american
         religion = catholic
-        size = 850
+        size = 1062
     }
 }
 #Panama City (52000/13000 POPS)
@@ -67,73 +67,73 @@
     aristocrats = {
         culture = central_american
         religion = catholic
-        size = 382
+        size = 477
     }
 
     bureaucrats = {
         culture = central_american
         religion = catholic
-        size = 42
+        size = 52
     }
 
     officers = {
         culture = central_american
         religion = catholic
-        size = 85
+        size = 106
     }
 
     clergymen = {
         culture = central_american
         religion = catholic
-        size = 170
+        size = 212
     }
 
     artisans = {
         culture = central_american
         religion = catholic
-        size = 765
+        size = 956
     }
 
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 170
+        size = 265
     }
 
     farmers = {
         culture = central_american
         religion = catholic
-        size = 13685
+        size = 17106
     }
 
     clergymen = {
         culture = central_american
         religion = catholic
-        size = 127
+        size = 158
     }
 
     artisans = {
         culture = central_american
         religion = catholic
-        size = 340
+        size = 425
     }
 
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 85
+        size = 132
     }
 
     farmers = {
         culture = central_american
         religion = catholic
-        size = 4547
+        size = 5683
     }
 
     slaves = {
         culture = central_american
         religion = catholic
-        size = 1870
+        size = 2337
     }
 }
 #David (28000/7000 POPS)
@@ -141,61 +141,61 @@
     aristocrats = {
         culture = central_american
         religion = catholic
-        size = 255
+        size = 318
     }
 
     clergymen = {
         culture = central_american
         religion = catholic
-        size = 85
+        size = 106
     }
 
     artisans = {
         culture = central_american
         religion = catholic
-        size = 510
+        size = 637
     }
 
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 127
+        size = 197
     }
 
     farmers = {
         culture = central_american
         religion = catholic
-        size = 9137
+        size = 11421
     }
 
     clergymen = {
         culture = central_american
         religion = catholic
-        size = 34
+        size = 42
     }
 
     artisans = {
         culture = central_american
         religion = catholic
-        size = 85
+        size = 106
     }
 
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 17
+        size = 26
     }
 
     farmers = {
         culture = central_american
         religion = catholic
-        size = 1139
+        size = 1423
     }
 
     slaves = {
         culture = central_american
         religion = catholic
-        size = 425
+        size = 531
     }
 }
 #Penonome (24000/6000 POPS)
@@ -203,61 +203,61 @@
     aristocrats = {
         culture = central_american
         religion = catholic
-        size = 255
+        size = 318
     }
 
     clergymen = {
         culture = central_american
         religion = catholic
-        size = 85
+        size = 106
     }
 
     artisans = {
         culture = central_american
         religion = catholic
-        size = 425
+        size = 531
     }
 
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 85
+        size = 132
     }
 
     farmers = {
         culture = central_american
         religion = catholic
-        size = 7650
+        size = 9562
     }
 
     clergymen = {
         culture = central_american
         religion = catholic
-        size = 34
+        size = 42
     }
 
     artisans = {
         culture = central_american
         religion = catholic
-        size = 85
+        size = 106
     }
 
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 17
+        size = 26
     }
 
     farmers = {
         culture = central_american
         religion = catholic
-        size = 1139
+        size = 1423
     }
 
     slaves = {
         culture = central_american
         religion = catholic
-        size = 425
+        size = 531
     }
 }
 #Yaviza (12000/3000 POPS)
@@ -265,90 +265,90 @@
     aristocrats = {
         culture = central_american
         religion = catholic
-        size = 34
+        size = 42
     }
 
     clergymen = {
         culture = central_american
         religion = catholic
-        size = 42
+        size = 52
     }
 
     artisans = {
         culture = central_american
         religion = catholic
-        size = 85
+        size = 106
     }
 
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 17
+        size = 26
     }
 
     farmers = {
         culture = central_american
         religion = catholic
-        size = 1521
+        size = 1901
     }
 
     aristocrats = {
-        culture = north_andean
-        religion = catholic
-        size = 20
-    }
-
-    clergymen = {
-        culture = north_andean
+        culture = granadan
         religion = catholic
         size = 25
     }
 
-    artisans = {
-        culture = north_andean
+    clergymen = {
+        culture = granadan
         religion = catholic
-        size = 50
+        size = 32
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 70
     }
 
     soldiers = {
-        culture = north_andean
+        culture = granadan
         religion = catholic
-        size = 10
+        size = 12
     }
 
     farmers = {
-        culture = north_andean
+        culture = granadan
         religion = catholic
-        size = 895
+        size = 1265
     }
 
     aristocrats = {
         culture = central_american
         religion = animist
-        size = 25
+        size = 31
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 42
+        size = 52
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 85
+        size = 106
     }
 
     soldiers = {
         culture = central_american
         religion = animist
-        size = 17
+        size = 26
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 1530
+        size = 1912
     }
 }

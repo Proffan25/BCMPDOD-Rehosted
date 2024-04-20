@@ -41,6 +41,7 @@ political_decisions = {
 			effect = {
 				country_event = { 
 					id = 199936
+					days = 1
 				}
 			}
 	}
@@ -59,6 +60,7 @@ political_decisions = {
 			effect = {
 				country_event = {
 					id = 199937
+					days = 1
 				}
 			}
 	}
@@ -77,6 +79,7 @@ political_decisions = {
 			effect = {
 				country_event = { 
 					id = 199938
+					days = 1
 				}
 			}
 	}
@@ -95,6 +98,7 @@ political_decisions = {
 			effect = {
 				country_event = {
 					id = 199939
+					days = 1
 				}
 			}
 	}

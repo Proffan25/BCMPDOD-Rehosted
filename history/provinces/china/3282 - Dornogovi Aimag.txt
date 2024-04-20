@@ -1,6 +1,6 @@
-owner = MGL
-controller = MGL
-add_core = CHI
+owner = CHG
+controller = CHG
+add_core = CHG
 add_core = MGL
 trade_goods = coal
 life_rating = 32

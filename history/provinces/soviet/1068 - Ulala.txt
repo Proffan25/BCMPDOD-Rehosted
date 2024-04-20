@@ -1,6 +1,6 @@
-owner = RUS
-controller = RUS
-add_core = RUS
+owner = CHG
+controller = CHG
+add_core = CHG
 add_core = MGL
 trade_goods = coal
 life_rating = 35

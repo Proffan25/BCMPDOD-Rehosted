@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = VEN
+controller = VEN
 naval_base = 1
 trade_goods = fruit
 life_rating = 30

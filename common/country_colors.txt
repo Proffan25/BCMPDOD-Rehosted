@@ -617,6 +617,13 @@ AST = {
     color3= { 69 157 208  }
 }
 
+# Commonwealth
+COM = {
+    color1= { 26 27 154  }
+    color2= { 161 126 128  }
+    color3= { 69 157 208  }
+}
+
 # Crimea
 CRI = {
     color1= { 59 158 125  }

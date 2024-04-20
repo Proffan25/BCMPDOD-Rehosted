@@ -1,9 +1,8 @@
 trade_goods = wool
 life_rating = 35
-owner = USA
-controller = USA
-add_core = USA
-colonial = 2
+owner = DNG
+controller = DNG
+add_core = DNG
 1861.1.1 = {
 	add_core = USA
 }

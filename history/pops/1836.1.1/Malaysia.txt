@@ -36,9 +36,13 @@
     farmers = {
         culture = malay
         religion = sunni
-        size = 4700
+        size = 74700
     }
-
+    farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 32000
+    }
     artisans = {
         culture = dravidian
         religion = hindu
@@ -66,13 +70,13 @@
     }
 
     aristocrats = {
-        culture = british
+        culture = burgundian
         religion = protestant
         size = 175
     }
 
     bureaucrats = {
-        culture = british
+        culture = burgundian
         religion = protestant
         size = 25
     }
@@ -153,7 +157,11 @@
         religion = sunni
         size = 250
     }
-
+    farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 92000
+    }
     bureaucrats = {
         culture = malay
         religion = sunni
@@ -187,7 +195,7 @@
     farmers = {
         culture = malay
         religion = sunni
-        size = 22050
+        size = 122050
     }
 
     clergymen = {
@@ -456,7 +464,11 @@
         religion = sunni
         size = 50
     }
-
+    farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 82000
+    }
     officers = {
         culture = malay
         religion = sunni
@@ -484,7 +496,7 @@
     farmers = {
         culture = malay
         religion = sunni
-        size = 5425
+        size = 85425
     }
 }
 #Kuching (88000/22000 POPS)

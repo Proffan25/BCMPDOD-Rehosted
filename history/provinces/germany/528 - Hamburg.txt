@@ -1,9 +1,9 @@
-owner = HAM
-controller = HAM
-add_core = HAM
+owner = SCA
+controller = SCA
+add_core = SCA
+add_core = HOL
 #add_core = GER
 trade_goods = fruit
 life_rating = 43
-naval_base = 1
 1861.1.1 = { railroad = 3 }
 

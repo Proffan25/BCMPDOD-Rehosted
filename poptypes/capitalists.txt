@@ -287,23 +287,6 @@ migration_target =
 		factor = 1.05
 		is_coastal = yes
 	}
-	
-	modifier = {
-		factor = 0.6
-		terrain = mountain
-	}
-	modifier = {
-		factor = 0.1
-		terrain = desert
-	}
-	modifier = {
-		factor = 0.6
-		terrain = marsh
-	}
-	modifier = {
-		factor = 0.01
-		terrain = arctic
-	}
 	modifier = {
 		factor = 2
 		life_rating = 40

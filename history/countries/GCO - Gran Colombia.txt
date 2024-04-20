@@ -1,14 +1,16 @@
-capital = 2247
-primary_culture = north_andean
-culture = south_andean
+capital = 2172
+primary_culture = lusitanian
+culture = mexican
+culture = central_american
+culture = granadan
 religion = catholic
 government = democracy
 plurality = 0.0
 nationalvalue = nv_productivity
-literacy = 0.12
+literacy = 0.01
 civilized = yes
 is_releasable_vassal = no
-
+prestige = 20
 set_country_flag = new_world_nation
 set_country_flag = south_american_immigrant_nation
 

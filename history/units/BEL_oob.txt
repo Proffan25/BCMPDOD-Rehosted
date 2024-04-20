@@ -97,8 +97,6 @@ army = {
 		type = artillery
 		home = 394 #Charleroi
 	}
-
-	location = 388 #Brugges
 	regiment = {
 		name= "7eme Brigade d'Infanterie"
 		type = artillery

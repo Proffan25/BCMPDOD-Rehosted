@@ -12,7 +12,7 @@ frigate = {
 	priority = 13
 	max_strength = 100
 	default_organisation = 30
-	maximum_speed = 6
+	maximum_speed = 8
 	weighted_value = 2.0
 	can_build_overseas = yes
 
@@ -35,10 +35,10 @@ frigate = {
 	}
 	
 	#Naval Abilties
-	hull = 2
-    gun_power = 3
-    fire_range = 0.25
-    evasion = 0.1
-    torpedo_attack = 0
+	hull = 3
+	gun_power = 4
+	fire_range = 0.4
+	evasion = 0
+	torpedo_attack = 0
 }
 

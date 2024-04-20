@@ -199,28 +199,22 @@ migration_target =
 			has_factories = no
 			}
 	}
-	#modifier = {
-	#	factor = 1.2
-	#	total_pops = 150000
-	#}	
-	#modifier = {
-	#	factor = 1.2
-	#	total_pops = 250000
-	#}
-	#modifier = {
-	#	factor = 1.2
-	#	total_pops = 500000
-	#}
-	#modifier = {
-	#	factor = 1.2
-	#	total_pops = 750000
-	#}	
 	modifier = {
-		factor = 0
-		has_pop_type = craftsmen
-		unemployment_by_type = { value = 0.1 type = craftsmen }
-		state_scope = { has_factories = yes }
+		factor = 1.2
+		total_pops = 250000
 	}
+	modifier = {
+		factor = 1.2
+		total_pops = 500000
+	}
+	modifier = {
+		factor = 1.2
+		total_pops = 750000
+	}	
+	modifier = {
+		factor = 1.2
+		total_pops = 150000
+	}	
 	modifier = {
     		factor = 4
     		has_culture_core = yes
@@ -230,17 +224,17 @@ migration_target =
 		has_pop_culture = THIS
 	}
 	modifier = {
-		factor = 6
+		factor = 2
 		state_scope = {
-					has_factories = yes
-				}
+			has_factories = yes
+		}
 	}
 	modifier = {
 		factor = 1.2
 		has_pop_religion = THIS
 	}
 	modifier = {
-		factor = 4
+		factor = 1.5
 		any_core = { is_primary_culture = THIS }
 	}
 	modifier = {
@@ -260,23 +254,6 @@ migration_target =
 	modifier = {
 		factor = 1.05
 		is_coastal = yes
-	}
-	
-	modifier = {
-		factor = 0.6
-		terrain = mountain
-	}
-	modifier = {
-		factor = 0.1
-		terrain = desert
-	}
-	modifier = {
-		factor = 0.6
-		terrain = marsh
-	}
-	modifier = {
-		factor = 0.01
-		terrain = arctic
 	}
 	modifier = {
 		factor = 2

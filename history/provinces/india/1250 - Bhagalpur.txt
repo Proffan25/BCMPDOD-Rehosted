@@ -1,8 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = HND
+owner = MUG
+controller = MUG
+add_core = MUG
 trade_goods = opium
 life_rating = 32
-colonial = 1
 1861.1.1 = { railroad = 3 }
 

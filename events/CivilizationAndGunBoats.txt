@@ -1316,7 +1316,7 @@ country_event = {
 			target = FROM
 			call_ally = yes
 			attacker_goal = {
-				casus_belli = acquire_treaty_port
+				casus_belli = humiliate
 			}
 		}
 	}
@@ -1689,6 +1689,7 @@ province_event = {
 		NOT = {
 			has_province_modifier = local_opium_habit
 		}
+		NOT = { tag = CHI }
 
 	}
 
@@ -1771,65 +1772,56 @@ country_event = {
 }
 
 #The Opium War
-country_event = {
-	id = 13270
-	title = "EVTNAME13270"
-	desc = "EVTDESC13270"
-	news = yes
-	news_desc_long = "EVTDESC13270_NEWS_LONG"
-	news_desc_medium = "EVTDESC13270_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC13270_NEWS_SHORT"
-	picture = "Opiumwar"
-
-
-	is_triggered_only = yes
-
-	option = {
-		name = "We shall Demand a Treaty Port!"
-		casus_belli = {
-			target = FROM
-			type = acquire_treaty_port
-			months = 12
-		}
-	}
-
-	option = {
-		name = "We shall take a Small Concession!"
-		casus_belli = {
-			target = FROM
-			type = demand_concession_casus_belli_small
-			months = 12
-		}
-	}
-	
-	option = {
-		name = "We shall take a Medium Concession!"
-		casus_belli = {
-			target = FROM
-			type = demand_concession_casus_belli_medium
-			months = 12
-		}
-	}
-	
-	option = {
-		name = "We shall take a Large Concession!"
-		casus_belli = {
-			target = FROM
-			type = demand_concession_casus_belli_large
-			months = 12
-		}
-	}
-	
-	option = {
-		name = "We shall take a Huge Concession!"
-		casus_belli = {
-			target = FROM
-			type = demand_concession_casus_belli_huge
-			months = 12
-		}
-	}
-	
-}
+#country_event = {
+#	id = 13270
+#	title = "EVTNAME13270"
+#	desc = "EVTDESC13270"
+#	news = yes
+#	news_desc_long = "EVTDESC13270_NEWS_LONG"
+#	news_desc_medium = "EVTDESC13270_NEWS_MEDIUM"
+#	news_desc_short = "EVTDESC13270_NEWS_SHORT"
+#	picture = "Opiumwar"
+#
+#
+#	is_triggered_only = yes
+#
+#	option = {
+#		name = "We shall take a Small Concession!"
+#		casus_belli = {
+#			target = FROM
+#			type = demand_concession_casus_belli_small
+#			months = 12
+#		}
+#	}
+#	
+#	option = {
+#		name = "We shall take a Medium Concession!"
+#		casus_belli = {
+#			target = FROM
+#			type = demand_concession_casus_belli_medium
+#			months = 12
+#		}
+#	}
+#	
+#	option = {
+#		name = "We shall take a Large Concession!"
+#		casus_belli = {
+#			target = FROM
+#			type = demand_concession_casus_belli_large
+#			months = 12
+#		}
+#	}
+#	
+#	option = {
+#		name = "We shall take a Huge Concession!"
+#		casus_belli = {
+#			target = FROM
+#			type = demand_concession_casus_belli_huge
+#			months = 12
+#		}
+#	}
+#	
+#}
 
 
 #Angered aristocracy

@@ -1,6 +1,7 @@
-owner = NET
-controller = NET
+owner = BRG
+controller = BRG
+add_core = BRG
 add_core = NET
 trade_goods = coal
-life_rating = 36
+life_rating = 39
 

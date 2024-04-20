@@ -1,12 +1,13 @@
-owner = RPL
-controller = RPL
-add_core = CAN
-add_core = MTC
+owner = VIN
+controller = VIN
+add_core = VIN
 
 trade_goods = fish
 life_rating = 20
 1836.1.2 = {
+	remove_core = COM
 	owner = CAN
 	controller = CAN
+	add_core = CAN
 	colonial = 0
 }

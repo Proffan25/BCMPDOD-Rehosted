@@ -75,19 +75,19 @@
     }
 
     artisans = {
-        culture = turkish
+        culture = romanian
         religion = orthodox
         size = 250
     }
 
     soldiers = {
-        culture = turkish
+        culture = romanian
         religion = orthodox
         size = 50
     }
 
     farmers = {
-        culture = turkish
+        culture = romanian
         religion = orthodox
         size = 4625
     }

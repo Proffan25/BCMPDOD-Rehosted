@@ -3,218 +3,218 @@
 #Montevideo (112000/28000 POPS)
 2344 = {
     aristocrats = {
-        culture = platinean
+        culture = lotharian
         religion = catholic
-        size = 1954
+        size = 1221
     }
 
     bureaucrats = {
-        culture = platinean
+        culture = lotharian
         religion = catholic
-        size = 170
+        size = 424
     }
 
     officers = {
-        culture = platinean
+        culture = lotharian
         religion = catholic
-        size = 170
+        size = 106
     }
 
     clergymen = {
-        culture = platinean
+        culture = lotharian
         religion = catholic
-        size = 850
+        size = 531
     }
 
     artisans = {
-        culture = platinean
+        culture = lotharian
         religion = catholic
-        size = 3332
+        size = 2082
     }
 
     soldiers = {
-        culture = platinean
+        culture = lotharian
         religion = catholic
-        size = 3740
+        size = 1870
     }
 
     farmers = {
-        culture = platinean
+        culture = lotharian
         religion = catholic
-        size = 68322
+        size = 42701
     }
 
     clergymen = {
-        culture = south_andean
+        culture = lotharian
         religion = catholic
-        size = 85
+        size = 61
     }
 
     artisans = {
-        culture = south_andean
+        culture = lotharian
         religion = catholic
-        size = 425
+        size = 307
     }
 
     soldiers = {
-        culture = south_andean
+        culture = lotharian
         religion = catholic
-        size = 85
+        size = 49
     }
 
     farmers = {
-        culture = south_andean
+        culture = lotharian
         religion = catholic
-        size = 5355
+        size = 3881
     }
 
     slaves = {
-        culture = south_andean
+        culture = lotharian
         religion = catholic
-        size = 2550
+        size = 1848
     }
 }
 #Paysandu (36000/9000 POPS)
 2345 = {
     aristocrats = {
-        culture = platinean
+        culture = lotharian
         religion = catholic
-        size = 680
+        size = 425
     }
 
     clergymen = {
-        culture = platinean
+        culture = lotharian
         religion = catholic
-        size = 254
+        size = 158
     }
 
     artisans = {
-        culture = platinean
+        culture = lotharian
         religion = catholic
-        size = 1530
+        size = 956
     }
 
     soldiers = {
-        culture = platinean
+        culture = lotharian
         religion = catholic
-        size = 3740
+        size = 1870
     }
 
     farmers = {
-        culture = platinean
+        culture = lotharian
         religion = catholic
-        size = 24734
+        size = 15458
     }
 }
 #Tacumba (12000/3000 POPS)
 2346 = {
     aristocrats = {
-        culture = platinean
+        culture = lotharian
         religion = catholic
-        size = 84
+        size = 52
     }
 
     clergymen = {
-        culture = platinean
+        culture = lotharian
         religion = catholic
-        size = 170
+        size = 106
     }
 
     artisans = {
-        culture = platinean
+        culture = lotharian
         religion = catholic
-        size = 340
+        size = 212
     }
 
     soldiers = {
-        culture = platinean
-        religion = catholic
-        size = 84
-    }
-
-    farmers = {
-        culture = platinean
-        religion = catholic
-        size = 6120
-    }
-
-    clergymen = {
-        culture = brazilian
-        religion = catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = brazilian
-        religion = catholic
-        size = 85
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = catholic
-        size = 17
-    }
-
-    farmers = {
-        culture = brazilian
-        religion = catholic
-        size = 1572
-    }
-}
-#Melo (40000/10000 POPS)
-2347 = {
-    aristocrats = {
-        culture = platinean
-        religion = catholic
-        size = 510
-    }
-
-    clergymen = {
-        culture = platinean
-        religion = catholic
-        size = 170
-    }
-
-    artisans = {
-        culture = platinean
-        religion = catholic
-        size = 1190
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = catholic
-        size = 3740
-    }
-
-    farmers = {
-        culture = platinean
-        religion = catholic
-        size = 18530
-    }
-
-    clergymen = {
-        culture = brazilian
-        religion = catholic
-        size = 85
-    }
-
-    artisans = {
-        culture = brazilian
-        religion = catholic
-        size = 255
-    }
-
-    soldiers = {
-        culture = brazilian
+        culture = lotharian
         religion = catholic
         size = 42
     }
 
     farmers = {
-        culture = brazilian
+        culture = lotharian
         religion = catholic
-        size = 4717
+        size = 3825
+    }
+
+    clergymen = {
+        culture = lotharian
+        religion = catholic
+        size = 17
+    }
+
+    artisans = {
+        culture = lotharian
+        religion = catholic
+        size = 61
+    }
+
+    soldiers = {
+        culture = lotharian
+        religion = catholic
+        size = 9
+    }
+
+    farmers = {
+        culture = lotharian
+        religion = catholic
+        size = 1138
+    }
+}
+#Melo (40000/10000 POPS)
+2347 = {
+    aristocrats = {
+        culture = lotharian
+        religion = catholic
+        size = 318
+    }
+
+    clergymen = {
+        culture = lotharian
+        religion = catholic
+        size = 106
+    }
+
+    artisans = {
+        culture = lotharian
+        religion = catholic
+        size = 743
+    }
+
+    soldiers = {
+        culture = lotharian
+        religion = catholic
+        size = 1870
+    }
+
+    farmers = {
+        culture = lotharian
+        religion = catholic
+        size = 11581
+    }
+
+    clergymen = {
+        culture = lotharian
+        religion = catholic
+        size = 61
+    }
+
+    artisans = {
+        culture = lotharian
+        religion = catholic
+        size = 183
+    }
+
+    soldiers = {
+        culture = lotharian
+        religion = catholic
+        size = 24
+    }
+
+    farmers = {
+        culture = lotharian
+        religion = catholic
+        size = 3418
     }
 }

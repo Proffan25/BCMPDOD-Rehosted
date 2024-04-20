@@ -101,13 +101,13 @@
     clergymen = {
         culture = armenian
         religion = orthodox
-        size = 10
+        size = 32
     }
 
     artisans = {
         culture = armenian
         religion = orthodox
-        size = 740
+        size = 2442
     }
 
     clergymen = {
@@ -120,6 +120,18 @@
         culture = sephardic
         religion = jewish
         size = 245
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = orthodox
+        size = 33
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = orthodox
+        size = 2442
     }
 }
 #Siyazen (56000/14000 POPS)
@@ -247,33 +259,33 @@
     }
 
     aristocrats = {
-        culture = georgian
-        religion = orthodox
-        size = 20
-    }
-
-    clergymen = {
-        culture = georgian
-        religion = orthodox
-        size = 20
-    }
-
-    artisans = {
-        culture = georgian
-        religion = orthodox
-        size = 50
-    }
-
-    soldiers = {
-        culture = georgian
+        culture = armenian
         religion = orthodox
         size = 10
     }
 
-    farmers = {
-        culture = georgian
+    clergymen = {
+        culture = armenian
         religion = orthodox
-        size = 900
+        size = 10
+    }
+
+    artisans = {
+        culture = armenian
+        religion = orthodox
+        size = 26
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = orthodox
+        size = 5
+    }
+
+    farmers = {
+        culture = armenian
+        religion = orthodox
+        size = 472
     }
 
     aristocrats = {
@@ -304,6 +316,36 @@
         culture = north_caucasian
         religion = sunni
         size = 2600
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = orthodox
+        size = 11
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = orthodox
+        size = 11
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = orthodox
+        size = 26
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = orthodox
+        size = 5
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = orthodox
+        size = 473
     }
 }
 #Ganja (68000/17000 POPS)
@@ -341,31 +383,61 @@
     aristocrats = {
         culture = armenian
         religion = orthodox
-        size = 75
+        size = 246
     }
 
     clergymen = {
         culture = armenian
         religion = orthodox
-        size = 75
+        size = 246
     }
 
     artisans = {
         culture = armenian
         religion = orthodox
-        size = 350
+        size = 1154
     }
 
     soldiers = {
         culture = armenian
         religion = orthodox
-        size = 75
+        size = 246
     }
 
     farmers = {
         culture = armenian
         religion = orthodox
-        size = 6425
+        size = 21206
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = orthodox
+        size = 246
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = orthodox
+        size = 246
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = orthodox
+        size = 1155
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = orthodox
+        size = 246
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = orthodox
+        size = 21207
     }
 }
 #Agdam (60000/15000 POPS)
@@ -403,31 +475,61 @@
     aristocrats = {
         culture = armenian
         religion = orthodox
-        size = 100
+        size = 329
     }
 
     clergymen = {
         culture = armenian
         religion = orthodox
-        size = 50
+        size = 164
     }
 
     artisans = {
         culture = armenian
         religion = orthodox
-        size = 300
+        size = 989
     }
 
     soldiers = {
         culture = armenian
         religion = orthodox
-        size = 75
+        size = 246
     }
 
     farmers = {
         culture = armenian
         religion = orthodox
-        size = 5475
+        size = 18070
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = orthodox
+        size = 330
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = orthodox
+        size = 165
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = orthodox
+        size = 990
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = orthodox
+        size = 246
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = orthodox
+        size = 18071
     }
 }
 #Lankaran (56000/14000 POPS)

@@ -1,14 +1,12 @@
-owner = RUS
-
-controller = RUS
-
+owner = PLC
+controller = PLC
 add_core = PLC
 
 #add_core = PLC
 #add_core = CPL
 trade_goods = cattle
 
-life_rating = 35
+life_rating = 39
 1861.1.1 = {
 	
 	state_building = {

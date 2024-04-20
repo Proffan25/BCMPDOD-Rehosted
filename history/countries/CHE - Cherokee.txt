@@ -4,7 +4,7 @@ religion = animist
 government = democracy
 plurality = 5.0
 nationalvalue = nv_productivity
-literacy = 0.50
+literacy = 0.01
 civilized = yes
 
 set_country_flag = new_world_nation
@@ -37,8 +37,3 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = low_schools
-
-1861.1.1 = {
-	oob = "/1861/CHE_oob.txt"
-	religion = protestant
-}

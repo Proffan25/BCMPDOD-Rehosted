@@ -5,7 +5,7 @@ religion = protestant
 government = absolute_monarchy
 plurality = 0.6
 nationalvalue = nv_productivity
-literacy = 0.2
+literacy = 0.01
 civilized = yes
 
 #set_country_flag = new_world_nation
@@ -80,13 +80,4 @@ upper_house = {
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
-}
-
-1861.1.1 = {
-	oob = "/1861/SAF_oob.txt"
-}
-1861.1.1 = {
-# Technologies
-
-#Inventions
 }

@@ -1,7 +1,7 @@
-owner = PER
-controller = PER
-add_core = PER
+owner = AZB
+controller = AZB
 add_core = AZB
+add_core = PER
 trade_goods = silk
 life_rating = 35
 

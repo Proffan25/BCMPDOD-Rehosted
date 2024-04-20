@@ -1,5 +1,5 @@
 capital = 1247
-primary_culture = bihari
+primary_culture = polar_bears
 religion = hindu
 government = absolute_monarchy
 plurality = 0.0
@@ -47,18 +47,3 @@ early_classical_theory_and_critique = 1
 
 # Inventions
 
-1861.1.1 = {
-
-foreign_training = yes_foreign_training
-foreign_weapons = yes_foreign_weapons
-
-# Technologies
-military_staff_system = 1
-flintlock_rifles = 1
-late_enlightenment_philosophy = 1
-private_banks = 1
-early_classical_theory_and_critique = 1
-
-# Inventions
-
-}

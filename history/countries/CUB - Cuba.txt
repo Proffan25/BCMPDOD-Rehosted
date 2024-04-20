@@ -5,7 +5,7 @@ religion = catholic
 government = presidential_dictatorship
 plurality = 0.5
 nationalvalue = nv_productivity
-literacy = 0.17
+literacy = 0.01
 civilized = yes
 
 set_country_flag = new_world_nation
@@ -39,10 +39,4 @@ upper_house = {
 	anarcho_liberal = 6
 	socialist = 10
 	communist = 0
-}
-
-1861.1.1 = {
-# Technologies
-
-#Inventions
 }

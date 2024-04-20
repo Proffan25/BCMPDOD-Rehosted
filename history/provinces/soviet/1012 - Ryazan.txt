@@ -1,6 +1,6 @@
-owner = RUS
-controller = RUS
-add_core = RUS
+owner = MUS
+controller = MUS
+add_core = MUS
 trade_goods = timber
-life_rating = 33
+life_rating = 35
 

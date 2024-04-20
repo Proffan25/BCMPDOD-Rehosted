@@ -1,11 +1,10 @@
 capital = 2476
 primary_culture = australian
-culture = maori
 religion = protestant
 government = absolute_monarchy
 plurality = 30
 nationalvalue = nv_productivity
-literacy = 0.7
+literacy = 0.01
 civilized = yes
 
 set_country_flag = new_world_nation
@@ -71,8 +70,6 @@ market_structure = 1
 commerce_raiders = yes
 precision_work = yes
 
-school_reforms = no_schools
-
 ruling_party = AST_liberal_2
 upper_house = {
 	fascist = 0
@@ -82,13 +79,4 @@ upper_house = {
 	anarcho_liberal = 5
 	socialist = 0
 	communist = 0
-}
-
-1861.1.1 = {
-#	oob = "/1861/AST_oob.txt"
-}
-1861.1.1 = {
-# Technologies
-
-#Inventions
 }

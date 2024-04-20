@@ -42,28 +42,6 @@ country_event = {
 		activate_technology = post_napoleonic_thought
 	}
 }
-
-country_event = {
-	id = 999003
-	title = "Tech reform flag"
-	desc = "Advanced Foreign Tactics Acquired"
-	picture = "Unite"
-	
-	trigger = {
-		civilized = no
-		foreign_training = foreign_training_two
-		NOT = { has_country_flag = foreign_tactics2_flag }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
-	option = {
-		name = "Ok"
-		set_country_flag = foreign_tactics2_flag
-	}
-}
 	
 country_event = {
 	id = 999004
@@ -128,28 +106,6 @@ country_event = {
 		name = "Ok"
 		clr_country_flag = foreign_weapons_flag
 		activate_technology = flintlock_rifles
-	}
-}
-
-country_event = {
-	id = 999007
-	title = "Tech reform flag"
-	desc = "Advanced Foreign Weapons Acquired"
-	picture = "Unite"
-	
-	trigger = {
-		civilized = no
-		foreign_weapons = foreign_weapons_two
-		NOT = { has_country_flag = foreign_weapons2_flag }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
-	option = {
-		name = "Ok"
-		set_country_flag = foreign_weapons2_flag
 	}
 }
 
@@ -220,28 +176,6 @@ country_event = {
 }
 
 country_event = {
-	id = 999011
-	title = "Tech reform flag"
-	desc = "Advanced Military Constructions Designed"
-	picture = "Unite"
-	
-	trigger = {
-		civilized = no
-		military_constructions = military_constructions_two
-		NOT = { has_country_flag = mil_con2_flag }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
-	option = {
-		name = "Ok"
-		set_country_flag = mil_con2_flag
-	}
-}
-
-country_event = {
 	id = 999012
 	title = "Tech activation"
 	desc = "Advanced Military Constructions Built"
@@ -308,28 +242,6 @@ country_event = {
 }
 
 country_event = {
-	id = 999055
-	title = "Tech reform flag"
-	desc = "Domestic Officer Training Acquired"
-	picture = "Unite"
-	
-	trigger = {
-		civilized = no
-		foreign_officers = foreign_officers_two
-		NOT = { has_country_flag = fo2_flag }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
-	option = {
-		name = "Ok"
-		set_country_flag = fo2_flag
-	}
-}
-
-country_event = {
 	id = 999056
 	title = "Tech activation"
 	desc = "Domestic Officer Training Activated"
@@ -392,28 +304,6 @@ country_event = {
 		name = "Ok"
 		clr_country_flag = at_flag
 		activate_technology = military_staff_system
-	}
-}
-
-country_event = {
-	id = 999057
-	title = "Tech reform flag"
-	desc = "Military Academies Established"
-	picture = "Unite"
-	
-	trigger = {
-		civilized = no
-		army_schools = army_schools_two
-		NOT = { has_country_flag = at2_flag }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
-	option = {
-		name = "Ok"
-		set_country_flag = at2_flag
 	}
 }
 
@@ -485,28 +375,6 @@ country_event = {
 }
 
 country_event = {
-	id = 999019
-	title = "Tech reform flag"
-	desc = "Domestic Naval Officers Acquired"
-	picture = "Unite"
-	
-	trigger = {
-		civilized = no
-		foreign_naval_officers = foreign_naval_officers_two
-		NOT = { has_country_flag = no2_flag }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
-	option = {
-		name = "Ok"
-		set_country_flag = no2_flag
-	}
-}
-
-country_event = {
 	id = 999020
 	title = "Tech activation"
 	desc = "Domestic Naval officers Activated"
@@ -574,28 +442,6 @@ country_event = {
 }
 
 country_event = {
-	id = 999023
-	title = "Tech reform flag"
-	desc = "Advanced Warships Acquired"
-	picture = "Unite"
-	
-	trigger = {
-		civilized = no
-		foreign_navies = foreign_navies_two
-		NOT = { has_country_flag = nu2_flag }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
-	option = {
-		name = "Ok"
-		set_country_flag = nu2_flag
-	}
-}
-
-country_event = {
 	id = 999024
 	title = "Tech activation"
 	desc = "Advanced Warships Activated"
@@ -614,28 +460,6 @@ country_event = {
 		name = "Ok"
 		clr_country_flag = nu2_flag
 		activate_technology = steamers
-	}
-}
-
-country_event = {
-	id = 999025
-	title = "Tech reform flag"
-	desc = "Naval Academies Established"
-	picture = "Unite"
-	
-	trigger = {
-		civilized = no
-		naval_schools = naval_schools_two
-		NOT = { has_country_flag = nsch_flag }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
-	option = {
-		name = "Ok"
-		set_country_flag = nsch_flag
 	}
 }
 

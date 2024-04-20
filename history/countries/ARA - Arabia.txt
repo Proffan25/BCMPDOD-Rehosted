@@ -1,13 +1,12 @@
 capital = 354
-primary_culture = mashriqi
+primary_culture = misri
 culture = bedouin
-culture = misri
 culture = maghrebi
 religion = sunni
 government = absolute_monarchy
 plurality = 0.2
 nationalvalue = nv_order
-literacy = 0.6
+literacy = 0.01
 civilized = yes
 
 

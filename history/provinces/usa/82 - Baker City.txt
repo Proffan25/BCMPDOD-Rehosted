@@ -1,4 +1,6 @@
-add_core = COL
+owner = DNG
+controller = DNG
+add_core = DNG
 trade_goods = timber
 life_rating = 35
 #add_core = USA

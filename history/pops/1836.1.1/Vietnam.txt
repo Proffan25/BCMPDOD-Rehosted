@@ -81,19 +81,19 @@
     }
 
     clergymen = {
-        culture = min
+        culture = vietnamese
         religion = mahayana
         size = 50
     }
 
     artisans = {
-        culture = min
+        culture = vietnamese
         religion = mahayana
         size = 1250
     }
 
     farmers = {
-        culture = min
+        culture = vietnamese
         religion = mahayana
         size = 700
     }
@@ -123,7 +123,11 @@
         religion = mahayana
         size = 2750
     }
-
+    farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 112000
+    }
     clergymen = {
         culture = vietnamese
         religion = mahayana
@@ -167,19 +171,19 @@
     }
 
     clergymen = {
-        culture = min
+        culture = vietnamese
         religion = mahayana
         size = 50
     }
 
     artisans = {
-        culture = min
+        culture = vietnamese
         religion = mahayana
         size = 1250
     }
 
     farmers = {
-        culture = min
+        culture = vietnamese
         religion = mahayana
         size = 700
     }
@@ -873,7 +877,11 @@
         religion = mahayana
         size = 3600
     }
-
+    farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 92000
+    }
     bureaucrats = {
         culture = vietnamese
         religion = mahayana
@@ -935,19 +943,19 @@
     }
 
     clergymen = {
-        culture = min
+        culture = vietnamese
         religion = mahayana
         size = 50
     }
 
     artisans = {
-        culture = min
+        culture = vietnamese
         religion = mahayana
         size = 1600
     }
 
     farmers = {
-        culture = min
+        culture = vietnamese
         religion = mahayana
         size = 1350
     }

@@ -82,7 +82,7 @@ promote_soldiers_6;Encourage Soldiers Tier 6;;;;;;;;;x;;;;
 production_focus;Production ;Production ;Produktion;;Producción ;;;;;;;;;x;;;;
 automation_focus;Encourage Automotive Industry ;Encourager l'industrie automobile ;Automobilindustrie fördern;;Potenciar industria automotriz ;;;;;;;;;x;;;;
 electrical_focus;Encourage Electrical Industry ;Encourager l'industrie électrique ;Elektroindustrie fördern;;Potenciar industria eléctrica ;;;;;;;;;x;;;;
-chemical_focus;Encourage Chemical Industry ;Encourager l'industrie chimique ;Chemische Industrie fördern;;Potenciar industria qu?ica ;;;;;;;;;x;;;;
+chemical_focus;Encourage Chemical Industry ;Encourager l'industrie chimique ;Chemische Industrie fördern;;Potenciar industria quúŠica ;;;;;;;;;x;;;;
 shipping_focus;Encourage Shipping Industry ;Encourager l'industrie navale ;Schifffahrtsindustrie fördern;;Potenciar industria naval ;;;;;;;;;x;;;;
 textile_focus;Encourage Textile Industry ;Encourager l'industrie textile ;Textilindustrie fördern;;Potenciar industria textil ;;;;;;;;;x;;;;
 wood_focus;Encourage Wood Industry ;Encourager l'industrie du bois ;Holzindustrie fördern;;Potenciar industria maderera ;;;;;;;;;x;;;;
@@ -106,12 +106,21 @@ LRG;§GLarge State Flag\n§WThis province is in a state that meets the following c
 HUG;§GHuge State Flag\n§WThis province is in a state that meets the following criteria:\n§Y1836 - 1870 §WGreater than 1M POPs\n§Y1870 - 1900 §WGreater than 1.5M POPs\n§Y1900+ §WGreater than 2M POPs\n\n§RWarscore Costs (0.5x For Great Wars)\n§WThis province is in a state that has the following costs:\n§YAcquire Core: §W32% Warscore\n§YAcquire State: §W64% Warscore\n§YDemand Concession: §W40% Warscore\n§YPlace in the Sun: §W20% Warscore\n§YFree Peoples: §W64% Warscore\n§YTake Capital: §W66% Warscore;;;;;;;;;;;;;x
 STR;§GDebug Tag;;;;;;;;;;;;;x
 STR_ADJ;Debug;;;;;;;;;;;;;x
+COM;The Commonwealth;;;;;;;;;;;;;x
+COM_ADJ;British;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 #New National Focuses;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 assimilation_focus;Increase Assimilation Rate;;;;;;;;x;;;;
 assimilation_focus_desc;Increase state assimilation rate by 200%.;;;;;;;;x;;;;
 assimilation_focus_header;Assimilation;;;;;;;;x;;;;
+#############################################;;;;;;;;;;;;;;x
+#New Units;;;;;;;;;;;;;;x
+#############################################;;;;;;;;;;;;;;x
+infantry_offensive;Offensive Infantry;;;;;;;;;;;;;x
+infantry_defensive;Defensive Infantry;;;;;;;;;;;;;x
+artillery_offensive;Offensive Artillery;;;;;;;;;;;;;x
+artillery_defensive;Defensive Artillery;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 #New Continents;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
@@ -379,7 +388,7 @@ craftsmen_fix_cooldown_desc;Craftsmen Fix Cooldown is 10 years.;;;;;;;;;;;;;x,,,
 bureaucrats_fix_cooldown;Non-Accepted Bureaucrats Decision Cooldown;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 bureaucrats_fix_cooldown_desc;Non-Accepted Bureaucrats Decision Cooldown is 10 years.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
 anti_italy_title;Form Anti-Italy;;;;;;;;;;;;;X,,,,,,,,,,,,,,;;;;;;;;;;;
-anti_italy_desc;Our regional rivals are promoting pan-Italian nationalism in an attempt to legitimize the conquest of their neighbors! We must form a counter bloc to stop their clearly expansionist policy.;;;;;;;;;;;;;X,,,,,,,,,,,,,,;;;;;;;;;;;
+anti_italy_desc;Our regional rivals are promoting pan-Italian nationalism in an attempt to legitimize the conquest of their neighbors! We must form a counter bloc to stop their clearly expansionist policy.
 italy_victory_title;Italy Has Pervailed!;;;;;;;;;;;;;X,,,,,,,,,,,,,,;;;;;;;;;;;
 italy_victory_desc;The Italian peninsula has been united! No longer will pretender elements exist within Italy.;;;;;;;;;;;;;X,,,,,,,,,,,,,,;;;;;;;;;;;
 anti_italy_victory_title;Anti-Italy Has Prevailed!;;;;;;;;;;;;;X,,,,,,,,,,,,,,;;;;;;;;;;;
@@ -704,6 +713,8 @@ world_bank_funding_desc;World Bank Funding modifier to raise the precious metals
 #############################################;;;;;;;;;;;;;;x
 #Additional States;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
+CHI_1496;Hong Kong;;;;;;;;;;;;;x;;
+CHI_1498;Macao;;;;;;;;;;;;;x;;
 DEB_1;Debug Islands;;;;;;;;;;;;;x;;
 ALD_1700;Algiers;;;;;;;;;;;;;x;;
 TUR_923;Iraq;;;;;;;;;;;;;x;;
@@ -760,6 +771,10 @@ hussar_activation_unciv;Hussar Activation (Unciv);;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;
 hussar_activation_unciv_desc;Debugging Invention to give Uncivs horse units.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
 industrial_tanneries;Industrial Tanneries;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
 industrial_tanneries_desc;In the Victorian era tanneries were often close to the abattoirs and so the skins would often arrive at the tannery fresh and unsalted. With industrial levels of meat consumption, it was inevitable that the leather industry advance as well.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+offensive_infantry_activation;Activate Offensive Infantry;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+defensive_infantry_activation;Activate Defensive Infantry;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+offensive_artillery_activation;Activate Offensive Artillery;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+defensive_artillery_activation;Activate Defensive Artillery;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
 #############################################;;;;;;;;;;;;;;x
 #Additional Triggered Modifiers;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
@@ -814,3 +829,23 @@ capitalists_3;Capitalists Bonus 3;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 capitalists_4;Capitalists Bonus 4;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 capitalists_5;Capitalists Bonus 5;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 capitalists_6;Capitalists Bonus 6;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+#############################################;;;;;;;;;;;;;;x
+#Misc Shit;;;;;;;;;;;;;;x
+#############################################;;;;;;;;;;;;;;x
+world_bank_factory_desc;World Bank;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+GHO_exclusive;World Bank Debug Party;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+give_sanctions_title;Give Sanctions;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+give_sanctions_desc;Does what it says.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+decrease_infamy_title;Decrease Infamy;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+decrease_infamy_desc;Does what it says.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+increase_infamy_title;Increase Infamy;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+increase_infamy_desc;Does what it says.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+Little Bighorn;Little Bighorn;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+Apache Raiders;Apache Raiders;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+Local native groups are raiding our settlements in $PROVINCENAME$;Local native groups are raiding our settlements in $PROVINCENAME$;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+Blast them!;Blast them!;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+Oh no!;Oh no!;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+Oh uh.;Oh uh.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+Tech reform flag;Tech reform flag;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+Tech activation;Tech activation;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+Australopithecus africanus discovered!;Australopithecus africanus discovered!;;;;;;;;;;;;;;;;;;;;;;;x;;;;

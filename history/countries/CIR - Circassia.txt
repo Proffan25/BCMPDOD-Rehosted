@@ -4,8 +4,8 @@ religion = sunni
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_productivity
-literacy = 0.04
-non_state_culture_literacy = 0.04
+literacy = 0.01
+non_state_culture_literacy = 0.01
 prestige = 1
 civilized = yes
 
@@ -58,9 +58,3 @@ late_enlightenment_philosophy = 1
 enlightenment_thought = 1
 water_wheel_power = 1
 publishing_industry = 1
-
-# Inventions
-
-1861.1.1 = {
-	oob = "/1861/CIR_oob.txt"
-}

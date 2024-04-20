@@ -1,564 +1,561 @@
 #Schweiz Region (1388000)
 #Zurich (560000/140000 POPS)
 603 = {
-	aristocrats = {
-		culture = swiss
-		religion = protestant
-		size = 450
-	}
+    aristocrats = {
+        culture = rheinish 
+        religion = protestant
+        size = 534
+    }
 
-	clergymen = {
-		culture = swiss
-		religion = protestant
-		size = 1300
-	}
+    clergymen = {
+        culture = rheinish 
+        religion = protestant
+        size = 1547
+    }
 
-	capitalists = {
-		culture = swiss
-		religion = protestant
-		size = 100
-	}
+    capitalists = {
+        culture = rheinish 
+        religion = protestant
+        size = 118
+    }
 
-	clerks = {
-		culture = swiss
-		religion = protestant
-		size = 400
-	}
+    clerks = {
+        culture = rheinish 
+        religion = protestant
+        size = 476
+    }
 
-	craftsmen = {
-		culture = swiss
-		religion = protestant
-		size = 9800
-	}
+    craftsmen = {
+        culture = rheinish 
+        religion = protestant
+        size = 11664
+    }
 
-	artisans = {
-		culture = swiss
-		religion = protestant
-		size = 3300
-	}
+    artisans = {
+        culture = rheinish 
+        religion = protestant
+        size = 3927
+    }
 
-	soldiers = {
-		culture = swiss
-		religion = protestant
-		size = 1100
-	}
+    soldiers = {
+        culture = rheinish 
+        religion = protestant
+        size = 1308
+    }
 
-	farmers = {
-		culture = swiss
-		religion = protestant
-		size = 73650
-	}
+    farmers = {
+        culture = rheinish 
+        religion = protestant
+        size = 87660
+    }
 
-	aristocrats = {
-		culture = swiss
-		religion = catholic
-		size = 250
-	}
+    aristocrats = {
+        culture = rheinish 
+        religion = catholic
+        size = 297
+    }
 
-	clergymen = {
-		culture = swiss
-		religion = catholic
-		size = 500
-	}
+    clergymen = {
+        culture = rheinish 
+        religion = catholic
+        size = 594
+    }
 
-	clerks = {
-		culture = swiss
-		religion = catholic
-		size = 200
-	}
+    clerks = {
+        culture = rheinish 
+        religion = catholic
+        size = 237
+    }
 
-	craftsmen = {
-		culture = swiss
-		religion = catholic
-		size = 5000
-	}
+    craftsmen = {
+        culture = rheinish 
+        religion = catholic
+        size = 5950
+    }
 
-	artisans = {
-		culture = swiss
-		religion = catholic
-		size = 1900
-	}
+    artisans = {
+        culture = rheinish 
+        religion = catholic
+        size = 2260
+    }
 
-	soldiers = {
-		culture = swiss
-		religion = catholic
-		size = 1100
-	}
+    soldiers = {
+        culture = rheinish 
+        religion = catholic
+        size = 1308
+    }
 
-	farmers = {
-		culture = swiss
-		religion = catholic
-		size = 41150
-	}
+    farmers = {
+        culture = rheinish 
+        religion = catholic
+        size = 48978
+    }
 }
 #Basel (272000/68000 POPS)
 604 = {
-	aristocrats = {
-		culture = swiss
-		religion = protestant
-		size = 150
-	}
+    aristocrats = {
+        culture = rheinish 
+        religion = protestant
+        size = 177
+    }
 
-	clergymen = {
-		culture = swiss
-		religion = protestant
-		size = 275
-	}
+    clergymen = {
+        culture = rheinish 
+        religion = protestant
+        size = 326
+    }
 
-	clerks = {
-		culture = swiss
-		religion = protestant
-		size = 135
-	}
+    clerks = {
+        culture = rheinish 
+        religion = protestant
+        size = 160
+    }
 
-	craftsmen = {
-		culture = swiss
-		religion = protestant
-		size = 3500
-	}
+    craftsmen = {
+        culture = rheinish 
+        religion = protestant
+        size = 4165
+    }
 
-	artisans = {
-		culture = swiss
-		religion = protestant
-		size = 2250
-	}
+    artisans = {
+        culture = rheinish 
+        religion = protestant
+        size = 2677
+    }
 
-	soldiers = {
-		culture = swiss
-		religion = protestant
-		size = 1100
-	}
+    soldiers = {
+        culture = rheinish 
+        religion = protestant
+        size = 1308
+    }
 
-	farmers = {
-		culture = swiss
-		religion = protestant
-		size = 30690
-	}
+    farmers = {
+        culture = rheinish 
+        religion = protestant
+        size = 36527
+    }
 
-	aristocrats = {
-		culture = swiss
-		religion = catholic
-		size = 150
-	}
+    aristocrats = {
+        culture = rheinish 
+        religion = catholic
+        size = 177
+    }
 
-	clergymen = {
-		culture = swiss
-		religion = catholic
-		size = 250
-	}
+    clergymen = {
+        culture = rheinish 
+        religion = catholic
+        size = 297
+    }
 
-	clerks = {
-		culture = swiss
-		religion = catholic
-		size = 130
-	}
+    clerks = {
+        culture = rheinish 
+        religion = catholic
+        size = 153
+    }
 
-	craftsmen = {
-		culture = swiss
-		religion = catholic
-		size = 1500
-	}
+    craftsmen = {
+        culture = rheinish 
+        religion = catholic
+        size = 1784
+    }
 
-	artisans = {
-		culture = swiss
-		religion = catholic
-		size = 1900
-	}
+    artisans = {
+        culture = rheinish 
+        religion = catholic
+        size = 2260
+    }
 
-	soldiers = {
-		culture = swiss
-		religion = catholic
-		size = 1100
-	}
+    soldiers = {
+        culture = rheinish 
+        religion = catholic
+        size = 1308
+    }
 
-	farmers = {
-		culture = swiss
-		religion = catholic
-		size = 24800
-	}
+    farmers = {
+        culture = rheinish 
+        religion = catholic
+        size = 29518
+    }
 }
 #Bern (352000/88000 POPS)
 605 = {
-	aristocrats = {
-		culture = swiss
-		religion = protestant
-		size = 450
-	}
+    aristocrats = {
+        culture = rheinish 
+        religion = protestant
+        size = 534
+    }
 
-	officers = {
-		culture = swiss
-		religion = protestant
-		size = 350
-	}
+    officers = {
+        culture = rheinish 
+        religion = protestant
+        size = 415
+    }
 
-	bureaucrats = {
-		culture = swiss
-		religion = protestant
-		size = 800
-	}
+    bureaucrats = {
+        culture = rheinish 
+        religion = protestant
+        size = 952
+    }
 
-	clergymen = {
-		culture = swiss
-		religion = protestant
-		size = 625
-	}
+    clergymen = {
+        culture = rheinish 
+        religion = protestant
+        size = 742
+    }
 
-	clerks = {
-		culture = swiss
-		religion = protestant
-		size = 275
-	}
+    clerks = {
+        culture = rheinish 
+        religion = protestant
+        size = 326
+    }
 
-	craftsmen = {
-		culture = swiss
-		religion = protestant
-		size = 7000
-	}
+    craftsmen = {
+        culture = rheinish 
+        religion = protestant
+        size = 8331
+    }
 
-	artisans = {
-		culture = swiss
-		religion = protestant
-		size = 3500
-	}
+    artisans = {
+        culture = rheinish 
+        religion = protestant
+        size = 4165
+    }
 
-	soldiers = {
-		culture = swiss
-		religion = protestant
-		size = 1100
-	}
+    soldiers = {
+        culture = rheinish 
+        religion = protestant
+        size = 1308
+    }
 
-	farmers = {
-		culture = swiss
-		religion = protestant
-		size = 74300
-	}
+    farmers = {
+        culture = rheinish 
+        religion = protestant
+        size = 88434
+    }
 }
 #Lucerne (204000/51000 POPS)
 606 = {
-	aristocrats = {
-		culture = swiss
-		religion = catholic
-		size = 175
-	}
+    aristocrats = {
+        culture = rheinish 
+        religion = catholic
+        size = 207
+    }
 
-	clergymen = {
-		culture = swiss
-		religion = catholic
-		size = 450
-	}
+    clergymen = {
+        culture = rheinish 
+        religion = catholic
+        size = 534
+    }
 
-	artisans = {
-		culture = swiss
-		religion = catholic
-		size = 2500
-	}
+    artisans = {
+        culture = rheinish 
+        religion = catholic
+        size = 2975
+    }
 
-	clerks = {
-		culture = swiss
-		religion = protestant
-		size = 100
-	}
-	
-	craftsmen = {
-		culture = swiss
-		religion = catholic
-		size = 2900
-	}
-	
-	soldiers = {
-		culture = swiss
-		religion = catholic
-		size = 1100
-	}
+    clerks = {
+        culture = rheinish 
+        religion = protestant
+        size = 118
+    }
 
-	farmers = {
-		culture = swiss
-		religion = catholic
-		size = 42725
-	}
+    craftsmen = {
+        culture = rheinish 
+        religion = catholic
+        size = 3451
+    }
 
+    soldiers = {
+        culture = rheinish 
+        religion = catholic
+        size = 1308
+    }
+
+    farmers = {
+        culture = rheinish 
+        religion = catholic
+        size = 50851
+    }
 }
 #Vaud & Valais Region (444000)
 #Geneva (316000/79000 POPS)
 607 = {
-	aristocrats = {
-		culture = swiss
-		religion = protestant
-		size = 200
-	}
+    aristocrats = {
+        culture = burgundian
+        religion = protestant
+        size = 200
+    }
 
-	bureaucrats = {
-		culture = swiss
-		religion = protestant
-		size = 120
-	}
+    bureaucrats = {
+        culture = burgundian
+        religion = protestant
+        size = 120
+    }
 
-	officers = {
-		culture = swiss
-		religion = protestant
-		size = 60
-	}
+    officers = {
+        culture = burgundian
+        religion = protestant
+        size = 60
+    }
 
-	clergymen = {
-		culture = swiss
-		religion = protestant
-		size = 300
-	}
+    clergymen = {
+        culture = burgundian
+        religion = protestant
+        size = 300
+    }
 
-	artisans = {
-		culture = swiss
-		religion = protestant
-		size = 3000
-	}
+    artisans = {
+        culture = burgundian
+        religion = protestant
+        size = 3000
+    }
 
-	clerks = {
-		culture = swiss
-		religion = protestant
-		size = 100
-	}
-	
-	craftsmen = {
-		culture = swiss
-		religion = protestant
-		size = 2500
-	}
-	
-	soldiers = {
-		culture = swiss
-		religion = protestant
-		size = 1100
-	}
+    clerks = {
+        culture = burgundian
+        religion = protestant
+        size = 100
+    }
 
-	farmers = {
-		culture = swiss
-		religion = protestant
-		size = 35720
-	}
+    craftsmen = {
+        culture = burgundian
+        religion = protestant
+        size = 2500
+    }
 
-	aristocrats = {
-		culture = swiss
-		religion = catholic
-		size = 300
-	}
+    soldiers = {
+        culture = burgundian
+        religion = protestant
+        size = 1100
+    }
 
-	bureaucrats = {
-		culture = swiss
-		religion = catholic
-		size = 80
-	}
+    farmers = {
+        culture = burgundian
+        religion = protestant
+        size = 35720
+    }
 
-	officers = {
-		culture = swiss
-		religion = catholic
-		size = 50
-	}
+    aristocrats = {
+        culture = burgundian
+        religion = catholic
+        size = 300
+    }
 
-	clergymen = {
-		culture = swiss
-		religion = catholic
-		size = 350
-	}
+    bureaucrats = {
+        culture = burgundian
+        religion = catholic
+        size = 80
+    }
 
-	artisans = {
-		culture = swiss
-		religion = catholic
-		size = 3000
-	}
+    officers = {
+        culture = burgundian
+        religion = catholic
+        size = 50
+    }
 
-	clerks = {
-		culture = swiss
-		religion = catholic
-		size = 100
-	}
-	
-	craftsmen = {
-		culture = swiss
-		religion = catholic
-		size = 1500
-	}
-	
-	soldiers = {
-		culture = swiss
-		religion = catholic
-		size = 1100
-	}
+    clergymen = {
+        culture = burgundian
+        religion = catholic
+        size = 350
+    }
 
-	farmers = {
-		culture = swiss
-		religion = catholic
-		size = 29630
-	}
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 3000
+    }
+
+    clerks = {
+        culture = burgundian
+        religion = catholic
+        size = 100
+    }
+
+    craftsmen = {
+        culture = burgundian
+        religion = catholic
+        size = 1500
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = burgundian
+        religion = catholic
+        size = 29630
+    }
 }
 #Neuchatel (56000/14000 POPS)
 608 = {
-	aristocrats = {
-		culture = swiss
-		religion = protestant
-		size = 100
-	}
+    aristocrats = {
+        culture = burgundian
+        religion = protestant
+        size = 100
+    }
 
-	clergymen = {
-		culture = swiss
-		religion = protestant
-		size = 125
-	}
+    clergymen = {
+        culture = burgundian
+        religion = protestant
+        size = 125
+    }
 
-	artisans = {
-		culture = swiss
-		religion = protestant
-		size = 3000
-	}
+    artisans = {
+        culture = burgundian
+        religion = protestant
+        size = 3000
+    }
 
-	soldiers = {
-		culture = swiss
-		religion = protestant
-		size = 150
-	}
+    soldiers = {
+        culture = burgundian
+        religion = protestant
+        size = 150
+    }
 
-	farmers = {
-		culture = swiss
-		religion = protestant
-		size = 10625
-	}
+    farmers = {
+        culture = burgundian
+        religion = protestant
+        size = 10625
+    }
 }
 #Sitten (72000/18000) POPS
 609 = {
-	aristocrats = {
-		culture = swiss
-		religion = catholic
-		size = 150
-	}
+    aristocrats = {
+        culture = north_italian
+        religion = catholic
+        size = 150
+    }
 
-	clergymen = {
-		culture = swiss
-		religion = catholic
-		size = 175
-	}
+    clergymen = {
+        culture = north_italian
+        religion = catholic
+        size = 175
+    }
 
-	artisans = {
-		culture = swiss
-		religion = catholic
-		size = 1100
-	}
+    artisans = {
+        culture = north_italian
+        religion = catholic
+        size = 1100
+    }
 
-	soldiers = {
-		culture = swiss
-		religion = catholic
-		size = 1100
-	}
+    soldiers = {
+        culture = north_italian
+        religion = catholic
+        size = 1100
+    }
 
-	farmers = {
-		culture = swiss
-		religion = catholic
-		size = 15675
-	}
-
+    farmers = {
+        culture = north_italian
+        religion = catholic
+        size = 15675
+    }
 }
 #Ticino & Grisons Region (188000)
 #Lugano (108000/27000 POPS)
 2568 = {
-	aristocrats = {
-		culture = swiss
-		religion = catholic
-		size = 250
-	}
+    aristocrats = {
+        culture = north_italian
+        religion = catholic
+        size = 250
+    }
 
-	bureaucrats = {
-		culture = swiss
-		religion = catholic
-		size = 100
-	}
+    bureaucrats = {
+        culture = north_italian
+        religion = catholic
+        size = 100
+    }
 
-	officers = {
-		culture = swiss
-		religion = catholic
-		size = 50
-	}
+    officers = {
+        culture = north_italian
+        religion = catholic
+        size = 50
+    }
 
-	clergymen = {
-		culture = swiss
-		religion = catholic
-		size = 275
-	}
+    clergymen = {
+        culture = north_italian
+        religion = catholic
+        size = 275
+    }
 
-	artisans = {
-		culture = swiss
-		religion = catholic
-		size = 1250
-	}
+    artisans = {
+        culture = north_italian
+        religion = catholic
+        size = 1250
+    }
 
-	soldiers = {
-		culture = swiss
-		religion = catholic
-		size = 1100
-	}
+    soldiers = {
+        culture = north_italian
+        religion = catholic
+        size = 1100
+    }
 
-	farmers = {
-		culture = swiss
-		religion = catholic
-		size = 24075
-	}
+    farmers = {
+        culture = north_italian
+        religion = catholic
+        size = 24075
+    }
 }
 #Chur (80000/20000 POPS)
 611 = {
-	aristocrats = {
-		culture = swiss
-		religion = catholic
-		size = 100
-	}
+    aristocrats = {
+        culture = rheinish 
+        religion = catholic
+        size = 118
+    }
 
-	clergymen = {
-		culture = swiss
-		religion = catholic
-		size = 275
-	}
+    clergymen = {
+        culture = rheinish 
+        religion = catholic
+        size = 326
+    }
 
-	artisans = {
-		culture = swiss
-		religion = catholic
-		size = 650
-	}
+    artisans = {
+        culture = rheinish 
+        religion = catholic
+        size = 773
+    }
 
-	soldiers = {
-		culture = swiss
-		religion = catholic
-		size = 1100
-	}
+    soldiers = {
+        culture = rheinish 
+        religion = catholic
+        size = 1308
+    }
 
-	farmers = {
-		culture = swiss
-		religion = catholic
-		size = 11275
-	}
+    farmers = {
+        culture = rheinish 
+        religion = catholic
+        size = 13419
+    }
 
-	aristocrats = {
-		culture = swiss
-		religion = protestant
-		size = 50
-	}
+    aristocrats = {
+        culture = rheinish 
+        religion = protestant
+        size = 58
+    }
 
-	clergymen = {
-		culture = swiss
-		religion = protestant
-		size = 50
-	}
+    clergymen = {
+        culture = rheinish 
+        religion = protestant
+        size = 58
+    }
 
-	artisans = {
-		culture = swiss
-		religion = protestant
-		size = 350
-	}
+    artisans = {
+        culture = rheinish 
+        religion = protestant
+        size = 415
+    }
 
-	soldiers = {
-		culture = swiss
-		religion = protestant
-		size = 75
-	}
+    soldiers = {
+        culture = rheinish 
+        religion = protestant
+        size = 88
+    }
 
-	farmers = {
-		culture = swiss
-		religion = protestant
-		size = 6475
-	}
-
+    farmers = {
+        culture = rheinish 
+        religion = protestant
+        size = 7705
+    }
 }

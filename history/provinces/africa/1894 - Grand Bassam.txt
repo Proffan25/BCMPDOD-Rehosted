@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = DUA
+controller = DUA
 naval_base = 1
 trade_goods = cattle
 life_rating = 35

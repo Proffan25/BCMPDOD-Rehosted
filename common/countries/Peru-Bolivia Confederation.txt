@@ -199,30 +199,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Alto Per・ Bolivia Charcas "Cristo de la Concordia" "General Sucre" Iscanahuaya Samapaita "Seis de Agosto" "Sim Bolivar" Tricolor
+		Alto Bolivia Charcas Cristo de la Concordia General Sucre Iscanahuaya Samapaita de Agosto Sim Bolivar Tricolor
 	}
 	ironclad = {
 		Altiplano Andes Independencia J侊iter Neptuno Occidental Oriental Plut Real Republiquetas
 	}
 	manowar = {
-		Confederaci Congreso "La F疝lete" Libertad "Mar僘 Luisa" Morro "San Bartolom・ "San Francisco" "Santo Tom疽" Yanacocha
+		Confederaci Congreso La F疝lete Libertad Mar Luisa Morro San Bartolom San Francisco Santo Tom Yanacocha
 	}
 	cruiser = {
-		Cobija Desaguadero Illampu Illimani Madera Mamore "Nevado Sajada" Poop・Titicaca Trinidad
+		Cobija Desaguadero Illampu Illimani Madera Mamore Trinidad
 	}
 	frigate = {
-		Antofagasta Beni Chuquisaca Cochabamba "La Paz" Oruro Pando Potos・"Santa Cruz" Tarija
+		Antofagasta Beni Chuquisaca Cochabamba Oruro Pando Tarija
 	}
 	monitor = {
-		Constituci "Gran Chaco" Inca Libertador Mercurio Saturno Tihauano Urano Vulcano Yungas
+		Constituci Gran Chaco Inca Libertador Mercurio Saturno Tihauano Urano Vulcano Yungas
 	}
 	clipper_transport = { 
-		"ﾁguila Roja" Ana Aymara Beatriz Carmen "Cdor Negro" Mar僘 Marta Raquel Salom・		"San Antonio" "San Judas" "San Pablo" Sirena Tahuamanu Tetis Trit Vencedora Victoria Voladora
+		ﾁguila Roja Ana Aymara Beatriz Carmen Cdor Negro Mar Marta Raquel Salom・	San Antonio San Judas San Pablo Sirena Tahuamanu Tetis Trit Vencedora Victoria Voladora
 	}
 	steam_transport = { 
-		"ﾁguila Roja" Ana Aymara Beatriz Carmen "Cdor Negro" Mar僘 Marta Raquel Salom・		"San Antonio" "San Judas" "San Pablo" Sirena Tahuamanu Tetis Trit Vencedora Victoria Voladora
+		ﾁguila Roja Ana Aymara Beatriz Carmen Cdor Negro Mar Marta Raquel Salom・	San Antonio San Judas San Pablo Sirena Tahuamanu Tetis Trit Vencedora Victoria Voladora
 	}
 	commerce_raider = {
-		Audaz "Castro Rojas" Destructora Fortaleza "Madre de Dios" Manoa Manu Pando Sorata Temor
+		Audaz Castro Rojas Destructora Fortaleza Madre de Dios Manoa Manu Pando Sorata Temor
 	}
 }

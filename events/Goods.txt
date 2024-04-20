@@ -997,6 +997,7 @@ province_event = {
 		or = {
 			province_id = 129		# Oklahoma City
 			province_id = 1680		# Fez
+			province_id = 1929
 		}
 		not = { trade_goods = oil }
 		OR = {
@@ -1041,6 +1042,7 @@ province_event = {
 	trigger = {
 		year = 1894
 		province_id = 2173		# Queretaro
+		province_od = 1731
 		not = { trade_goods = oil }
 		OR = {
 			owner = {

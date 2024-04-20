@@ -3,211 +3,211 @@
 #Quito (304000/76000 POPS)
 2279 = {
     aristocrats = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 2635
+        size = 3667
     }
 
     bureaucrats = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 340
+        size = 472
     }
 
     officers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 255
+        size = 352
     }
 
     clergymen = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 1020
+        size = 1418
     }
 
     artisans = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 10030
+        size = 13960
     }
 
     soldiers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 1870
+        size = 3251
     }
 
     farmers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 36720
+        size = 51112
     }
 
     clergymen = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 297
+        size = 412
     }
 
     artisans = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 6970
+        size = 9700
     }
 
     soldiers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 1870
+        size = 3251
     }
 
     farmers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 67532
+        size = 94003
     }
 }
 #Zamora (176000/44000 POPS)
 2283 = {
     aristocrats = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 1530
+        size = 2128
     }
 
     clergymen = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 467
+        size = 648
     }
 
     artisans = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 765
+        size = 1063
     }
 
     soldiers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 170
+        size = 293
     }
 
     farmers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 12367
+        size = 17212
     }
 
     clergymen = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 297
+        size = 412
     }
 
     artisans = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 2975
+        size = 4140
     }
 
     soldiers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 1870
+        size = 3251
     }
 
     farmers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 54017
+        size = 75189
     }
 }
 #Tena (32000/8000 POPS)
 2284 = {
     aristocrats = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 170
+        size = 235
     }
 
     clergymen = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 127
+        size = 175
     }
 
     artisans = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 255
+        size = 352
     }
 
     soldiers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 85
+        size = 146
     }
 
     farmers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 4462
+        size = 6208
     }
 
     clergymen = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 42
+        size = 57
     }
 
     artisans = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 170
+        size = 235
     }
 
     soldiers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 42
+        size = 71
     }
 
     farmers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 3145
+        size = 4377
     }
 
     aristocrats = {
-        culture = brazilian
+        culture = quechua
         religion = animist
-        size = 85
+        size = 117
     }
 
     clergymen = {
-        culture = brazilian
+        culture = quechua
         religion = animist
-        size = 127
+        size = 175
     }
 
     artisans = {
-        culture = brazilian
+        culture = quechua
         religion = animist
-        size = 255
+        size = 352
     }
 
     soldiers = {
-        culture = brazilian
+        culture = quechua
         religion = animist
-        size = 42
+        size = 71
     }
 
     farmers = {
-        culture = brazilian
+        culture = quechua
         religion = animist
-        size = 4590
+        size = 6388
     }
 }
 #Guayaquil Region (328000)
@@ -215,193 +215,193 @@
 #Guayaquil (80000/20000 POPS)
 2280 = {
     aristocrats = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 765
+        size = 1063
     }
 
     bureaucrats = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 170
+        size = 235
     }
 
     officers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 170
+        size = 235
     }
 
     clergymen = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 297
+        size = 412
     }
 
     artisans = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 1445
+        size = 2011
     }
 
     soldiers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 297
+        size = 515
     }
 
     farmers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 25755
+        size = 35848
     }
 
     clergymen = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 85
+        size = 117
     }
 
     artisans = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 255
+        size = 352
     }
 
     soldiers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 85
+        size = 146
     }
 
     farmers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 3060
+        size = 4257
     }
 
     slaves = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 1870
+        size = 2601
     }
 }
 #Esmereldas (88000/22000 POPS)
 2281 = {
     aristocrats = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 765
+        size = 1063
     }
 
     clergymen = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 297
+        size = 412
     }
 
     artisans = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 595
+        size = 828
     }
 
     soldiers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 127
+        size = 218
     }
 
     farmers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 11560
+        size = 16089
     }
 
     clergymen = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 127
+        size = 175
     }
 
     artisans = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 1275
+        size = 1773
     }
 
     soldiers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 255
+        size = 440
     }
 
     farmers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 10242
+        size = 14256
     }
 
     slaves = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 13600
+        size = 18931
     }
 }
 #Loja (160000/40000 POPS)
 2282 = {
     aristocrats = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 1402
+        size = 1951
     }
 
     clergymen = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 467
+        size = 648
     }
 
     artisans = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 1275
+        size = 1773
     }
 
     soldiers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 255
+        size = 440
     }
 
     farmers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 22100
+        size = 30763
     }
 
     clergymen = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 170
+        size = 235
     }
 
     artisans = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 2125
+        size = 2956
     }
 
     soldiers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 425
+        size = 737
     }
 
     farmers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 39780
+        size = 55372
     }
 }
 #Galapagos Region (300)
@@ -409,32 +409,32 @@
 #Galapagos (300/75 POPS)
 2285 = {
     bureaucrats = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 1
+        size = 0
     }
 
     clergymen = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 1
+        size = 0
     }
 
     artisans = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 5
+        size = 2
     }
 
     soldiers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 42
+        size = 30
     }
 
     farmers = {
-        culture = north_andean
+        culture = quechua
         religion = catholic
-        size = 76
+        size = 44
     }
 }

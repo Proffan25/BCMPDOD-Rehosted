@@ -5,8 +5,8 @@ religion = sunni
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.05
-non_state_culture_literacy = 0.05
+literacy = 0.01
+non_state_culture_literacy = 0.01
 
 #Political Reforms
 slavery = no_slavery
@@ -44,27 +44,3 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "HYD_oob.txt"
-
-1861.1.1 = {
-	oob = "/1861/HYD_oob.txt"
-	literacy = 0.10
-	non_state_culture_literacy = 0.10
-
-	#Economic Reforms
-	land_reform = yes_land_reform
-	industrial_construction = yes_western_science
-
-	#Military Reforms
-	foreign_training = yes_foreign_training
-	foreign_weapons = yes_foreign_weapons
-	foreign_officers = yes_foreign_officers
-
-	#Technologies
-	post_napoleonic_thought = 1
-	flintlock_rifles = 1
-	army_command_principle = 1
-	water_wheel_power = 1
-	mechanized_mining = 1
-	late_enlightenment_philosophy = 1
-	basic_chemistry = 1
-}

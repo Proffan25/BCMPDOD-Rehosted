@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = DUA
+controller = DUA
 add_core = WIF
 trade_goods = cotton
 life_rating = 35

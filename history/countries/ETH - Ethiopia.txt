@@ -1,12 +1,11 @@
 capital = 1852
-primary_culture = amhara
-culture = oromo
+primary_culture = polar_bears
 religion = coptic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.07
-non_state_culture_literacy = 0.05
+literacy = 0.01
+non_state_culture_literacy = 0.01
 
 set_country_flag = conquerable_1865
 
@@ -46,31 +45,3 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "ETH_oob.txt"
-1855.1.1 = {
-	decision = become_negusa_nagast
-}
-
-1861.1.1 = {
-	prestige = 5
-	oob = "/1861/ETH_oob.txt"
-
-	set_country_flag = is_negusa_nagast
-
-	literacy = 0.10
-	non_state_culture_literacy = 0.05
-
-	#Economic Reforms
-	admin_reform = yes_admin_reform
-	industrial_construction = yes_western_science
-
-	#Military Reforms
-	foreign_officers = yes_foreign_officers
-	foreign_training = yes_foreign_training
-	foreign_weapons = yes_foreign_weapons
-
-	#Technologies
-	flintlock_rifles = 1
-	bronze_muzzle_loaded_artillery = 1
-	no_standard = 1
-	late_enlightenment_philosophy = 1
-}

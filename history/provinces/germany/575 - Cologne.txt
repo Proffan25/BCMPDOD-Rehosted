@@ -1,13 +1,14 @@
-owner = PRU
-controller = PRU
-add_core = PRU
+owner = BRG
+controller = BRG
+add_core = BRG
+add_core = RHI
 #add_core = GER
 trade_goods = coal
 life_rating = 40
 fort = 1
 state_building = {
 	level = 1
-	building = fabric_factory
+	building = artillery_factory
 	upgrade = yes
 }
 state_building = {

@@ -5,7 +5,7 @@ religion = protestant
 government = democracy
 plurality = 0.5
 nationalvalue = nv_productivity
-literacy = 0.50
+literacy = 0.01
 civilized = yes
 
 set_country_flag = new_world_nation
@@ -39,13 +39,4 @@ upper_house = {
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
-}
-
-1861.1.1 = {
-	oob = "/1861/CAL_oob.txt"
-}
-1861.1.1 = {
-# Technologies
-
-#Inventions
 }

@@ -6,8 +6,8 @@ religion = protestant
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_equality
-literacy = 0.05
-non_state_culture_literacy = 0.02
+literacy = 0.01
+non_state_culture_literacy = d:\Steam\steamapps\common\Victoria 2\mod\TheManySeas1.04\events\Literacy Setup.txt
 is_releasable_vassal = no
 
 # Starting Consciousness
@@ -51,23 +51,3 @@ late_enlightenment_philosophy = 1
 water_wheel_power = 1
 
 # Inventions
-
-1861.1.1 = {
-	oob = "/1861/TPG_oob.txt"
-	literacy = 0.07
-	non_state_culture_literacy = 0.04
-
-	#Military Reforms
-	foreign_training = yes_foreign_training
-	foreign_weapons = yes_foreign_weapons
-	military_constructions = yes_military_constructions
-
-	#Economic Reforms
-	industrial_construction = yes_western_science
-
-	#Technologies
-	post_napoleonic_thought = 1
-	flintlock_rifles = 1
-	bronze_muzzle_loaded_artillery = 1
-	late_enlightenment_philosophy = 1
-}

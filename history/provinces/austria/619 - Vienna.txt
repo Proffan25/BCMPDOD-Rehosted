@@ -2,7 +2,7 @@ owner = AUS
 controller = AUS
 add_core = AUS
 trade_goods = grain
-life_rating = 35
+life_rating = 40
 fort = 1
 #state_building = {
 #	level = 1
@@ -10,7 +10,7 @@ fort = 1
 #	upgrade = yes
 #}
 state_building = {
-	level = 3
+	level = 2
 	building = machine_parts_factory
 	upgrade = yes
 }
@@ -20,8 +20,18 @@ state_building = {
 	upgrade = yes
 }
 state_building = {
-	level = 2
+	level = 1
 	building = cement_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 3
+	building = artillery_factory
 	upgrade = yes
 }
 1861.1.1 = { railroad = 2 }

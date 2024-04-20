@@ -47,21 +47,21 @@
 #Aruba (2400/600 POPS)
 2235 = {
     clergymen = {
-        culture = afro_caribbean
+        culture = granadan
         religion = catholic
-        size = 25
+        size = 58
     }
 
     artisans = {
-        culture = afro_caribbean
+        culture = granadan
         religion = catholic
-        size = 25
+        size = 58
     }
 
     slaves = {
-        culture = afro_caribbean
+        culture = granadan
         religion = catholic
-        size = 550
+        size = 1340
     }
 }
 #Saint Martin (4800/1200 POPS)

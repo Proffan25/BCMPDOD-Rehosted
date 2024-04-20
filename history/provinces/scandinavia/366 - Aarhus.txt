@@ -1,7 +1,11 @@
-owner = DEN
-controller = DEN
-add_core = DEN
+owner = SCA
+controller = SCA
+add_core = SCA
 #add_core = SCA
 trade_goods = grain
 life_rating = 35
-
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}

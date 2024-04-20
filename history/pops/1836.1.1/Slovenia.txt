@@ -5,61 +5,61 @@
     aristocrats = {
         culture = south_german
         religion = catholic
-        size = 750
+        size = 920
     }
 
     bureaucrats = {
         culture = south_german
         religion = catholic
-        size = 1250
+        size = 1534
     }
 
     clergymen = {
         culture = south_german
         religion = catholic
-        size = 50
+        size = 58
     }
 
     artisans = {
         culture = south_german
         religion = catholic
-        size = 1100
+        size = 1350
     }
 
     soldiers = {
         culture = south_german
         religion = catholic
-        size = 50
+        size = 36
     }
 
     farmers = {
         culture = south_german
         religion = catholic
-        size = 3150
+        size = 3871
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 450
+        size = 550
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 1600
+        size = 1965
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 450
+        size = 348
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 43500
+        size = 53485
     }
 }
 #Carniola Region (460000)
@@ -69,43 +69,43 @@
     aristocrats = {
         culture = slovene
         religion = catholic
-        size = 825
+        size = 1011
     }
 
     bureaucrats = {
         culture = slovene
         religion = catholic
-        size = 1125
+        size = 1381
     }
 
     officers = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 121
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 700
+        size = 859
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 4000
+        size = 4917
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 1100
+        size = 854
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 63150
+        size = 77646
     }
 }
 #Postojna (180000/45000 POPS)
@@ -141,13 +141,13 @@
     }
 
     clergymen = {
-        culture = south_german
+        culture = venetian
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = south_german
+        culture = venetian
         religion = catholic
         size = 1975
     }

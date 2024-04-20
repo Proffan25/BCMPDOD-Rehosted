@@ -1,6 +1,6 @@
-owner = PAP
-controller = PAP
-add_core = PAP
+owner = FRR
+controller = FRR
+add_core = FRR
 #add_core = ITA
 
 trade_goods = wool

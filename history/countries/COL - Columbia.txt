@@ -6,7 +6,7 @@ religion = protestant
 government = democracy
 plurality = 0.5
 nationalvalue = nv_productivity
-literacy = 0.6
+literacy = 0.01
 civilized = yes
 prestige = 1
 
@@ -41,13 +41,4 @@ upper_house = {
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
-}
-
-1861.1.1 = {
-	oob = "/1861/COL_oob.txt"
-}
-1861.1.1 = {
-# Technologies
-
-#Inventions
 }

@@ -102,7 +102,8 @@
 1643;1087;sea;2831;0;Sakhalin Strait
 1664;1666;land;2843;0;Matsuyama Strait
 1667;1659;land;2843;0;Setto Strait
-#1661;1637;sea;2829;0;Tsushima Strait #Nagasaki to Cheju
+1661;1637;sea;2829;0;Tsushima Strait #Nagasaki to Cheju
+1635;1637;sea;2829;0;Kwanju Strait #Kwangju to Cheju
 #Philippines
 1455;1458;sea;2848;0;Isla Verde passages #Manila to Mindoro
 1458;1459;sea;2848;0;Mindoro Bay #Mindoro to Palawan

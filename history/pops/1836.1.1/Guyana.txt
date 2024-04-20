@@ -2,184 +2,183 @@
 #Ruled by Britain 1836
 #Georgetown (58600/14650 POPS)
 2239 = {
-	aristocrats = {
-		culture = british
-		religion = protestant
-		size = 100
-	}
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 100
+    }
 
-	bureaucrats = {
-		culture = british
-		religion = protestant
-		size = 50
-	}
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 50
+    }
 
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 25
+    }
 
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 350
-	}
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 350
+    }
 
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
+    soldiers = {
+        culture = granadan
+        religion = protestant
+        size = 31
+    }
 
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 100
-	}
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 100
+    }
 
-	clergymen = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 75
-	}
+    clergymen = {
+        culture = granadan
+        religion = protestant
+        size = 181
+    }
 
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 700
-	}
+    artisans = {
+        culture = granadan
+        religion = protestant
+        size = 1707
+    }
 
-	soldiers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 150
-	}
+    soldiers = {
+        culture = granadan
+        religion = protestant
+        size = 453
+    }
 
-	farmers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 13075
-	}
+    farmers = {
+        culture = granadan
+        religion = protestant
+        size = 31918
+    }
 }
 #Mahdia (4000/1000 POPS)
 2242 = {
-	aristocrats = {
-		culture = brazilian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = granadan
+        religion = animist
+        size = 22
+    }
 
-	clergymen = {
-		culture = brazilian
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = granadan
+        religion = animist
+        size = 58
+    }
 
-	artisans = {
-		culture = brazilian
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = granadan
+        religion = animist
+        size = 120
+    }
 
-	soldiers = {
-		culture = brazilian
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = granadan
+        religion = animist
+        size = 41
+    }
 
-	farmers = {
-		culture = brazilian
-		religion = animist
-		size = 900
-	}
+    farmers = {
+        culture = granadan
+        religion = animist
+        size = 2196
+    }
 }
 #Essequibo (33000/8250 POPS)
 2243 = {
-	aristocrats = {
-		culture = british
-		religion = protestant
-		size = 50
-	}
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 50
+    }
 
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 25
+    }
 
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 100
-	}
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 100
+    }
 
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
+    soldiers = {
+        culture = granadan
+        religion = protestant
+        size = 31
+    }
 
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 50
-	}
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 50
+    }
 
-	clergymen = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 75
-	}
+    clergymen = {
+        culture = granadan
+        religion = protestant
+        size = 181
+    }
 
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 300
-	}
+    artisans = {
+        culture = granadan
+        religion = protestant
+        size = 731
+    }
 
-	soldiers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 75
-	}
+    soldiers = {
+        culture = granadan
+        religion = protestant
+        size = 226
+    }
 
-	farmers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 8550
-	}
+    farmers = {
+        culture = granadan
+        religion = protestant
+        size = 20871
+    }
 }
 #Biloka (4000/1000 POPS)
 1979 = {
-	aristocrats = {
-		culture = brazilian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = granadan
+        religion = animist
+        size = 22
+    }
 
-	clergymen = {
-		culture = brazilian
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = granadan
+        religion = animist
+        size = 58
+    }
 
-	artisans = {
-		culture = brazilian
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = granadan
+        religion = animist
+        size = 120
+    }
 
-	soldiers = {
-		culture = brazilian
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = granadan
+        religion = animist
+        size = 41
+    }
 
-	farmers = {
-		culture = brazilian
-		religion = animist
-		size = 900
-	}
-
+    farmers = {
+        culture = granadan
+        religion = animist
+        size = 2196
+    }
 }

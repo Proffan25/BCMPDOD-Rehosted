@@ -1,7 +1,4 @@
-owner = BOL
-controller = BOL
-add_core = BOL
-add_core = BRZ
+
 trade_goods = rubber
 life_rating = 25
 

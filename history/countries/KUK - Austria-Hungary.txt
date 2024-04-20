@@ -1,13 +1,12 @@
 capital = 619
-primary_culture = south_german
-culture = hungarian
-culture = czech
+primary_culture = hungarian
+culture = south_german
 culture = slovak
 religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.25
+literacy = 0.01
 civilized = yes
 is_releasable_vassal = no
 
@@ -39,12 +38,4 @@ upper_house = {
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
-}
-1861.1.1 = {
-	oob = "/1861/KUK_oob.txt"
-}
-1861.1.1 = {
-# Technologies
-
-#Inventions
 }

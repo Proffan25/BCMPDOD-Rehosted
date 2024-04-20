@@ -5,67 +5,67 @@
     aristocrats = {
         culture = central_american
         religion = catholic
-        size = 1020
+        size = 1275
     }
 
     bureaucrats = {
         culture = central_american
         religion = catholic
-        size = 297
+        size = 371
     }
 
     officers = {
         culture = central_american
         religion = catholic
-        size = 255
+        size = 318
     }
 
     clergymen = {
         culture = central_american
         religion = catholic
-        size = 467
+        size = 583
     }
 
     artisans = {
         culture = central_american
         religion = catholic
-        size = 2295
+        size = 2868
     }
 
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 1870
+        size = 2921
     }
 
     farmers = {
         culture = central_american
         religion = catholic
-        size = 39695
+        size = 49618
     }
 
     clergymen = {
-        culture = mayan
+        culture = central_american
         religion = catholic
-        size = 225
+        size = 281
     }
 
     artisans = {
-        culture = mayan
+        culture = central_american
         religion = catholic
-        size = 2100
+        size = 2625
     }
 
     soldiers = {
-        culture = mayan
+        culture = central_american
         religion = catholic
-        size = 425
+        size = 663
     }
 
     farmers = {
-        culture = mayan
+        culture = central_american
         religion = catholic
-        size = 39250
+        size = 49062
     }
 }
 #Quetzaltenango (112000/28000 POPS)
@@ -73,55 +73,55 @@
     aristocrats = {
         culture = central_american
         religion = catholic
-        size = 297
+        size = 371
     }
 
     clergymen = {
         culture = central_american
         religion = catholic
-        size = 127
+        size = 158
     }
 
     artisans = {
         culture = central_american
         religion = catholic
-        size = 595
+        size = 743
     }
 
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 1870
+        size = 2921
     }
 
     farmers = {
         culture = central_american
         religion = catholic
-        size = 9180
+        size = 81475
     }
 
     clergymen = {
-        culture = mayan
+        culture = central_american
         religion = catholic
-        size = 100
+        size = 125
     }
 
     artisans = {
-        culture = mayan
+        culture = central_american
         religion = catholic
-        size = 1050
+        size = 1312
     }
 
     soldiers = {
-        culture = mayan
+        culture = central_american
         religion = catholic
-        size = 225
+        size = 351
     }
 
     farmers = {
-        culture = mayan
+        culture = central_american
         religion = catholic
-        size = 19625
+        size = 24531
     }
 }
 #Puerto Barrios (72000/18000 POPS)
@@ -129,55 +129,55 @@
     aristocrats = {
         culture = central_american
         religion = catholic
-        size = 255
+        size = 318
     }
 
     clergymen = {
         culture = central_american
         religion = catholic
-        size = 85
+        size = 106
     }
 
     artisans = {
         culture = central_american
         religion = catholic
-        size = 510
+        size = 637
     }
 
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 127
+        size = 197
     }
 
     farmers = {
         culture = central_american
         religion = catholic
-        size = 9222
+        size = 11527
     }
 
     clergymen = {
-        culture = mayan
+        culture = central_american
         religion = catholic
-        size = 50
+        size = 62
     }
 
     artisans = {
-        culture = mayan
+        culture = central_american
         religion = catholic
-        size = 600
+        size = 750
     }
 
     soldiers = {
-        culture = mayan
+        culture = central_american
         religion = catholic
-        size = 125
+        size = 195
     }
 
     farmers = {
-        culture = mayan
+        culture = central_american
         religion = catholic
-        size = 11225
+        size = 14031
     }
 }
 #Sayaxche (16000/4000 POPS)
@@ -185,54 +185,54 @@
     aristocrats = {
         culture = central_american
         religion = catholic
-        size = 25
+        size = 31
     }
 
     clergymen = {
         culture = central_american
         religion = catholic
-        size = 42
+        size = 52
     }
 
     artisans = {
         culture = central_american
         religion = catholic
-        size = 85
+        size = 106
     }
 
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 17
+        size = 26
     }
 
     farmers = {
         culture = central_american
         religion = catholic
-        size = 1530
+        size = 1912
     }
 
     clergymen = {
-        culture = mayan
+        culture = central_american
         religion = catholic
-        size = 25
+        size = 31
     }
 
     artisans = {
-        culture = mayan
+        culture = central_american
         religion = catholic
-        size = 150
+        size = 187
     }
 
     soldiers = {
-        culture = mayan
+        culture = central_american
         religion = catholic
-        size = 25
+        size = 38
     }
 
     farmers = {
-        culture = mayan
+        culture = central_american
         religion = catholic
-        size = 2800
+        size = 3500
     }
 }

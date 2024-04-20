@@ -1,12 +1,11 @@
 capital = 1393
 primary_culture = malay
-culture = yue
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.03
-non_state_culture_literacy = 0.03
+literacy = 0.01
+non_state_culture_literacy = 0.01
 
 ruling_party = BRU_conservative
 upper_house = {
@@ -41,15 +40,3 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
-
-1861.1.1 = {
-	oob = "/1861/BRU_oob.txt"
-	literacy = 0.06
-	non_state_culture_literacy = 0.06
-
-	#Military Reforms
-	foreign_weapons = yes_foreign_weapons
-	
-	#Technologies
-	flintlock_rifles = 1
-}

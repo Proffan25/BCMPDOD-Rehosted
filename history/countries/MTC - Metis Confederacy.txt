@@ -1,10 +1,10 @@
 capital = 37
-primary_culture = metis
+primary_culture = polar_bears
 religion = catholic
 government = democracy
 plurality = 5.0
 nationalvalue = nv_productivity
-literacy = 0.17
+literacy = 0.01
 civilized = yes
 is_releasable_vassal = no
 
@@ -39,12 +39,4 @@ upper_house = {
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
-}
-1861.1.1 = {
-	oob = "/1861/MTC_oob.txt"
-}
-1861.1.1 = {
-# Technologies
-
-#Inventions
 }

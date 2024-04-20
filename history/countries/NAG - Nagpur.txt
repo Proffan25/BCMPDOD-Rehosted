@@ -4,7 +4,7 @@ religion = hindu
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.02
+literacy = 0.01
 
 ruling_party = NAG_conservative
 upper_house = {
@@ -22,9 +22,6 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "NAG_oob.txt"
-1861.1.1 = {
-	oob = "/1861/NAG_oob.txt"
-}
 
 slavery = no_slavery
 upper_house_composition = appointed

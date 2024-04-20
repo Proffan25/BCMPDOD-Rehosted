@@ -1,8 +1,8 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = GEO
-add_core = CIR
+owner = AZB
+controller = AZB
+add_core = AZB
+add_core = ARM
+add_core = ASK
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {

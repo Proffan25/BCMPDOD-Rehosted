@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = DNG
+controller = DNG
+add_core = DNG
 #add_core = CAL
 trade_goods = fish
 life_rating = 40

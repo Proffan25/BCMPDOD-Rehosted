@@ -161,39 +161,39 @@
     }
 
     aristocrats = {
-        culture = russian
+        culture = scandinavian
         religion = orthodox
-        size = 75
+        size = 82
     }
 
     bureaucrats = {
-        culture = russian
+        culture = scandinavian
         religion = orthodox
-        size = 1125
+        size = 1237
     }
 
     officers = {
-        culture = russian
+        culture = scandinavian
         religion = orthodox
-        size = 75
+        size = 82
     }
 
     clergymen = {
-        culture = russian
+        culture = scandinavian
         religion = orthodox
-        size = 37
+        size = 40
     }
 
     artisans = {
-        culture = russian
+        culture = scandinavian
         religion = orthodox
-        size = 75
+        size = 82
     }
 
     soldiers = {
-        culture = russian
+        culture = scandinavian
         religion = orthodox
-        size = 150
+        size = 165
     }
 }
 #Kotka (64000/16000 POPS)
@@ -223,27 +223,27 @@
     }
 
     clergymen = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 22
+        size = 24
     }
 
     artisans = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 75
+        size = 82
     }
 
     soldiers = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 15
+        size = 16
     }
 
     farmers = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 1387
+        size = 1525
     }
 }
 #Mikkeli (116000/29000 POPS)
@@ -363,45 +363,45 @@
     }
 
     aristocrats = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 525
+        size = 577
     }
 
     bureaucrats = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 1685
+        size = 1853
     }
 
     officers = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 225
+        size = 247
     }
 
     clergymen = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 150
+        size = 165
     }
 
     artisans = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 2625
+        size = 2887
     }
 
     soldiers = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 225
+        size = 247
     }
 
     farmers = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 10987
+        size = 12085
     }
 }
 #Hameenlinna (44000/11000 POPS)
@@ -431,33 +431,33 @@
     }
 
     aristocrats = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 112
+        size = 123
     }
 
     clergymen = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 37
+        size = 40
     }
 
     artisans = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 112
+        size = 123
     }
 
     soldiers = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 37
+        size = 40
     }
 
     farmers = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 1200
+        size = 1320
     }
 }
 #Turku (280000/70000 POPS)
@@ -487,33 +487,33 @@
     }
 
     aristocrats = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 1425
+        size = 1567
     }
 
     clergymen = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 150
+        size = 165
     }
 
     artisans = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 825
+        size = 907
     }
 
     soldiers = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 187
+        size = 205
     }
 
     farmers = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 15337
+        size = 16870
     }
 }
 #Vaasa (272000/68000 POPS)
@@ -543,33 +543,33 @@
     }
 
     aristocrats = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 1650
+        size = 1815
     }
 
     clergymen = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 225
+        size = 247
     }
 
     artisans = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 1650
+        size = 1815
     }
 
     soldiers = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 262
+        size = 288
     }
 
     farmers = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 20512
+        size = 22563
     }
 }
 #Tampere (84000/21000 POPS)
@@ -599,33 +599,33 @@
     }
 
     aristocrats = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 375
+        size = 412
     }
 
     clergymen = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 37
+        size = 40
     }
 
     artisans = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 150
+        size = 165
     }
 
     soldiers = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 37
+        size = 40
     }
 
     farmers = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 900
+        size = 990
     }
 }
 #Svealand Region (11000)
@@ -633,27 +633,27 @@
 #Aland Islands (11000 POPS)
 348 = {
     clergymen = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 52
+        size = 57
     }
 
     artisans = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 225
+        size = 247
     }
 
     soldiers = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 37
+        size = 40
     }
 
     farmers = {
-        culture = swedish
+        culture = scandinavian
         religion = protestant
-        size = 3585
+        size = 3943
     }
 
     clergymen = {

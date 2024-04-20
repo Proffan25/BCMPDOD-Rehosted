@@ -1086,7 +1086,7 @@ province_event = {
 		months = 400
 		modifier = {
 			factor = 1.5
-			nationalvalue = nv_liberty
+			nationalvalue = nv_equality
 		}
 		modifier = {
 			factor = 0.9

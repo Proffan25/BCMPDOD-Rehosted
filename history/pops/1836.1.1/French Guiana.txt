@@ -2,132 +2,131 @@
 #Ruled by France 1836
 #Cayenne (17000/4250 POPS)
 2241 = {
-	aristocrats = {
-		culture = french
-		religion = catholic
-		size = 150
-	}
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 150
+    }
 
-	bureaucrats = {
-		culture = french
-		religion = catholic
-		size = 10
-	}
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 10
+    }
 
-	clergymen = {
-		culture = french
-		religion = catholic
-		size = 10
-	}
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 10
+    }
 
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 100
-	}
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 100
+    }
 
-	soldiers = {
-		culture = french
-		religion = catholic
-		size = 50
-	}
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 62
+    }
 
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 80
-	}
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 80
+    }
 
-	artisans = {
-		culture = afro_antillean
-		religion = catholic
-		size = 150
-	}
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 363
+    }
 
-	clergymen = {
-		culture = afro_antillean
-		religion = catholic
-		size = 25
-	}
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 58
+    }
 
-	soldiers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 50
-	}
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 150
+    }
 
-	farmers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 425
-	}
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 1035
+    }
 
-	slaves = {
-		culture = afro_antillean
-		religion = catholic
-		size = 2950
-	}
+    slaves = {
+        culture = granadan
+        religion = catholic
+        size = 7200
+    }
 
-	aristocrats = {
-		culture = brazilian
-		religion = animist
-		size = 2
-	}
+    aristocrats = {
+        culture = granadan
+        religion = animist
+        size = 2
+    }
 
-	clergymen = {
-		culture = brazilian
-		religion = animist
-		size = 3
-	}
+    clergymen = {
+        culture = granadan
+        religion = animist
+        size = 3
+    }
 
-	artisans = {
-		culture = brazilian
-		religion = animist
-		size = 10
-	}
+    artisans = {
+        culture = granadan
+        religion = animist
+        size = 22
+    }
 
-	soldiers = {
-		culture = brazilian
-		religion = animist
-		size = 5
-	}
+    soldiers = {
+        culture = granadan
+        religion = animist
+        size = 12
+    }
 
-	farmers = {
-		culture = brazilian
-		religion = animist
-		size = 230
-	}
+    farmers = {
+        culture = granadan
+        religion = animist
+        size = 558
+    }
 }
 #Maripasoula (3000/750 POPS)
 2246 = {
-	aristocrats = {
-		culture = brazilian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = granadan
+        religion = animist
+        size = 22
+    }
 
-	clergymen = {
-		culture = brazilian
-		religion = animist
-		size = 15
-	}
+    clergymen = {
+        culture = granadan
+        religion = animist
+        size = 33
+    }
 
-	artisans = {
-		culture = brazilian
-		religion = animist
-		size = 35
-	}
+    artisans = {
+        culture = granadan
+        religion = animist
+        size = 82
+    }
 
-	soldiers = {
-		culture = brazilian
-		religion = animist
-		size = 10
-	}
+    soldiers = {
+        culture = granadan
+        religion = animist
+        size = 27
+    }
 
-	farmers = {
-		culture = brazilian
-		religion = animist
-		size = 680
-	}
-
+    farmers = {
+        culture = granadan
+        religion = animist
+        size = 1658
+    }
 }

@@ -184,43 +184,43 @@
 #Battambang (152000/48000 POPS)
 1366 = {
     aristocrats = {
-        culture = thai
+        culture = khmer
         religion = theravada
         size = 25
     }
 
     bureaucrats = {
-        culture = thai
+        culture = khmer
         religion = theravada
         size = 50
     }
 
     officers = {
-        culture = thai
+        culture = khmer
         religion = theravada
         size = 75
     }
 
     clergymen = {
-        culture = thai
+        culture = khmer
         religion = theravada
         size = 25
     }
 
     artisans = {
-        culture = thai
+        culture = khmer
         religion = theravada
         size = 50
     }
 
     soldiers = {
-        culture = thai
+        culture = khmer
         religion = theravada
         size = 50
     }
 
     farmers = {
-        culture = thai
+        culture = khmer
         religion = theravada
         size = 725
     }
@@ -262,25 +262,25 @@
     }
 
     clergymen = {
-        culture = thai
+        culture = khmer
         religion = mahayana
         size = 50
     }
 
     artisans = {
-        culture = thai
+        culture = khmer
         religion = mahayana
         size = 750
     }
 
     soldiers = {
-        culture = thai
+        culture = khmer
         religion = mahayana
         size = 50
     }
 
     farmers = {
-        culture = thai
+        culture = khmer
         religion = mahayana
         size = 2150
     }

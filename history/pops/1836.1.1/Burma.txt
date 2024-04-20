@@ -19,7 +19,11 @@
         religion = theravada
         size = 1200
     }
-
+    farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 52000
+    }
     soldiers = {
         culture = burmese
         religion = theravada
@@ -93,7 +97,11 @@
         religion = theravada
         size = 300
     }
-
+    farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 42000
+    }
     clergymen = {
         culture = burmese
         religion = theravada
@@ -149,7 +157,11 @@
         religion = theravada
         size = 400
     }
-
+    farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 72000
+    }
     clergymen = {
         culture = burmese
         religion = theravada
@@ -1059,31 +1071,31 @@
     }
 
     aristocrats = {
-        culture = thai
+        culture = burmese
         religion = theravada
         size = 100
     }
 
     clergymen = {
-        culture = thai
+        culture = burmese
         religion = theravada
         size = 200
     }
 
     artisans = {
-        culture = thai
+        culture = burmese
         religion = theravada
         size = 1250
     }
 
     soldiers = {
-        culture = thai
+        culture = burmese
         religion = theravada
         size = 200
     }
 
     farmers = {
-        culture = thai
+        culture = burmese
         religion = theravada
         size = 17250
     }

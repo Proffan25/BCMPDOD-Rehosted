@@ -1,6 +1,6 @@
-owner = HND
-controller = HND
-add_core = HND
+owner = BER
+controller = BER
+add_core = BER
 trade_goods = cotton
 life_rating = 32
 

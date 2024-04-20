@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = DUA
+controller = DUA
 add_core = WIF
 trade_goods = fruit
 life_rating = 35

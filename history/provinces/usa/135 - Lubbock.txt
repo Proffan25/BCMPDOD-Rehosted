@@ -1,6 +1,6 @@
-owner = TEX
-controller = TEX
-add_core = TEX
+owner = CLM
+controller = CLM
+add_core = CLM
 add_core = MEX
 trade_goods = sulphur
 life_rating = 35

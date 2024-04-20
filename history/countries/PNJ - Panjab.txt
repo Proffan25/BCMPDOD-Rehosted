@@ -1,5 +1,5 @@
 capital = 1227
-primary_culture = indo_aryan
+primary_culture = punjabi
 religion = sikh
 government = absolute_monarchy
 plurality = 0.0

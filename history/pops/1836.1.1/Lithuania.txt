@@ -17,7 +17,7 @@
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 1100
+        size = 1650
     }
 
     farmers = {
@@ -59,7 +59,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 100
+        size = 150
     }
 
     farmers = {
@@ -83,7 +83,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 150
+        size = 225
     }
 
     farmers = {
@@ -115,7 +115,7 @@
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 1100
+        size = 1650
     }
 
     farmers = {
@@ -145,7 +145,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 25
+        size = 37
     }
 
     farmers = {
@@ -169,7 +169,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 75
+        size = 112
     }
 
     farmers = {
@@ -195,7 +195,7 @@
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 250
+        size = 375
     }
 
     farmers = {
@@ -225,7 +225,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 300
+        size = 450
     }
 
     farmers = {
@@ -249,7 +249,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 150
     }
 
     farmers = {
@@ -259,25 +259,25 @@
     }
 
     clergymen = {
-        culture = north_german
+        culture = pomeranian
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = north_german
+        culture = pomeranian
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = north_german
+        culture = pomeranian
         religion = protestant
-        size = 50
+        size = 75
     }
 
     farmers = {
-        culture = north_german
+        culture = pomeranian
         religion = protestant
         size = 3675
     }
@@ -305,7 +305,7 @@
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 375
+        size = 562
     }
 
     farmers = {
@@ -329,7 +329,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 150
     }
 
     farmers = {
@@ -339,49 +339,49 @@
     }
 
     clergymen = {
-        culture = north_german
+        culture = pomeranian
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = north_german
+        culture = pomeranian
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = north_german
+        culture = pomeranian
         religion = protestant
-        size = 25
+        size = 37
     }
 
     farmers = {
-        culture = north_german
+        culture = pomeranian
         religion = protestant
         size = 750
     }
 
     clergymen = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
-        size = 25
+        size = 37
     }
 
     farmers = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 1825
     }
@@ -409,7 +409,7 @@
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 425
+        size = 637
     }
 
     farmers = {
@@ -433,7 +433,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 75
+        size = 112
     }
 
     farmers = {
@@ -465,7 +465,7 @@
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 175
+        size = 262
     }
 
     farmers = {
@@ -489,7 +489,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 25
+        size = 37
     }
 
     farmers = {
@@ -499,25 +499,25 @@
     }
 
     clergymen = {
-        culture = north_german
+        culture = pomeranian
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = north_german
+        culture = pomeranian
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = north_german
+        culture = pomeranian
         religion = protestant
-        size = 25
+        size = 37
     }
 
     farmers = {
-        culture = north_german
+        culture = pomeranian
         religion = protestant
         size = 850
     }
@@ -527,43 +527,43 @@
 #Memel (172000/43000 POPS) #now part of Lithuania
 698 = {
     aristocrats = {
-        culture = north_german
+        culture = pomeranian
         religion = protestant
         size = 750
     }
 
     clergymen = {
-        culture = north_german
+        culture = pomeranian
         religion = protestant
         size = 200
     }
 
     artisans = {
-        culture = north_german
+        culture = pomeranian
         religion = protestant
         size = 2400
     }
 
     soldiers = {
-        culture = north_german
+        culture = pomeranian
         religion = protestant
         size = 715
     }
 
     farmers = {
-        culture = north_german
+        culture = pomeranian
         religion = protestant
         size = 19500
     }
 
     clergymen = {
-        culture = north_german
+        culture = pomeranian
         religion = jewish
         size = 5
     }
 
     artisans = {
-        culture = north_german
+        culture = pomeranian
         religion = jewish
         size = 145
     }
@@ -593,7 +593,7 @@
     }
 
     farmers = {
-        culture = north_german
+        culture = pomeranian
         religion = protestant
         size = 385
     }

@@ -1,9 +1,9 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = PLA
+controller = PLA 
+add_core = PLA 
 trade_goods = cotton
 life_rating = 35
-colony = 2
+
 is_slave = yes
 1861.1.1 = {
 	colony = 0

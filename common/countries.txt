@@ -2,8 +2,18 @@
 #Do not remove this rebel entry.
 REB 	= 	"countries/rebels.txt"
 
-# Common Great Powers
+#DoD Countries
 DUA		= "countries/Dual Monarchy.txt"
+BRG		= "countries/Burgundy.txt"
+ARN		= "countries/Aragon.txt"
+CAE		= "countries/Elbian Confederation.txt"
+IBE     	= "countries/Iberia.txt"
+ARI		= "countries/AragonItaly.txt"
+ARY		= "countries/Aryanam.txt"
+ARC		= "countries/Arcadia.txt"  
+AZL		= "countries/Federation.txt"
+
+# Common Great Powers
 ENG		= "countries/United Kingdom.txt"
 RUS		= "countries/Russia.txt"
 FRA		= "countries/France.txt"
@@ -23,6 +33,7 @@ FIN		= "countries/Finland.txt"
 NOR		= "countries/Norway.txt"
 SCA		= "countries/Scandinavia.txt"
 SWE		= "countries/Sweden.txt"
+PSV		= "countries/Pskov.txt"
 
 # Western Europe
 BEL		= "countries/Belgium.txt"
@@ -33,9 +44,11 @@ NET		= "countries/Netherlands.txt"
 POR		= "countries/Portugal.txt"
 SCO		= "countries/Scotland.txt"
 SPA		= "countries/Spain.txt"
-IBR		= "countries/Iberia.txt"
 WLL		= "countries/Wallonia.txt"
-ENL		= "countries/England.txt"
+PRV		= "countries/Provence.txt"
+OCC		= "countries/Occitania.txt"
+WLS		= "countries/Wales.txt"
+BRT		= "countries/Brittany.txt"
 
 # Germany
 ANH		= "countries/Anhalt.txt"
@@ -64,6 +77,14 @@ SCH		= "countries/Schleswig.txt"
 SGF		= "countries/South German Fed.txt"
 WEI		= "countries/Saxe-Weimar.txt"
 WUR		= "countries/Wurttemberg.txt"
+RHI		= "countries/Rhineland.txt"
+POM		= "countries/Pomerania.txt"
+MNR		= "countries/Munster.txt"
+THU		= "countries/Thuringia.txt"
+BEG		= "countries/Berg.txt"
+FRI		= "countries/East Frisia.txt"
+BRN		= "countries/Branderburg.txt"
+TIR		= "countries/Tirol.txt"
 
 # Italy
 LOM		= "countries/Lombardia.txt"
@@ -76,6 +97,7 @@ SIC		= "countries/Two Sicilies.txt"
 TRE		= "countries/Trieste.txt"
 TUS		= "countries/Tuscany.txt"
 VEN		= "countries/Venice.txt"
+FRR		= "countries/Ferrara.txt"
 
 # Eastern Europe
 BOH		= "countries/Bohemia-Moravia.txt"
@@ -92,6 +114,9 @@ RUT		= "countries/Ruthenia.txt"
 SIE		= "countries/Siebenburgen.txt"
 UKR		= "countries/Ukraine.txt"
 CZH		= "countries/Czechoslovakia.txt"
+NOV		= "countries/Novgorod.txt"
+MUS		= "countries/Muscovy.txt"
+ASK		= "countries/Astrakhan.txt" 
 
 # Balkans
 ALB		="countries/Albania.txt"
@@ -110,6 +135,7 @@ SLO		="countries/Slovenia.txt"
 TUR		="countries/Ottoman Empire.txt"
 WAL		="countries/Wallachia.txt"
 YUG		="countries/Yugoslavia.txt"
+MAC		= "countries/Macedonia.txt"
 
 # Africa
 ALD		="countries/Aldjazair.txt"
@@ -146,6 +172,10 @@ NEJ		="countries/Nejd.txt"
 OMA		="countries/Oman.txt"
 PER		="countries/Persia.txt"
 YEM		="countries/Yemen.txt"
+NOG		= "countries/Nogai.txt"
+SIB		= "countries/Sibir.txt"
+CHG		= "countries/Chagatai.txt"
+AFS		= "countries/Afsharid.txt"
 
 # India
 HND 	="countries/India.txt"
@@ -176,6 +206,8 @@ SHI		="countries/Shimla.txt"
 SIK		="countries/Sikkim.txt"
 SIN		="countries/Sind.txt"
 TRA		="countries/Travancore.txt"
+VIJ		= "countries/Vijayanagar.txt"
+MDR		= "countries/Madurai.txt"
 
 # Eastern Asia
 ATJ		="countries/Atjeh.txt"
@@ -204,6 +236,7 @@ XIN		="countries/Xinjiang.txt"
 
 # North America
 CAL		="countries/Californian Republic.txt"
+COM		="countries/Commonwealth.txt"
 CAN		="countries/Canada.txt"
 CHE		="countries/Cherokee.txt"
 COL		="countries/Columbia.txt"
@@ -227,6 +260,10 @@ PNM		="countries/Panama.txt"
 QUE		="countries/Quebec.txt"
 TEX		="countries/Texas.txt"
 UCA		="countries/United States of Central America.txt"
+DNG		= "countries/Dong Guo.txt"
+VIN		= "countries/Vinland.txt"
+PLA		= "countries/Plantagenia.txt"
+NBG		= "countries/New Burgundy.txt"
 
 # South America
 ARG		="countries/Argentina.txt"
@@ -240,11 +277,16 @@ PRG		="countries/Paraguay.txt"
 URU		="countries/Uruguay.txt"
 VNZ		="countries/Venezuela.txt"
 PBC		="countries/Peru-Bolivia Confederation.txt"
+GRA		= "countries/Granada.txt"
+INC		= "countries/Inca.txt"
+AMA		= "countries/Amazonie.txt"
+LOT		= "countries/Lotharingia.txt"
+NAN		= "countries/Neo Anglia.txt"
 
 # Australasia
 AST		="countries/Australia.txt"
 NZL		="countries/New Zealand.txt"
-
+BTV		= "countries/Batavia.txt"
 
 #new for 1.2
 ISR		="countries/Israel.txt"
@@ -300,15 +342,7 @@ SMA		= 	"countries/Small State.txt"
 MED		=	"countries/Medium State.txt"
 LRG		=	"countries/Large State.txt"
 HUG		=	"countries/Huge State.txt"
-STR		=	"countries/Strategic State.txt"
 GHO 	= 	"countries/Ghost Country.txt"
-ZOM		=	"countries/Zombieland.txt"
-Z01		=	"countries/Zombeurope.txt"
-Z02		=	"countries/Zombasia.txt"
-Z03		=	"countries/Zombafrica.txt"
-Z04		=	"countries/North_Zomberica.txt"
-Z05		=	"countries/South_Zomberica.txt"
-Z06		=	"countries/Zombeania.txt"
 
 
 ##HoD Dominions

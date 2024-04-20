@@ -1,7 +1,7 @@
-owner = ENG
-controller = ENG
-#add_core = GUA
+owner = CLM
+controller = CLM
+add_core = CLM
 add_core = UCA
 trade_goods = fruit
-life_rating = 30
-colonial = 2
+life_rating = 35
+

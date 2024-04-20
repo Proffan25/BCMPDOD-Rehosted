@@ -1,6 +1,6 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = ARN
+controller = ARN
+add_core = ARN
 trade_goods = fruit
 life_rating = 35
 1861.1.1 = { railroad = 2 }

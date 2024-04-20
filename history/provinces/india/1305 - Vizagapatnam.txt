@@ -1,7 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = HND
+owner = HYD
+controller = HYD
+add_core = HYD
 trade_goods = tobacco
 life_rating = 32
-colonial = 1
 

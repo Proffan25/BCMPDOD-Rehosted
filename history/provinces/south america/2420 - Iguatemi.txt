@@ -1,7 +1,6 @@
-owner = PRG
-controller = PRG
-add_core = PRG
-add_core = BRZ
+owner = LOT
+controller = LOT
+add_core = LOT
 trade_goods = sulphur
-life_rating = 25
+life_rating = 35
 

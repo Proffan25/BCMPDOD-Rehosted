@@ -1,8 +1,5 @@
-add_core = CHI
-add_core = XIN
+owner = CHG
+controller = CHG
+add_core = CHG
 trade_goods = cotton
-life_rating = 32
-
-owner = XIN
-controller = XIN
-
+life_rating = 35

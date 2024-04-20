@@ -4,7 +4,7 @@ religion = mahayana
 government = presidential_dictatorship
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.04
+literacy = 0.01
 
 ruling_party = SXI_reactionary
 upper_house = {
@@ -20,9 +20,6 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
-1861.1.1 = {
-	oob = "/1861/SXI_oob.txt"
-}
 
 slavery = no_slavery
 upper_house_composition = appointed

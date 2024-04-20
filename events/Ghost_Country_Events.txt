@@ -41,6 +41,15 @@ country_event = {
 		owns = 1128
 		NOT = { tag = REB }
 		OR = {
+			COM = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
 			ABU = {
 				is_greater_power = no
 				exists = no

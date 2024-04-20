@@ -20,7 +20,7 @@ leader = {
 }
 army = {
 	name = "Army of the Tokugawa Shogunate"	
-	location = 1649
+	location = 1635
 	regiment = {
 		name= "1.Edo"
 		type = infantry
@@ -150,7 +150,7 @@ army = {
 
 army = {
 	name = "Army of Daimyo Yamanuchi"
-	location = 1653
+	location = 1633
 
 	regiment = {
 		name= "2.Tosa"

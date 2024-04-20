@@ -1,6 +1,12 @@
-owner = ENG
-controller = ENG
-add_core = AST
+owner = DNG
+controller = DNG
+add_core = DNG
 trade_goods = timber
 life_rating = 40
-colonial = 2
+
+1836.1.2 = {
+	remove_core = COM
+	owner = AST
+	controller = AST
+	add_core = AST
+}

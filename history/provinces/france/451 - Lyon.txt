@@ -1,5 +1,25 @@
-owner = FRA
-controller = FRA
+owner = DUA
+controller = DUA
+add_core = DUA
 add_core = FRA
-trade_goods = grain
-life_rating = 32
+trade_goods = iron
+life_rating = 35
+state_building = {
+	level = 1
+	building = winery
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = luxury_clothes_factory
+	upgrade = yes
+}
+1861.1.1 = {
+	state_building = {
+		level = 1
+		building = furniture_factory
+		upgrade = yes
+	}
+}
+1861.1.1 = { railroad = 3 }
+

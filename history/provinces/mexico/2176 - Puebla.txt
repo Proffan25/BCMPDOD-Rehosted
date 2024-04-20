@@ -1,5 +1,6 @@
-owner = MEX
-controller = MEX
+owner = CLM
+controller = CLM
+add_core = CLM
 add_core = MEX
 trade_goods = grain
 life_rating = 35

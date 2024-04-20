@@ -1,9 +1,9 @@
-owner = SWE
-controller = SWE
-add_core = SWE
+owner = SCA
+controller = SCA
+add_core = SCA
 #add_core = SCA
 trade_goods = coal
-life_rating = 35
+life_rating = 40
 naval_base = 1
 state_building = {
 	level = 1
@@ -23,6 +23,11 @@ state_building = {
 state_building = {
 	level = 1
 	building = canned_food_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = artillery_factory
 	upgrade = yes
 }
 #state_building = {

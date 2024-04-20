@@ -1,12 +1,12 @@
 country_event = {
 	
-	id = 99999999999
+	id = 99937949
 	title = "Money injection"
 	desc = "Upon discovering that no single person in the world has any money, they have all raided their grandparents stockings to get at those savings."
 	
 	trigger = {
 		year = 1836
-		TAG = HAW
+		tag = GHO
 		NOT = { has_global_flag = money_injected }
 	}
 	

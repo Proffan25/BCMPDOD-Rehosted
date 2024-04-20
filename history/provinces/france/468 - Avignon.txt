@@ -1,6 +1,6 @@
 owner = DUA
 controller = DUA
-add_core = FRA
 add_core = DUA
+add_core = FRA
 trade_goods = sulphur
-life_rating = 32
+life_rating = 35

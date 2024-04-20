@@ -5,7 +5,7 @@ religion = jewish
 government = democracy
 plurality = 0.15
 nationalvalue = nv_order
-literacy = 0.87
+literacy = 0.01
 civilized = yes
 
 # Political reforms
@@ -37,13 +37,4 @@ upper_house = {
 	anarcho_liberal = 5
 	socialist = 5
 	communist = 5
-}
-
-1861.1.1 = {
-	oob = "/1861/ISR_oob.txt"
-}
-1861.1.1 = {
-# Technologies
-
-#Inventions
 }

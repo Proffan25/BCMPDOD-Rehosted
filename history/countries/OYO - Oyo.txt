@@ -1,6 +1,5 @@
 capital = 1926
-primary_culture = yoruba
-culture = african_minor
+primary_culture = polar_bears
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
@@ -52,18 +51,3 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "OYO_oob.txt"
-1861.1.1 = {
-	oob = "/1861/OYO_oob.txt"
-}
-1861.1.1 = {
-
-foreign_weapons = foreign_weapons_two
-
-# Technologies
-flintlock_rifles = 1
-muzzle_loaded_rifles = 1
-early_classical_theory_and_critique = 1
-
-# Inventions
-
-}

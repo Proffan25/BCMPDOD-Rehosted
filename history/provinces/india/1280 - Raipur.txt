@@ -1,6 +1,6 @@
-owner = HND
-controller = HND
-add_core = HND
+owner = NAG
+controller = NAG
+add_core = NAG
 trade_goods = iron
 life_rating = 32
 1861.1.1 = {

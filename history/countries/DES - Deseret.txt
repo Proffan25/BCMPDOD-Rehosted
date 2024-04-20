@@ -5,7 +5,7 @@ religion = protestant
 government = presidential_dictatorship
 plurality = 0.2
 nationalvalue = nv_order
-literacy = 0.50
+literacy = 0.01
 civilized = yes
 
 # Political reforms
@@ -36,13 +36,4 @@ upper_house = {
 	anarcho_liberal = 2
 	socialist = 0
 	communist = 0
-}
-
-1861.1.1 = {
-	oob = "/1861/DES_oob.txt"
-}
-1861.1.1 = {
-# Technologies
-
-#Inventions
 }
