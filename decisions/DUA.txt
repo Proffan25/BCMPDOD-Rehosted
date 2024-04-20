@@ -8,12 +8,13 @@ political_decisions = {
 		}
 		allow = {
 			year = 1840
+			war = no
 		}
 		effect = {
 			set_country_flag = english_path
 			add_accepted_culture = english
 			add_accepted_culture = irish
-			remove_accepted_culture = breton
+			capital = 300
 		}
 	}
 	french_path = {
@@ -25,12 +26,12 @@ political_decisions = {
 		}
 		allow = {
 			year = 1840
+			war = no
 		}
 		effect = {
 			set_country_flag = french_path
 			add_accepted_culture = french
-			add_accepted_culture = provencal
-			remove_accepted_culture = welsh
+			capital = 425
 		}
 	
 	}
@@ -52,16 +53,17 @@ political_decisions = {
 	anglois_dilemma_finished = {
 		potential = {
 			tag = DUA
-			has_country_flag = dual_path
 			NOT = {has_country_flag = anglois_dilemma_finished}
+			NOT = {has_country_flag = english_path}
+			NOT = {has_country_flag = french_path}
 		}
 		allow = {
 			year = 1870
+			has_country_flag = dual_path
 		}
 		effect = {
 			add_accepted_culture = french
 			add_accepted_culture = english
-			add_accepted_culture = provencal 
 			add_accepted_culture = irish 
 			set_country_flag = anglois_dilemma_finished
 		}
@@ -69,13 +71,14 @@ political_decisions = {
 	integrate_scotland = {
 		potential = {
 			tag = DUA
-			OR = {
-				has_country_flag = english_path
-				has_country_flag = dual_path
-			}
 			NOT = {has_country_flag = integrate_scotland}
+			NOT = {has_country_flag = french_path}
 		}
 		allow = {
+			OR = {
+				has_country_flag = english_path
+				has_country_flag = anglois_dilemma_finished
+			}
 			state_n_government = 1
 			SCO = {all_core = {owned_by = THIS}}
 		}
@@ -87,16 +90,11 @@ political_decisions = {
 	}
 	reclaim_french_states ={
 		potential = {
-			tag = DUA 
-			OR = {
-				has_country_flag = french_path
-				has_country_flag = dual_path
-			}
+			tag = DUA
 			NOT = {has_country_flag = reclaim_french_states}
 			
 		}
 		allow = {
-			state_n_government = 1
 			FRA_428 = {owned_by = THIS}
 			FRA_399 = {owned_by = THIS}
 			FRA_411 = {owned_by = THIS}

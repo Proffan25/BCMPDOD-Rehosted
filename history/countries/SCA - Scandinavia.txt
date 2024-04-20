@@ -1,14 +1,14 @@
 capital = 372
 primary_culture = scandinavian
+culture = scottish
 culture = finnish
 culture = latvian
 culture = estonian
-culture = scottish
 religion = protestant
 government = prussian_constitutionalism
 plurality = 0.05
 nationalvalue = nv_order
-literacy = 0.01
+literacy = 0.8
 non_state_culture_literacy = 0.01
 civilized = yes
 prestige = 40
