@@ -1,13 +1,11 @@
 capital = 958
 primary_culture = ukrainian
-culture = ashkenazi
 religion = orthodox
 government = absolute_monarchy
 plurality = 0.02
 nationalvalue = nv_order
-literacy = 0.01
+literacy = 0.18
 civilized = yes
-
 
 # Political reforms
 slavery = no_slavery
