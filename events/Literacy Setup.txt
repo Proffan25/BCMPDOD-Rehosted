@@ -3,8 +3,7 @@ country_event = {
 	id = 100014
 	title = "Literacy fix"
 	desc = "Literacy fix for Scandi minorities"
-	fire_only_once = yes
-	
+	fire_only_once = yes	
 	trigger = {
 		tag = SCA
 	}
@@ -120,10 +119,9 @@ country_event = {
 	id = 100017
 	title = "Literacy fix"
 	desc = "Literacy fix for Bohemia"
-	fire_only_once = yes
-	
+	fire_only_once = yes	
 	trigger = {
-	tag = BOH
+		tag = BOH
 	}
 	mean_time_to_happen = {
 		days = -1
@@ -135,6 +133,113 @@ country_event = {
 				has_pop_culture = north_german
 			}
 			literacy = 0.23
+		}
+		any_owned = {
+			any_pop = {
+				limit = { 
+					is_primary_culture = no
+					is_accepted_culture = no
+					type = bureaucrats
+				}
+				pop_type = artisans
+			}				
+		}
+	}
+}
+
+#TUR literacy event
+country_event = {
+	id = 100018
+	title = "Literacy fix"
+	desc = "Literacy fix for Ottomans"
+	fire_only_once = yes
+	
+	trigger = {
+		tag = TUR
+	}
+	mean_time_to_happen = {
+		days = -1
+	}
+	option = {
+		name = "Learn 2 read dude"
+		any_pop = {
+		    limit = {
+			    OR = {
+					has_pop_culture = mashriqi
+					has_pop_culture = greek
+					has_pop_culture = serbian
+					has_pop_culture = bulgarian
+					has_pop_culture = albanian
+					has_pop_culture = armenian
+				}
+			}
+			literacy = 0.1
+		}
+		any_owned = {
+			any_pop = {
+				limit = { 
+					is_primary_culture = no
+					is_accepted_culture = no
+					type = bureaucrats
+				}
+				pop_type = artisans
+			}				
+		}
+	}
+}
+
+#ARN literacy event
+country_event = {
+	id = 100019
+	title = "Literacy fix"
+	desc = "Literacy fix for Aragon"
+	fire_only_once = yes	
+	trigger = {
+		tag = ARN
+	}
+	mean_time_to_happen = {
+		days = -1
+	}
+	option = {
+		name = "Learn 2 read dude"
+		any_pop = {
+			limit = {
+				has_pop_culture = south_italian
+			}
+			literacy = 0.07
+		}
+		any_owned = {
+			any_pop = {
+				limit = { 
+					is_primary_culture = no
+					is_accepted_culture = no
+					type = bureaucrats
+				}
+				pop_type = artisans
+			}				
+		}
+	}
+}
+
+#SPA literacy event
+country_event = {
+	id = 100020
+	title = "Literacy fix"
+	desc = "Literacy fix for Spain"
+	fire_only_once = yes	
+	trigger = {
+		tag = SPA
+	}
+	mean_time_to_happen = {
+		days = -1
+	}
+	option = {
+		name = "Learn 2 read dude"
+		any_pop = {
+			limit = {
+				has_pop_culture = portuguese
+			}
+			literacy = 0.12
 		}
 		any_owned = {
 			any_pop = {
