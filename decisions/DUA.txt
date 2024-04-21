@@ -15,6 +15,9 @@ political_decisions = {
 			add_accepted_culture = english
 			add_accepted_culture = irish
 			capital = 300
+			300 = {
+				life_rating = 5
+			}
 		}
 	}
 	french_path = {
@@ -32,6 +35,9 @@ political_decisions = {
 			set_country_flag = french_path
 			add_accepted_culture = french
 			capital = 425
+			425 = {
+				life_rating = 5
+			}
 		}
 	
 	}
@@ -92,6 +98,7 @@ political_decisions = {
 		potential = {
 			tag = DUA
 			NOT = {has_country_flag = reclaim_french_states}
+			NOT = {has_country_flag = english_path}
 			
 		}
 		allow = {

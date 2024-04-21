@@ -114,3 +114,37 @@ country_event = {
 		}
 	}
 }
+
+#BOH literacy event
+country_event = {
+	id = 100017
+	title = "Literacy fix"
+	desc = "Literacy fix for Bohemia"
+	fire_only_once = yes
+	
+	trigger = {
+	tag = BOH
+	}
+	mean_time_to_happen = {
+		days = -1
+	}
+	option = {
+		name = "Learn 2 read dude"
+		any_pop = {
+			limit = {
+				has_pop_culture = north_german
+			}
+			literacy = 0.23
+		}
+		any_owned = {
+			any_pop = {
+				limit = { 
+					is_primary_culture = no
+					is_accepted_culture = no
+					type = bureaucrats
+				}
+				pop_type = artisans
+			}				
+		}
+	}
+}

@@ -1204,6 +1204,12 @@
         size = 2650
     }
 
+    bureaucrats = {
+        culture = anglois
+        religion = catholic
+        size = 6500
+    }
+
     clergymen = {
         culture = french
         religion = catholic
@@ -1213,13 +1219,7 @@
     artisans = {
         culture = french
         religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 3500
+        size = 7000
     }
 
     soldiers = {
@@ -3503,7 +3503,7 @@
     farmers = {
         culture = french
         religion = catholic
-        size = 50400
+        size = 123000
     }
 }
 #Avignon (243600/60900 POPS)
@@ -3611,7 +3611,7 @@
     farmers = {
         culture = french
         religion = catholic
-        size = 40950
+        size = 80950
     }
 }
 #Frejus (132000/33000 POPS)
