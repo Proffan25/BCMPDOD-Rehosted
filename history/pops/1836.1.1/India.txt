@@ -7800,25 +7800,25 @@
 #Pondicherry (132000/33000 POPS)
 1312 = {
     bureaucrats = {
-        culture = french
+        culture = anglois
         religion = catholic
         size = 10
     }
 
     clergymen = {
-        culture = french
+        culture = anglois
         religion = catholic
         size = 15
     }
 
     artisans = {
-        culture = french
+        culture = anglois
         religion = catholic
         size = 25
     }
 
     soldiers = {
-        culture = french
+        culture = anglois
         religion = catholic
         size = 25
     }
@@ -7876,25 +7876,25 @@
 3251 = {
     bureaucrats = {
         culture = anglois
-        religion = protestant
+        religion = catholic
         size = 50
     }
 
     clergymen = {
         culture = anglois
-        religion = protestant
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = anglois
-        religion = protestant
+        religion = catholic
         size = 75
     }
 
     soldiers = {
         culture = anglois
-        religion = protestant
+        religion = catholic
         size = 50
     }
 
@@ -7924,19 +7924,19 @@
 
     clergymen = {
         culture = dravidian
-        religion = protestant
+        religion = catholic
         size = 25
     }
 
     artisans = {
         culture = dravidian
-        religion = protestant
+        religion = catholic
         size = 75
     }
 
     farmers = {
         culture = dravidian
-        religion = protestant
+        religion = catholic
         size = 275
     }
 }
