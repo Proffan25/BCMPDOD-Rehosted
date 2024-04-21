@@ -541,31 +541,31 @@
 #San Francisco (9600/2400 POPS)
 84 = {
     aristocrats = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 10
     }
 
     clergymen = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 10
     }
 
     artisans = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 20
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 10
     }
 
     farmers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 348
     }
@@ -601,7 +601,7 @@
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 3
     }
@@ -673,37 +673,37 @@
 #Monterey (6400/1600 POPS)
 87 = {
     aristocrats = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 12
     }
 
     bureaucrats = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 13
     }
 
     clergymen = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 14
     }
 
     artisans = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 34
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 10
     }
 
     farmers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 521
     }
@@ -739,7 +739,7 @@
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 5
     }
@@ -779,31 +779,31 @@
 #Los Angeles (12000/3000 POPS)
 89 = {
     aristocrats = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 10
     }
 
     clergymen = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 24
     }
 
     artisans = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 49
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 14
     }
 
     farmers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 895
     }
@@ -839,7 +839,7 @@
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 9
     }
@@ -847,31 +847,31 @@
 #San Diego (12000/3000 POPS)
 90 = {
     aristocrats = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 10
     }
 
     clergymen = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 24
     }
 
     artisans = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 49
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 14
     }
 
     farmers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 895
     }
@@ -907,7 +907,7 @@
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 9
     }
@@ -1336,43 +1336,43 @@
     }
 
     aristocrats = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 2
     }
 
     bureaucrats = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 3
     }
 
     clergymen = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 4
     }
 
     artisans = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 12
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 4
     }
 
     farmers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 223
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 2
     }
@@ -1382,37 +1382,37 @@
 #Santa Fe (32000/8000 POPS)
 103 = {
     aristocrats = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 99
     }
 
     bureaucrats = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 54
     }
 
     artisans = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 248
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 49
     }
 
     farmers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 4462
     }
@@ -1478,31 +1478,31 @@
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 1
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 0
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 2
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 0
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 44
     }
@@ -1540,49 +1540,49 @@
     }
 
     aristocrats = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 24
     }
 
     clergymen = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 49
     }
 
     artisans = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 99
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 24
     }
 
     farmers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 1790
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 0
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 1
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 18
     }
@@ -2754,31 +2754,31 @@
 #Houston (16000/4000 POPS)
 132 = {
     aristocrats = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 2675
     }
@@ -2822,43 +2822,43 @@
 #Austin (14000/3500 POPS)
 133 = {
     aristocrats = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 25
     }
 
     bureaucrats = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 375
     }
 
     officers = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 20
     }
 
     clergymen = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 125
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 2220
     }
@@ -2900,31 +2900,31 @@
     }
 
     aristocrats = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 3
     }
 
     clergymen = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 4
     }
 
     artisans = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 22
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 7
     }
 
     farmers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 337
     }
@@ -2932,31 +2932,31 @@
 #San Antonio (10000/2500 POPS)
 137 = {
     aristocrats = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 1575
     }
@@ -2998,31 +2998,31 @@
     }
 
     aristocrats = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 3
     }
 
     clergymen = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 4
     }
 
     artisans = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 22
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 7
     }
 
     farmers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 337
     }
@@ -3060,37 +3060,37 @@
     }
 
     aristocrats = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 4
     }
 
     clergymen = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 10
     }
 
     artisans = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 24
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 10
     }
 
     farmers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 447
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 4
     }
@@ -3099,25 +3099,25 @@
 #Dallas (4400/1100 POPS)
 134 = {
     clergymen = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 5
     }
 
     farmers = {
-        culture = mexican
+        culture = granadan
         religion = protestant
         size = 75
     }
@@ -3223,37 +3223,37 @@
     }
 
     aristocrats = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 2
     }
 
     clergymen = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 2
     }
 
     artisans = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 14
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 4
     }
 
     farmers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 223
     }
 
     soldiers = {
-        culture = mexican
+        culture = granadan
         religion = catholic
         size = 2
     }

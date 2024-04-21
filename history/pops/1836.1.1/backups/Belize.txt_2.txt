@@ -9,25 +9,25 @@
     }
 
     clergymen = {
-        culture = lusitanian
+        culture = granadan
         religion = protestant
         size = 15
     }
 
     artisans = {
-        culture = lusitanian
+        culture = granadan
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = lusitanian
+        culture = granadan
         religion = protestant
         size = 10
     }
 
     farmers = {
-        culture = lusitanian
+        culture = granadan
         religion = protestant
         size = 1650
     }

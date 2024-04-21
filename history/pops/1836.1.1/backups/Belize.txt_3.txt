@@ -9,25 +9,25 @@
     }
 
     clergymen = {
-        culture = central_american 
+        culture = granadan 
         religion = protestant
         size = 15
     }
 
     artisans = {
-        culture = central_american 
+        culture = granadan 
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = central_american 
+        culture = granadan 
         religion = protestant
         size = 10
     }
 
     farmers = {
-        culture = central_american 
+        culture = granadan 
         religion = protestant
         size = 1650
     }
