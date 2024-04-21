@@ -253,3 +253,40 @@ country_event = {
 		}
 	}
 }
+
+#PLC literacy event
+country_event = {
+	id = 100021
+	title = "Literacy fix"
+	desc = "Literacy fix for the PLC"
+	fire_only_once = yes	
+	trigger = {
+		tag = PLC
+	}
+	mean_time_to_happen = {
+		days = -1
+	}
+	option = {
+		name = "Learn 2 read dude"
+		any_pop = {
+		    limit = {
+			    OR = {
+					has_pop_culture = pomeranian
+					has_pop_culture = ashkenazi
+					has_pop_culture = ukrainian
+				}
+			}
+			literacy = 0.3
+		}
+		any_owned = {
+			any_pop = {
+				limit = {
+					is_primary_culture = no
+					is_accepted_culture = no
+					type = bureaucrats
+				}
+				pop_type = artisans
+			}				
+		}
+	}
+}
