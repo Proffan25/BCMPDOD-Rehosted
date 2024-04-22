@@ -29,23 +29,30 @@ country_event = {
 		name = "He can't keep getting away with it..."		
 	}
 }
-
-#1865 country tag clear
 country_event = {
-	id = 79797979
+	id = 600001
+	allow_multiple_instances = yes
 	trigger = {
-		year = 1865
-		has_country_flag = conquerable_1865
+	ai = no
+	NOT = {
+		OR = {
+			#add tags of countries with specific events here
+			has_leader = "Belgrano Reparations"
+		}
 	}
 	mean_time_to_happen = {
 		days = 1
 	}
-	title = "1865 Flag Protection"
-	desc = "Clearing the protection flag off of 1865 protected nations."
+	title = "A new admiral arrives"
+	desc = "I'm sending this diplomatic message to cockroach Britain in the hopes that the bongoloids give us back Malvinas. Please give it back..."
 	immediate = {
-		clr_country_flag = conquerable_1865
+		define_admiral = {
+			name = "Belgrano Reparations"
+			personality = defence_3.1
+			background = attack_3.10
+		}
 	}
 	option = {
-		name = "You may now declare, and be declared on, with significant wargoals."		
+		name = "...and please send reparations for the Belgrano, neva forget."		
 	}
 }
