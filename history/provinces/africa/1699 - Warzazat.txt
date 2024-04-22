@@ -1,6 +1,6 @@
-owner = MOR
-controller = MOR
+owner = SPA
+controller = SPA
 add_core = MOR
 trade_goods = fruit
 life_rating = 35
-
+colonial = 2
