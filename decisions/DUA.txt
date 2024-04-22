@@ -74,6 +74,24 @@ political_decisions = {
 			set_country_flag = anglois_dilemma_finished
 		}
 	}
+	conquest_scotland = {
+		potential = {
+			tag = DUA
+			NOT = {has_country_flag = conquest_scotland}
+			NOT = {has_country_flag = french_path}
+		}
+		allow = {
+			OR = {
+				has_country_flag = english_path
+				has_country_flag = dual_path
+			}
+			SCO = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			SCO = {all_core = {add_core = THIS}}
+			set_country_flag = conquest_scotland
+		}
+	}
 	integrate_scotland = {
 		potential = {
 			tag = DUA
@@ -85,12 +103,11 @@ political_decisions = {
 				has_country_flag = english_path
 				has_country_flag = anglois_dilemma_finished
 			}
+			has_country_flag = conquest_scotland
 			state_n_government = 1
-			SCO = {all_core = {owned_by = THIS}}
 		}
 		effect = {
 			add_accepted_culture = scottish 
-			SCO = {all_core = {add_core = THIS}}
 			set_country_flag = integrate_scotland
 		}
 	}
@@ -102,6 +119,10 @@ political_decisions = {
 			
 		}
 		allow = {
+			OR = {
+				has_country_flag = french_path
+				has_country_flag = dual_path
+			}
 			FRA_428 = {owned_by = THIS}
 			FRA_399 = {owned_by = THIS}
 			FRA_411 = {owned_by = THIS}
