@@ -6,7 +6,6 @@ post_napoleonic_thought = {
 	unciv_military = yes
 
 	regular_experience_level = 5
-	activate_unit = infantry_defensive
 	
 	activate_building = fort	
 	army_base = {
@@ -55,7 +54,6 @@ strategic_mobility = {
 	cost = 7200
 	unciv_military = yes
 	regular_experience_level = 5
-	activate_unit = artillery_defensive
 	
 	army_base = {
 		supply_consumption = 0.05
@@ -412,6 +410,7 @@ breech_loaded_rifles = {
 
 	unciv_military = yes
 
+	activate_unit = guard
 	combat_width = -2
 	
 	ai_chance = {
@@ -646,14 +645,6 @@ iron_muzzle_loaded_artillery = {
 		support = 0.25
 		supply_consumption = 0.05
 	}
-	artillery_offensive = {
-		support = 0.25
-		supply_consumption = 0.05
-	}
-	artillery_defensive = {
-		support = 0.25
-		supply_consumption = 0.05
-	}
 	
 	ai_chance = {
 		factor = 1.05
@@ -694,14 +685,6 @@ iron_breech_loaded_artillery = {
 	cost = 10800
 	unciv_military = yes
 	artillery = {
-		support = 0.25
-		supply_consumption = 0.05
-	}
-	artillery_offensive = {
-		support = 0.25
-		supply_consumption = 0.05
-	}
-	artillery_defensive = {
 		support = 0.25
 		supply_consumption = 0.05
 	}
@@ -748,14 +731,6 @@ steel_breech_loaded_artillery = {
 		support = 0.5
 		supply_consumption = 0.05
 	}
-	artillery_offensive = {
-		support = 0.5
-		supply_consumption = 0.05
-	}
-	artillery_defensive = {
-		support = 0.5
-		supply_consumption = 0.05
-	}
 	
 	ai_chance = {
 		factor = 1.05
@@ -796,14 +771,6 @@ indirect_artillery_fire = {
 	cost = 18000
 	unciv_military = yes
 	artillery = {
-		support = 1
-		supply_consumption = 0.05
-	}
-	artillery_offensive = {
-		support = 1
-		supply_consumption = 0.05
-	}
-	artillery_defensive = {
 		support = 1
 		supply_consumption = 0.05
 	}
@@ -850,14 +817,6 @@ heavy_armament_dunno = {
 		support = 0.5
 		supply_consumption = 0.15
 	}
-	artillery_offensive = {
-		support = 0.5
-		supply_consumption = 0.15
-	}
-	artillery_defensive = {
-		support = 0.5
-		supply_consumption = 0.15
-	}
 	
 	ai_chance = {
 		factor = 1.05
@@ -901,7 +860,6 @@ military_staff_system = {
 	cost = 3600
 	unciv_military = yes
 	reinforce_rate = 0.05
-	activate_unit = infantry_offensive
 	
 	army_base = {
 		default_organisation = 5
@@ -947,7 +905,6 @@ military_plans = {
 	cost = 7200
 	unciv_military = yes
 	reinforce_rate = 0.05
-	activate_unit = artillery_offensive
 	
 	army_base = {
 		default_organisation = 5

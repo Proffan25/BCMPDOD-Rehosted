@@ -115,13 +115,6 @@ assimilation_focus;Increase Assimilation Rate;;;;;;;;x;;;;
 assimilation_focus_desc;Increase state assimilation rate by 200%.;;;;;;;;x;;;;
 assimilation_focus_header;Assimilation;;;;;;;;x;;;;
 #############################################;;;;;;;;;;;;;;x
-#New Units;;;;;;;;;;;;;;x
-#############################################;;;;;;;;;;;;;;x
-infantry_offensive;Offensive Infantry;;;;;;;;;;;;;x
-infantry_defensive;Defensive Infantry;;;;;;;;;;;;;x
-artillery_offensive;Offensive Artillery;;;;;;;;;;;;;x
-artillery_defensive;Defensive Artillery;;;;;;;;;;;;;x
-#############################################;;;;;;;;;;;;;;x
 #New Continents;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 phillipines;Philippines;;;;;;;;;x;;;;
@@ -771,10 +764,6 @@ hussar_activation_unciv;Hussar Activation (Unciv);;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;
 hussar_activation_unciv_desc;Debugging Invention to give Uncivs horse units.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
 industrial_tanneries;Industrial Tanneries;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
 industrial_tanneries_desc;In the Victorian era tanneries were often close to the abattoirs and so the skins would often arrive at the tannery fresh and unsalted. With industrial levels of meat consumption, it was inevitable that the leather industry advance as well.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-offensive_infantry_activation;Activate Offensive Infantry;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-defensive_infantry_activation;Activate Defensive Infantry;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-offensive_artillery_activation;Activate Offensive Artillery;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-defensive_artillery_activation;Activate Defensive Artillery;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
 #############################################;;;;;;;;;;;;;;x
 #Additional Triggered Modifiers;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
