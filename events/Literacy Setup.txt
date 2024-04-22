@@ -328,3 +328,39 @@ country_event = {
 		}
 	}
 }
+
+#VEN literacy event
+country_event = {
+	id = 100023
+	title = "Literacy fix"
+	desc = "Literacy fix for the Venice"
+	fire_only_once = yes	
+	trigger = {
+		tag = VEN
+	}
+	mean_time_to_happen = {
+		days = -1
+	}
+	option = {
+		name = "Learn 2 read dude"
+		any_pop = {
+		    limit = {
+			    OR = {
+					has_pop_culture = greek
+					has_pop_culture = croat
+				}
+			}
+			literacy = 0.15
+		}
+		any_owned = {
+			any_pop = {
+				limit = {
+					is_primary_culture = no
+					is_accepted_culture = no
+					type = bureaucrats
+				}
+				pop_type = artisans
+			}				
+		}
+	}
+}
