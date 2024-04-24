@@ -16,6 +16,7 @@ country_event = {
 	}
 	title = "A New General Arrives"
 	desc = "ROBESPEER, I'M COMING TO KILL YOU! In Vicky2, right? NO, IN REAL LIFE."
+    picture = "mrhyde"
 	immediate = {
 		define_general = {
 			name = "Sam Hyde"
@@ -45,6 +46,7 @@ country_event = {
 	}
 	title = "A new admiral arrives"
 	desc = "I'm sending this diplomatic message to cockroach Britain in the hopes that the bongoloids give us back Malvinas. Please give it back..."
+    picture = "diegoblanco"
 	immediate = {
 		define_admiral = {
 			name = "Belgrano Reparations"
