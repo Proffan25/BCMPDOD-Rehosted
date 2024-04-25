@@ -14,7 +14,7 @@ country_event = {
 	mean_time_to_happen = {
 		days = 1
 	}
-	title = "A New General Arrives"
+	title = "What's going on big guy?"
 	desc = "ROBESPEER, I'M COMING TO KILL YOU! In Vicky2, right? NO, IN REAL LIFE."
     picture = "mrhyde"
 	immediate = {
@@ -38,23 +38,23 @@ country_event = {
 	NOT = {
 		OR = {
 			#add tags of countries with specific events here
-			has_leader = "Belgrano Reparations"
+			has_leader = "Diego Blanco"
 		}
 	}
 	mean_time_to_happen = {
 		days = 1
 	}
-	title = "A new admiral arrives"
-	desc = "I'm sending this diplomatic message to cockroach Britain in the hopes that the bongoloids give us back Malvinas. Please give it back..."
+	title = "A message from the President of Argentina"
+	desc = "Hola, my name is Diego Blanco the current president of Argentina, and I'm sending this diplomatic message to cockroach Britain in the hopes that the bongoloids give us back Malvinas. Please give it back..."
     picture = "diegoblanco"
 	immediate = {
 		define_admiral = {
-			name = "Belgrano Reparations"
+			name = "Diego Blanco"
 			personality = defence_3.1
 			background = attack_3.10
 		}
 	}
 	option = {
-		name = "...and please send reparations for the Belgrano, neva forget."		
+		name = "...and please send reparations for the Belgrano, neva forget."
 	}
 }
