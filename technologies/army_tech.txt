@@ -411,6 +411,7 @@ breech_loaded_rifles = {
 	unciv_military = yes
 
 	activate_unit = guard
+	
 	combat_width = -2
 	
 	ai_chance = {
