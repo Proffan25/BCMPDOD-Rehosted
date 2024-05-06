@@ -1241,15 +1241,7 @@ carbon_soil_enrichment = {
 cracking = {
 	limit = { organic_chemistry = 1 }
 	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = oil_pumping_machinery
-		}
-		modifier = {
-			factor = 2
-			management_strategy = 1
-		}
+		base = 100
 	}
 	effect = {
 		activate_building = fuel_refinery 
