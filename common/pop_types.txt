@@ -1538,6 +1538,35 @@ assimilation_chance = {
 			has_culture_core = no
 		}	
 	}
+
+	# Code unique for the dm
+	group = {
+		modifier = {
+			factor = -10
+			country = { 
+				has_country_flag = is_dua
+				NOT = { year = 1870 }
+			}
+			OR = {
+				has_pop_culture = english
+				has_pop_culture = french
+				has_pop_culture = irish
+			}
+		}
+		modifier = {
+			factor = -5
+			country = { 
+				has_country_flag = is_dua
+				NOT = { year = 1870 }
+			}
+			OR = {
+				has_pop_culture = english
+				has_pop_culture = french
+				has_pop_culture = irish
+			}
+			location = { is_core = THIS }
+		}
+	}
 }
 
 #general conversion mtth, same for all pops

@@ -8,6 +8,7 @@ literacy = 0.6
 non_state_culture_literacy = 0.01
 civilized = yes
 
+set_country_flag = is_dua
 #GreaterPowers = prestige
 prestige = 90
 
