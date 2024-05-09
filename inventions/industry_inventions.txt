@@ -628,15 +628,7 @@ refrigerator_technology = {
 ammunition_production = {
 	limit = { mechanized_mining = 1 }
 	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = whitney_n_colts_standardized_small_arms
-		}
-		modifier = {
-			factor = 2
-			army_professionalism = 1
-		}
+		base = 100
 		modifier = {
 			factor = -100
 			not = { civilized = yes }
@@ -649,15 +641,7 @@ ammunition_production = {
 small_arms_production = {
 	limit = { mechanized_mining = 1 }
 	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			strategic_mobility = 1
-		}
-		modifier = {
-			factor = 2
-			early_railroad = 1
-		}
+		base = 100
 		modifier = {
 			factor = -100
 			not = { civilized = yes }
@@ -670,15 +654,7 @@ small_arms_production = {
 explosives_production = {
 	limit = { mechanized_mining = 1 }
 	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			medicine = 1
-		}
-		modifier = {
-			factor = 2
-			invention = nitroglycerin
-		}
+		base = 100
 		modifier = {
 			factor = -100
 			not = { civilized = yes }
@@ -691,15 +667,7 @@ explosives_production = {
 artillery_production = {
 	limit = { mechanized_mining = 1 }
 	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = explosives_production
-		}
-		modifier = {
-			factor = 2
-			iron_muzzle_loaded_artillery = 1
-		}
+		base = 100
 		modifier = {
 			factor = -100
 			not = { civilized = yes }
