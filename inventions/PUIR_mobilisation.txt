@@ -8,15 +8,7 @@ levee_en_masse = {
 		civilized = yes 
 	}
 	chance = {
-		base = 1
-		modifier = {
-			factor = 5
-			military_staff_system = 1
-		}
-		modifier = {
-			factor = 3
-			publishing_industry = 1
-		}
+		base = 100
 	}
 	effect = {
 		mobilisation_size = 0.03		
@@ -27,42 +19,17 @@ levee_en_masse = {
 railroad_mobilisation_timetables = {
 	limit = { steel_railroad = 1 }
 	chance = {
-		base = 2
-		modifier = {
-			factor = 3
-			invention = mobilization_time_tables
-		}
-		modifier = {
-			factor = 5
-			invention = distribution_channels
-		}
-		modifier = {
-			factor = 5
-			invention = pre_planned_depot_systems
-		}
+		base = 100
 	}
 	effect = {
-		mobilisation_size = 0.02		
-
+		mobilisation_size = 0.02
 	}	
 }
 
 improved_railroad_mobilisation_timetables = {
 	limit = { integral_rail_system = 1 }
 	chance = {
-		base = 2
-		modifier = {
-			factor = 3
-			invention = railroad_mobilisation_timetables
-		}
-		modifier = {
-			factor = 5
-			invention = army_military_political_decision_making
-		}
-		modifier = {
-			factor = 5
-			invention = industrialized_armament_industry
-		}
+		base = 100
 	}
 	effect = {
 		mobilisation_size = 0.01		
@@ -88,35 +55,7 @@ total_war_mobilisation = {
 		} 
 	}
 	chance = {
-		base = 5
-		modifier = {
-			factor = 50
-			war = yes
-		}
-		modifier = {
-			factor = 10
-			invention = national_radio_networks
-		}
-		modifier = {
-			factor = 10
-			shift_work = 1
-		}
-		modifier = {
-			factor = 25
-			war_policy = jingoism
-		}
-		modifier = {
-			factor = 10
-			war_policy = pro_military
-		}
-		modifier = {
-			factor = -25
-			war_policy = anti_military
-		}
-		modifier = {
-			factor = -75
-			war_policy = pacifism
-		}
+		base = 100
 	}
 	effect = {
 		army_base = {
