@@ -61,7 +61,7 @@ country_event = {
 				value = -20
 		}
 		relation = {
-				who = TRN
+				with = TRN
 				value = -20
 		}
 	}
@@ -124,7 +124,7 @@ country_event = {
 				value = -20
 		}
 		relation = {
-				who = ORA
+				with = ORA
 				value = -20
 		}
 	}
@@ -188,7 +188,7 @@ country_event = {
 				value = -40
 		}
 		relation = {
-				who = ZUL
+				with = ZUL
 				value = -40
 		}
 	}

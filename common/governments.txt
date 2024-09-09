@@ -12,6 +12,8 @@ proletarian_dictatorship = {
 	flagType = communist
 }
 
+
+
 presidential_dictatorship = {
 	#which ideology of parties.
 	reactionary = yes
@@ -20,7 +22,7 @@ presidential_dictatorship = {
 	appoint_ruling_party = yes
 	flagType = republic
 }
- 
+
 bourgeois_dictatorship = {
 	#which ideology of parties.
 	anarcho_liberal = yes
@@ -90,25 +92,49 @@ democracy = {
 	appoint_ruling_party = yes
 	flagType = republic
 }
- 
 
 theocracy = {
-	#which ideology of parties.
-	reactionary = yes
-	conservative = yes
-	
-	election = no
-	appoint_ruling_party = yes
-}
- 
-merchant_republic = {
-	liberal = yes
-	socialist = yes
-	conservative = yes
-	reactionary = yes
+    #which ideology of parties.
+    reactionary = yes
+    conservative = yes
 
-	election = yes
-	duration = 48
-	appoint_ruling_party = yes
-	flagType = republic
+    election = no
+    appoint_ruling_party = yes
+}
+
+absolute_empire = {
+    liberal = yes
+    conservative = yes
+    reactionary = yes
+
+    election = no
+    appoint_ruling_party = yes
+    flagType = monarchy
+}
+
+semi_constitutional_empire = {
+    liberal = yes
+    socialist = yes
+    conservative = yes
+    reactionary = yes
+
+    election = yes
+    duration = 48
+    appoint_ruling_party = yes
+    flagType = monarchy
+}
+
+constitutional_empire = {
+    liberal = yes
+    socialist = yes
+    conservative = yes
+    reactionary = yes
+    communist = yes
+    radical = yes
+    fascist = yes
+
+    election = yes
+    duration = 48
+    appoint_ruling_party = yes
+    flagType = monarchy
 }

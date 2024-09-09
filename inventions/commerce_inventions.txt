@@ -6,7 +6,7 @@ multitude_of_financial_instruments = {
 		base = 2
 		modifier = {
 			factor = 2
-			nationalvalue = nv_productivity
+			nationalvalue = nv_liberty
 		}
 		modifier = {
 			factor = 2
@@ -220,7 +220,7 @@ buying_on_margin = {
 		}
 		modifier = {
 			factor = 1
-			nationalvalue = nv_productivity
+			nationalvalue = nv_liberty
 		}
 	}
 	effect = {
@@ -388,26 +388,6 @@ interest_inflation_weapon = {
 	}
 }
 #market_determined_exchange_rates
-hyperinflation = {
-	limit = { market_determined_exchange_rates = 1 }
-	news = no
-	chance = {
-		base = 2
-		modifier = {
-			factor = 1
-			economic_policy = laissez_faire
-		}
-		modifier = {
-			factor = 2
-			war_exhaustion = 4
-		}
-	}
-	core_pop_consciousness_modifier = 0.01
-	effect = {
-		loan_interest = -0.01
-		factory_cost = 0.1
-	}
-}
 #eary_classical_theory
 john_ramsay_mcculloch = {
 	limit = { early_classical_theory_and_critique = 1 }
@@ -471,7 +451,7 @@ john_elliot_cairnes = {
 		base = 2
 		modifier = {
 			factor = 2
-			nationalvalue = nv_productivity
+			nationalvalue = nv_liberty
 		}
 		modifier = {
 			factor = 1
@@ -805,7 +785,7 @@ william_cunningham = {
 		}
 		modifier = {
 			factor = 2
-			nationalvalue = nv_productivity
+			nationalvalue = nv_liberty
 		}
 	}
 	effect = {
@@ -881,7 +861,7 @@ carl_menger = {
 		}
 		modifier = {
 			factor = 2
-			nationalvalue = nv_productivity
+			nationalvalue = nv_liberty
 		}
 	}
 	effect = {
@@ -919,7 +899,7 @@ alfred_marshall = {
 		}
 		modifier = {	
 			factor = 2
-			nationalvalue = nv_productivity
+			nationalvalue = nv_liberty
 		}
 	}
 	effect = {
@@ -995,7 +975,7 @@ knut_wicksell = {
 		}
 		modifier = {
 			factor = 3
-			nationalvalue = nv_productivity
+			nationalvalue = nv_liberty
 		}
 	}
 	effect = {
@@ -1163,7 +1143,7 @@ polypoly_structure = {
 		}
 		modifier = {
 			factor = 2
-			nationalvalue = nv_productivity
+			nationalvalue = nv_liberty
 		}
 	}
 	effect = {

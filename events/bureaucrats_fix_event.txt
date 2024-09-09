@@ -12,8 +12,10 @@ country_event = {
 		any_owned = {
 			any_pop = {
 				limit = { 
-					is_primary_culture = no
-					is_accepted_culture = no
+					AND = {
+						is_primary_culture = no
+						is_accepted_culture = no
+					}
 					type = bureaucrats
 				}
 				pop_type = artisans

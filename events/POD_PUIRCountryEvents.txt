@@ -196,6 +196,11 @@ country_event = {
 			limit = { is_our_vassal = THIS }
 			casus_belli = {
 				target = FROM
+				type = acquire_state
+				months = 12
+			}
+			casus_belli = {
+				target = FROM
 				type = humiliate
 				months = 12
 			}

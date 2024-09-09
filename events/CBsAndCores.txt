@@ -586,7 +586,10 @@ province_event = {
 			is_primary_culture = yes
 			is_accepted_culture = yes
 		}
-		any_neighbor_province = { is_core = THIS }
+		OR = {
+			any_neighbor_province = { is_core = THIS }
+			total_pops = 100000
+		}
 		owner = {
 			civilized = yes
 			is_vassal = no

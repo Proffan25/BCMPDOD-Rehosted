@@ -85,6 +85,12 @@ tier_1_focus =
 		soldiers = 0.20 #20% more likeley to become this type
 		icon = 12
 		outliner_show_as_percent = yes
+		limit = {
+			OR = {
+				NOT = { state_scope = { soldiers = 0.05 } }
+				owner = { has_country_flag = mercenary_state }
+			}
+		}
 	}
 	
 }	
@@ -181,6 +187,10 @@ tier_2_focus =
 		limit = {
 			owner = { 
 				has_country_flag = tier_2
+			}
+			OR = {
+				NOT = { state_scope = { soldiers = 0.05 } }
+				owner = { has_country_flag = mercenary_state }
 			}
 		}
 		outliner_show_as_percent = yes
@@ -328,6 +338,10 @@ tier_3_focus =
 			owner = { 
 				has_country_flag = tier_3
 			}
+			OR = {
+				NOT = { state_scope = { soldiers = 0.05 } }
+				owner = { has_country_flag = mercenary_state }
+			}
 		}
 		outliner_show_as_percent = yes
 	}
@@ -471,6 +485,10 @@ tier_4_focus =
 			owner = { 
 				has_country_flag = tier_4
 			}
+			OR = {
+				NOT = { state_scope = { soldiers = 0.05 } }
+				owner = { has_country_flag = mercenary_state }
+			}
 		}
 		outliner_show_as_percent = yes
 	}
@@ -509,6 +527,10 @@ tier_4_focus =
 		limit = {
 			owner = { 
 				has_country_flag = tier_4
+			}
+			OR = {
+				NOT = { state_scope = { soldiers = 0.05 } }
+				owner = { has_country_flag = mercenary_state }
 			}
 		}
 	}
@@ -622,6 +644,10 @@ tier_5_focus =
 			owner = { 
 				has_country_flag = tier_5
 			}
+			OR = {
+				NOT = { state_scope = { soldiers = 0.05 } }
+				owner = { has_country_flag = mercenary_state }
+			}
 		}
 		outliner_show_as_percent = yes
 	}
@@ -654,7 +680,7 @@ tier_5_focus =
 	
 	input_clerks =
 	{
-		clerks = 0.20
+		craftsmen = 0.20
 		local_factory_input = -0.25
 		outliner_show_as_percent = yes
 		icon = 55
@@ -667,7 +693,7 @@ tier_5_focus =
 	
 	output_clerks =
 	{
-		clerks = 0.20
+		craftsmen = 0.20
 		local_factory_output = 0.5
 		outliner_show_as_percent = yes
 		icon = 56
@@ -773,6 +799,10 @@ tier_6_focus =
 			owner = { 
 				has_country_flag = tier_6
 			}
+			OR = {
+				NOT = { state_scope = { soldiers = 0.05 } }
+				owner = { has_country_flag = mercenary_state }
+			}
 		}
 		outliner_show_as_percent = yes
 	}
@@ -815,6 +845,10 @@ tier_6_focus =
 		limit = {
 			owner = { 
 				has_country_flag = tier_6
+			}
+			OR = {
+				NOT = { state_scope = { soldiers = 0.05 } }
+				owner = { has_country_flag = mercenary_state }
 			}
 		}
 	}

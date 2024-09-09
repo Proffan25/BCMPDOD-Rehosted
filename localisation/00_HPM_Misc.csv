@@ -244,7 +244,7 @@ ENDGAME_DESC;One hundred momentous years have passed and we have entered the mod
 DIPLOMACY_FILTER_NORTH_AMERICA;North America;;;;;;;;;;x;;;;
 DIPLOMACY_FILTER_OCEANIA;Near East;;;;;;;;;;x;;;;
 DIPLOMACY_FILTER_OCEANIA_TOOLTIP;List §YNear Eastern§W countries;;;;;;;;;;;;;;;;x;;;;
-north_america;Arcadia;;;;;;;;;;;;;;;;;;;;;;;x
+north_america;North America;;;;;;;;;;;;;;;;;;;;;;;x
 oceania;Near East;;;;;;;;;;;;;;;;;;;;;;;x
 siberian;Siberian Minor;;;;;;;;;;;;;;;;;;;;;;;x
 tanzimat_reforms_enacted;Tanzimat Reforms Enacted;;;;;;;;;;;;;;;;;;;;;;;;x;
@@ -262,7 +262,6 @@ AGRESSION_WAR_NAME_DEMOCRACY;$ORDER$$FIRST$-$SECOND$ Counterrevolution;;;;;;;;;;
 aristocrats;Landowners;;;;;;;;;;;;;;;;;;;;x;;;;
 appointed_desc;Landowners or capitalists have been assigned seats in the Upper House by the leader of the country.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 landed_voting_desc;Only Landowners and Capitalists may vote.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-promote_aristocrats;Encourage Landowners ;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ELECTIONSTART_1;The Elections of $COUNTRY$ are starting;;;;;;;;;;;;;;;;;;;;;;x;;;;
 sepoy_rebellion;Sepoy Rebellion;;;;;;;;;;;;;;;;;;;;;x
 IS_SUBSTATE_OF;Is a substate;;;;;;;;;;;;;;;;;;;;;x
@@ -347,7 +346,6 @@ EDU_DESC;The educational budget is used to pay the intellectuals and to produce 
 PV_CLERGY_LIT_DESC1;$NUM$ of your population in $LOC$ are Intellectuals.;;;;;;;;;;;;;;;;;;;;;;;;;;x
 POP_CON_CLERGY;Intellectuals;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 clergymen;Intellectuals;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;
-promote_clergymen;Encourage Intellectuals;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 land_attack_modifier;Land Unit Attack Modifier;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 BUDGET_TAX_RICH;Taxes (Upper Class);;;;;;;;;;;;;;x;;;;
 BUDGET_TAX_MIDDLE;Taxes (Middle Class);;;;;;;;;;;x;;;;

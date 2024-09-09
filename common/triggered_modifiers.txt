@@ -2,23 +2,6 @@
 # these are checked for each countries once/month and then applied.
 #
 # Effects are fully scriptable here.
-
-#Money Hoarding Mallus to Taxes and Tariffs test implementation
-#money_hoard_1 = {
-#	trigger = {
-#		ai = no
-#		money = 10000000
-#		NOT = { tag = GHO }
-#		NOT = { tag = LCT }
-#		economic_policy = laissez_faire
-#	}
-#	max_tax = -0.59
-#	min_tax = 0.01
-#	max_tariff = -0.75
-#	min_tariff = 0.25
-#	icon = 9
-#}
-
 desperate_nation  = {
 	trigger = {
 		NOT = {
@@ -29,7 +12,7 @@ desperate_nation  = {
 	}
 	global_population_growth = 0.01
 	mobilisation_economy_impact = -0.80
-	#supply_consumption = -0.80
+	supply_consumption = -0.80
 	#mobilisation_size = 0.2
 	tax_efficiency = 0.50 #50% boost
 	icon = 6
@@ -44,7 +27,7 @@ microscopic_nation  = {
 	}
 	global_population_growth = 0.007
 	mobilisation_economy_impact = -0.75
-	#supply_consumption = -0.75
+	supply_consumption = -0.75
 	#mobilisation_size = 0.1
 	tax_efficiency = 0.40 #40% boost
 	icon = 6
@@ -63,7 +46,7 @@ tiny_nation  = {
 	}
 	global_population_growth = 0.005
 	mobilisation_economy_impact = -0.50
-	#supply_consumption = -0.50
+	supply_consumption = -0.50
 	#mobilisation_size = 0.04
 	tax_efficiency = 0.25 #25% boost
 	icon = 6
@@ -80,7 +63,7 @@ small_nation  = {
 	}
 	global_population_growth = 0.003
 	mobilisation_economy_impact = -0.25
-	#supply_consumption = -0.25
+	supply_consumption = -0.25
 	#mobilisation_size = 0.03
 	tax_efficiency = 0.20 #20% boost
 	icon = 6
@@ -102,7 +85,7 @@ medium_nation  = {
 	}
 	global_population_growth = 0.001
 	mobilisation_economy_impact = -0.10
-	#supply_consumption = -0.10
+	supply_consumption = -0.10
 	#mobilisation_size = 0.01
 	tax_efficiency = 0.10 #10% boost
 	icon = 6
@@ -117,7 +100,7 @@ average_nation  = {
 		NOT = { total_pops = 12500000 } #12.5 million POPs/50 million population
 		ai = no
 	}
-	##supply_consumption = 0.05
+	#supply_consumption = 0.05
 	#mobilisation_size = -0.01
 	#tax_efficiency = -0.05 #5% malus
 	#max_tariff = -0.1 #10% 
@@ -133,7 +116,7 @@ large_nation  = {
 		ai = no
 	}
 	#global_population_growth = -0.001
-	##supply_consumption = 0.1
+	#supply_consumption = 0.1
 	#mobilisation_size = -0.02
 	#tax_efficiency = -0.05 #5% malus
 	#max_tariff = -0.05 #5% was 15%
@@ -158,7 +141,7 @@ empire  = {
 	}
 	#global_population_growth = -0.001
 	#mobilisation_size = -0.02
-	##supply_consumption = 0.15
+	#supply_consumption = 0.15
 	#tax_efficiency = -0.07 #7% malus
 	#max_tariff = -0.10 #10% was 20%
 	#factory_owner_cost = -0.10 #10% decrease in cost for buildings
@@ -183,7 +166,7 @@ medium_empire  = {
 	}
 	#global_population_growth = -0.002
 	#mobilisation_size = -0.03
-	##supply_consumption = 0.2
+	#supply_consumption = 0.2
 	#tax_efficiency = -0.09 #9% malus
 	#max_tariff = -0.15 #15% was 20%
 	#research_points_modifier = 0.1 #10% increase
@@ -209,7 +192,7 @@ large_empire  = {
 	}
 	#global_population_growth = -0.003
 	#mobilisation_size = -0.04
-	##supply_consumption = 0.3 #30% increase
+	#supply_consumption = 0.3 #30% increase
 	#tax_efficiency = -0.11 #11% malus
 	#max_tariff = -0.20 #20% was 25%
 	#research_points_modifier = 0.13 #13% increase
@@ -227,7 +210,7 @@ insane_empire  = {
 	}
 	#global_population_growth = -0.004
 	#mobilisation_size = -0.07
-	##supply_consumption = 0.6 #60% increase
+	#supply_consumption = 0.6 #60% increase
 	#tax_efficiency = -0.2 #20% malus
 	#max_tariff = -0.25 #25% malus
 	#factory_owner_cost = -0.15 #15% decrease in cost for buildings
@@ -244,7 +227,7 @@ insane_empire2  = {
 	}
 	#global_population_growth = -0.004
 	#mobilisation_size = -0.07
-	##supply_consumption = 0.6 #60% increase
+	#supply_consumption = 0.6 #60% increase
 	#tax_efficiency = -0.2 #20% malus
 	#max_tariff = -0.60 #60% malus
 	#factory_owner_cost = -0.15 #15% decrease in cost for buildings
@@ -264,30 +247,30 @@ ai_boost = {
 	icon = 9
 }
 
-#gorkha_kingdom = {
-#	trigger = {
-#		is_culture_group = central_asian
-#		has_pop_culture = nepali 
-#		NOT = { total_pops = 1250000 } #1.25 million POPs/5 Million population }
-#	}
-#	global_population_growth = 0.01
-#	icon = 17
-#}
+gorkha_kingdom = {
+	trigger = {
+		is_culture_group = central_asian
+		has_pop_culture = nepali 
+		NOT = { total_pops = 1250000 } #1.25 million POPs/5 Million population }
+	}
+	global_population_growth = 0.01
+	icon = 17
+}
 
-#fairer_taxation = {
-#	trigger = {
-#		ai = no
-#		civilized = yes
-#		year = 1890
-#		OR = {
-#			economic_policy = planned_economy
-#			economic_policy = state_capitalism
-#			economic_policy = interventionism
-#		}	
-#	}
-#	max_tax = 0.8
-#	icon = 9
-#}
+fairer_taxation = {
+	trigger = {
+		ai = no
+		civilized = yes
+		year = 1890
+		OR = {
+			economic_policy = planned_economy
+			economic_policy = state_capitalism
+			economic_policy = interventionism
+		}	
+	}
+	max_tax = 0.8
+	icon = 9
+}
 
 tariff_efficiency_boost = {
 	trigger = {
@@ -299,6 +282,9 @@ tariff_efficiency_boost = {
 
 social_reformed_nation = {
 		trigger = {
+			NOT = {
+				has_country_flag = zombie_outbreak
+			}
 			exists = yes
 			wage_reform = good_minimum_wage
 			work_hours = eight_hours
@@ -315,6 +301,9 @@ social_reformed_nation = {
 
 political_reformed_nation = {
 		trigger = {
+			NOT = {
+				has_country_flag = zombie_outbreak
+			}
 			exists = yes
 			slavery = no_slavery
 			vote_franschise = universal_voting
@@ -540,7 +529,7 @@ save_the_nation0.5  = {
 	#global_immigrant_attract = -0.15
 	land_organisation = 0.0125
 	mobilisation_size = 0.005
-	#supply_consumption = -0.025
+	supply_consumption = -0.025
 	icon = 9
 }
 
@@ -555,7 +544,7 @@ save_the_nation1  = {
 	#global_immigrant_attract = -0.3
 	land_organisation = 0.025
 	mobilisation_size = 0.01
-	#supply_consumption = -0.05
+	supply_consumption = -0.05
 	icon = 9
 }
 
@@ -570,7 +559,7 @@ save_the_nation1.5  = {
 	global_immigrant_attract = -0.45
 	land_organisation = 0.05
 	mobilisation_size = 0.015
-	#supply_consumption = -0.1
+	supply_consumption = -0.1
 	mobilization_impact = 0.125
 	mobilisation_economy_impact = -0.0625
 	icon = 9
@@ -587,7 +576,7 @@ save_the_nation2  = {
 	global_immigrant_attract = -0.60
 	land_organisation = 0.075
 	mobilisation_size = 0.02
-	#supply_consumption = -0.15
+	supply_consumption = -0.15
 	mobilization_impact = 0.25
 	mobilisation_economy_impact = -0.125
 	icon = 9
@@ -604,7 +593,7 @@ save_the_nation2.5  = {
 	global_immigrant_attract = -0.75
 	land_organisation = 0.0875
 	mobilisation_size = 0.025
-	#supply_consumption = -0.175
+	supply_consumption = -0.175
 	mobilization_impact = 0.375
 	mobilisation_economy_impact = -0.19
 	icon = 9
@@ -621,7 +610,7 @@ save_the_nation3  = {
 	global_immigrant_attract = -0.9
 	land_organisation = 0.1
 	mobilisation_size = 0.03
-	#supply_consumption = -0.20
+	supply_consumption = -0.20
 	mobilization_impact = 0.5
 	mobilisation_economy_impact = -0.25
 	icon = 9
@@ -638,7 +627,7 @@ save_the_nation3.5  = {
 	global_immigrant_attract = -1.05
 	land_organisation = 0.15
 	mobilisation_size = 0.035
-	#supply_consumption = -0.25
+	supply_consumption = -0.25
 	mobilization_impact = 0.75
 	mobilisation_economy_impact = -0.375
 	icon = 9
@@ -655,7 +644,7 @@ save_the_nation4  = {
 	global_immigrant_attract = -1.2
 	land_organisation = 0.2
 	mobilisation_size = 0.04
-	#supply_consumption = -0.30
+	supply_consumption = -0.30
 	mobilization_impact = 1
 	mobilisation_economy_impact = -0.5
 	icon = 9
@@ -673,7 +662,7 @@ save_the_nation4.5  = {
 	land_organisation = 0.225
 	land_unit_start_experience = 2.5
 	mobilisation_size = 0.045
-	#supply_consumption = -0.30
+	supply_consumption = -0.30
 	mobilization_impact = 1
 	mobilisation_economy_impact = -0.58
 	icon = 9
@@ -690,7 +679,7 @@ save_the_nation5  = {
 	land_organisation = 0.25
 	land_unit_start_experience = 5
 	mobilisation_size = 0.05
-	#supply_consumption = -0.30
+	supply_consumption = -0.30
 	mobilization_impact = 1
 	mobilisation_economy_impact = -0.66
 	icon = 9

@@ -232,6 +232,10 @@ migration_target =
 	}
 	modifier = {
 		factor = 1.2
+		total_pops = 150000
+	}	
+	modifier = {
+		factor = 1.2
 		total_pops = 250000
 	}
 	modifier = {
@@ -243,9 +247,16 @@ migration_target =
 		total_pops = 750000
 	}	
 	modifier = {
-		factor = 1.2
-		total_pops = 150000
-	}	
+		factor = 0
+				state_scope = {
+					has_factories = no
+				}
+				can_build_factory = no
+		OR = { 
+			unemployment_by_type = { type = farmers value = 0.1  }
+			unemployment_by_type = { type = labourers value = 0.1  }
+		}
+	}
 	modifier = {
     		factor = 4
     		has_culture_core = yes
@@ -257,8 +268,8 @@ migration_target =
 	modifier = {
 		factor = 2
 		state_scope = {
-			has_factories = yes
-		}
+					has_factories = yes
+				}
 	}
 	modifier = {
 		factor = 1.2
@@ -285,6 +296,23 @@ migration_target =
 	modifier = {
 		factor = 1.05
 		is_coastal = yes
+	}
+	
+	modifier = {
+		factor = 0.6
+		terrain = mountain
+	}
+	modifier = {
+		factor = 0.1
+		terrain = desert
+	}
+	modifier = {
+		factor = 0.6
+		terrain = marsh
+	}
+	modifier = {
+		factor = 0.01
+		terrain = arctic
 	}
 	modifier = {
 		factor = 2

@@ -550,6 +550,27 @@ canned_food_factory = {
 	pop_build_factory = yes
 }
 
+dye_factory = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		machine_parts = 80
+		iron = 200
+		cement = 200
+		lumber = 200
+	}
+	time = 30
+	visibility = yes
+	onmap = no
+
+	production_type = dye_factory
+	pop_build_factory = yes
+}
+
 liquor_distillery = {
 	type = factory
 
@@ -634,6 +655,46 @@ fabric_factory = {
 	pop_build_factory = yes
 }
 
+wool_fabric_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		machine_parts = 20
+		iron = 200
+		cement = 200
+		lumber = 200
+	}
+	time = 30
+	visibility = yes
+	onmap = no
+		
+	production_type = wool_fabric_factory
+	pop_build_factory = yes
+}
+
+leather_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		machine_parts = 20
+		iron = 200
+		cement = 200
+		lumber = 200
+	}
+	time = 30
+	visibility = yes
+	onmap = no
+		
+	production_type = leather_factory
+	pop_build_factory = yes
+}
+
 cement_factory = {
 	type = factory
 	on_completion = factory
@@ -696,6 +757,7 @@ fertilizer_factory = {
 
 fort = {      
 	type = fort
+	cost = 400
 	goods_cost =
 	{
 		lumber = 600
@@ -714,6 +776,7 @@ fort = {
 
 naval_base = {    
 	type = naval_base
+	cost = 5000
 	goods_cost =
 	{
 		timber = 800
@@ -731,7 +794,7 @@ naval_base = {
 	max_level = 6
 	colonial_points = { 30 50 70 90 95 100 } #points at levels 1-6
 	province = yes
-	one_per_state = yes
+    one_per_state = yes
 	colonial_range = 50
 	local_ship_build = -0.05
 }

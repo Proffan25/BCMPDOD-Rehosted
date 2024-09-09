@@ -2,10 +2,6 @@
 # scriptable and usable for event-system below.
 ##################################################################################################
 
-youre_kicked_mate = {
-	icon = 19
-}
-
 ### Rip from Zombie
 kinda_bad_badboy = {
 	loan_interest = 4
@@ -24,6 +20,54 @@ kinda_bad_badboy = {
 	research_points_modifier = -0.6
 	cb_generation_speed_modifier = -0.3
 	icon = 8
+}
+
+##### Apocalypse 1836 #####
+
+state_of_emergency = {
+	mobilisation_size = 0.05
+	land_organisation = 0.05
+	naval_organisation = 0.05
+	org_regain = 0.1
+	icon = 15
+}
+
+zombie_outbreak = {
+	immigrant_attract = -1.0
+	pop_consciousness_modifier = -0.3
+	pop_militancy_modifier = 1.0
+	population_growth = -0.020
+	icon = 20
+}
+
+do_not_annex = {
+	immigrant_attract = -.001
+	icon = 20
+}
+
+accepts_new_provinces = {
+	immigrant_attract = -.001
+	icon = 20
+}
+
+##### Weapons of Mass Destruction #####
+
+developing_bioweapons = {
+	tax_efficiency = -0.15
+	tariff_efficiency_modifier = -0.05
+	badboy = 0.1
+	icon = 15
+}
+
+experimental_bioweapon = {
+	prestige = 1
+	badboy = 0.1
+	icon = 15
+}
+
+bioweapon_cooldown = {
+	badboy = 0.2
+	icon = 16
 }
 
 ##### POLITICAL EVENTS ######
@@ -108,7 +152,7 @@ uncivilized_isolationism = {
 }
 
 china_rp_nerf = {
-	#research_points_on_conquer = -1000.0
+	research_points_on_conquer = -1000.0
 	icon = 10
 }
 
@@ -204,7 +248,7 @@ colonial_recruitment = {
 	##immigrant_attract = 1		#100%
 	life_rating = 0.1
 	population_growth = 0.001
-	#assimilation_rate = 0.25
+	assimilation_rate = 0.25
 	icon = 9
 }
 
@@ -230,7 +274,7 @@ muhammad_alis_reforms = {
 
 female_suffrage = {
 	global_immigrant_attract = 0.1	#10%
-	#global_assimilation_rate = 0.1  #10%
+	global_assimilation_rate = 0.1  #10%
 	poor_vote = 0.05
 	middle_vote = 0.02
 	rich_vote = -0.01
@@ -427,7 +471,7 @@ anaconda_plan = {
 
 the_homestead_act = {
 	global_immigrant_attract = 0.50	#50%
-	#global_assimilation_rate = 0.25
+	global_assimilation_rate = 0.25
 	icon = 9
 }
 
@@ -438,7 +482,7 @@ usa_immigration_buff = {
 
 the_homestead_act_mexico = {
 	global_immigrant_attract = 0.30	#30%
-	#global_assimilation_rate = 0.25
+	global_assimilation_rate = 0.25
 	icon = 9
 }
 
@@ -451,6 +495,7 @@ the_bonnie_blue_flag = {
 	leadership = 2
 	mobilisation_economy_impact = -0.25
 	mobilisation_size = 0.15
+	unit_recruitment_time = -0.5
 	icon = 15
 }
 
@@ -508,7 +553,7 @@ liquor_prohibition = {
 ##### NATIONALIST UPRISINGS #####
 minority_building_restrictions = {
 	non_accepted_pop_militancy_modifier = 0.05
-	#assimilation_rate = 0.05
+	assimilation_rate = 0.05
 	icon = 16
 }
 
@@ -520,7 +565,7 @@ dryzymalas_wagon = {
 
 discriminatory_school_system = {
 	research_points_modifier = -0.02
-	#assimilation_rate = 0.05
+	assimilation_rate = 0.05
 	icon = 8
 }
 
@@ -556,7 +601,7 @@ international_negotiations = {
 the_statue_of_liberty = {
 	prestige = 0.1 #was 0.4
 	global_immigrant_attract = 0.30	#30% was 200%
-	#global_assimilation_rate = 0.25
+	global_assimilation_rate = 0.25
 	icon = 15
 }
 
@@ -854,7 +899,7 @@ badboymod = {
 ### PUIR-Canada###
 dominion_lands_act = {
 	global_immigrant_attract = 0.10
-	#global_assimilation_rate = 0.25
+	global_assimilation_rate = 0.25
 	icon = 17
 }
 
@@ -938,6 +983,7 @@ oil_metropolis = {
 
 ###PUIR-Russia###
 dmitry_alekseyevich_milyutin = {
+	unit_recruitment_time = -0.1
 	mobilisation_size = 0.01
 	army_tech_research_bonus = 0.1
 	land_organisation = -0.1
@@ -972,6 +1018,7 @@ generic_neutrality = {
 Francias_Enlightenment = {
 	rgo_output = 0.05
 	global_immigrant_attract = 0.05
+	unit_recruitment_time = -0.1
 	mobilisation_size = 0.05
 	min_military_spending = 0.5
 	icon = 17
@@ -1122,26 +1169,26 @@ timber_employment_fix = {
 
 ### Dynamic Cores ###
 integration_refusal = {
-	#assimilation_rate = -0.1
+	assimilation_rate = -0.1
 	immigrant_attract = -0.1
 	pop_militancy_modifier = -0.02
 	icon = 7
 }
 
 core_integration = {
-	#assimilation_rate = 0.1
+	assimilation_rate = 0.1
 	pop_consciousness_modifier = 0.05
 	non_accepted_pop_consciousness_modifier = 0.01
 	icon = 7
 }
 
 national_assimilation = {
-	#assimilation_rate = 0.1
+	assimilation_rate = 0.1
 	icon = 7
 }
 
 national_assimilation_rejection = {
-	#assimilation_rate = -0.2
+	assimilation_rate = -0.2
 	immigrant_attract = -0.1
 	pop_militancy_modifier = 0.1
 	non_accepted_pop_militancy_modifier = 0.01
@@ -1241,7 +1288,7 @@ ultranationalism_modifier = {
 	global_population_growth = 0.002
 	suppression_points_modifier = 0.2
 	global_immigrant_attract = -2
-	#global_assimilation_rate = -2
+	global_assimilation_rate = -2
 	political_reform_desire = -0.1
 	non_accepted_pop_militancy_modifier = 0.05
 	icon = 15
@@ -1256,7 +1303,7 @@ collectivisation_modifier = {
 	max_tariff = 0.35 #cancels out all malus from nation modifiers
 	#tariff_efficiency_modifier = -0.5
 	global_population_growth = -0.001
-	#global_assimilation_rate = -0.25
+	global_assimilation_rate = -0.25
 	icon = 11
 }
 
@@ -1269,9 +1316,4 @@ classless_society_modifier = {
 	political_reform_desire = -0.1
 	leadership_modifier = -0.1
 	icon = 17
-}
-
-incan_breadbasket = {
-	population_growth = 0.002
-	icon = 19
 }
