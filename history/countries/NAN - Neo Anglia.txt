@@ -1,7 +1,7 @@
 capital = 2348
 primary_culture = beornian
 culture = english
-religion = protestant
+religion = animist
 government = absolute_monarchy
 plurality = 30
 nationalvalue = nv_order

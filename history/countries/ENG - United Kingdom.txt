@@ -1,6 +1,6 @@
 capital = 303
 primary_culture = english
-religion = protestant
+religion = animist
 government = hms_government
 plurality = 30
 nationalvalue = nv_order

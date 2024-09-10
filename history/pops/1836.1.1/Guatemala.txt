@@ -4,67 +4,67 @@
 2186 = {
     aristocrats = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 1275
     }
 
     bureaucrats = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 371
     }
 
     officers = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 318
     }
 
     clergymen = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 583
     }
 
     artisans = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 2868
     }
 
     soldiers = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 2921
     }
 
     farmers = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 49618
     }
 
     clergymen = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 281
     }
 
     artisans = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 2625
     }
 
     soldiers = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 663
     }
 
     farmers = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 49062
     }
 }
@@ -72,55 +72,55 @@
 2187 = {
     aristocrats = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 371
     }
 
     clergymen = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 158
     }
 
     artisans = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 743
     }
 
     soldiers = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 2921
     }
 
     farmers = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 81475
     }
 
     clergymen = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 1312
     }
 
     soldiers = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 351
     }
 
     farmers = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 24531
     }
 }
@@ -128,55 +128,55 @@
 2188 = {
     aristocrats = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 318
     }
 
     clergymen = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 106
     }
 
     artisans = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 637
     }
 
     soldiers = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 197
     }
 
     farmers = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 11527
     }
 
     clergymen = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 62
     }
 
     artisans = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 750
     }
 
     soldiers = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 195
     }
 
     farmers = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 14031
     }
 }
@@ -184,55 +184,55 @@
 2189 = {
     aristocrats = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 31
     }
 
     clergymen = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 52
     }
 
     artisans = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 106
     }
 
     soldiers = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 26
     }
 
     farmers = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 1912
     }
 
     clergymen = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 31
     }
 
     artisans = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 187
     }
 
     soldiers = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 38
     }
 
     farmers = {
         culture = granadan
-        religion = catholic
+        religion = animist
         size = 3500
     }
 }
