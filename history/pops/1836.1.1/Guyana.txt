@@ -5,61 +5,55 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 100
+        size = 94
     }
 
     bureaucrats = {
         culture = granadan
         religion = animist
-        size = 50
+        size = 47
     }
 
     clergymen = {
-        culture = granadan
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = granadan
-        religion = animist
-        size = 350
-    }
-
-    soldiers = {
         culture = granadan
         religion = animist
         size = 23
     }
 
-    farmers = {
-        culture = granadan
-        religion = animist
-        size = 100
-    }
-
-    clergymen = {
-        culture = granadan
-        religion = animist
-        size = 181
-    }
-
     artisans = {
         culture = granadan
         religion = animist
-        size = 1707
+        size = 329
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 380
+        size = 379
+    }
+
+    farmers = {
+        culture = granadan
+        religion = animist
+        size = 94
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = animist
+        size = 170
+    }
+
+    artisans = {
+        culture = granadan
+        religion = animist
+        size = 1605
     }
 
     slaves = {
         culture = afro_caribeno
         religion = animist
-        size = 31918
+        size = 30019
     }
 }
 #Mahdia (4000/1000 POPS)
@@ -67,31 +61,31 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 22
+        size = 21
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 58
+        size = 55
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 120
+        size = 113
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 30
+        size = 28
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 2196
+        size = 2065
     }
 }
 #Essequibo (33000/8250 POPS)
@@ -99,55 +93,49 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 50
+        size = 47
     }
 
     clergymen = {
-        culture = granadan
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = granadan
-        religion = animist
-        size = 100
-    }
-
-    soldiers = {
         culture = granadan
         religion = animist
         size = 23
     }
 
-    farmers = {
-        culture = granadan
-        religion = animist
-        size = 50
-    }
-
-    clergymen = {
-        culture = granadan
-        religion = animist
-        size = 181
-    }
-
     artisans = {
         culture = granadan
         religion = animist
-        size = 731
+        size = 94
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 188
+        size = 199
+    }
+
+    farmers = {
+        culture = granadan
+        religion = animist
+        size = 47
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = animist
+        size = 170
+    }
+
+    artisans = {
+        culture = granadan
+        religion = animist
+        size = 687
     }
 
     slaves = {
         culture = afro_caribeno
         religion = animist
-        size = 20871
+        size = 19629
     }
 }
 #Biloka (4000/1000 POPS)
@@ -155,30 +143,30 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 22
+        size = 21
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 58
+        size = 55
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 120
+        size = 113
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 30
+        size = 28
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 2196
+        size = 2065
     }
 }

@@ -35,7 +35,7 @@
     soldiers = {
         culture = mashriqi
         religion = animist
-        size = 270
+        size = 1204
     }
 
     farmers = {
@@ -74,12 +74,6 @@
         size = 923
     }
 
-    soldiers = {
-        culture = armenian
-        religion = animist
-        size = 102
-    }
-
     farmers = {
         culture = armenian
         religion = animist
@@ -114,12 +108,6 @@
         culture = mashriqi
         religion = animist
         size = 7830
-    }
-
-    soldiers = {
-        culture = mashriqi
-        religion = animist
-        size = 788
     }
 
     farmers = {
@@ -188,12 +176,6 @@
         size = 396
     }
 
-    soldiers = {
-        culture = turkish
-        religion = animist
-        size = 44
-    }
-
     farmers = {
         culture = turkish
         religion = animist
@@ -239,9 +221,9 @@
     }
 
     soldiers = {
-        culture = armenian
+        culture = mashriqi
         religion = animist
-        size = 141
+        size = 963
     }
 
     farmers = {
@@ -268,12 +250,6 @@
         size = 2898
     }
 
-    soldiers = {
-        culture = mashriqi
-        religion = animist
-        size = 683
-    }
-
     farmers = {
         culture = mashriqi
         religion = animist
@@ -296,12 +272,6 @@
         culture = mashriqi
         religion = animist
         size = 161
-    }
-
-    soldiers = {
-        culture = mashriqi
-        religion = animist
-        size = 79
     }
 
     farmers = {
@@ -344,12 +314,6 @@
         culture = turkish
         religion = animist
         size = 224
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = animist
-        size = 60
     }
 
     farmers = {
@@ -725,7 +689,7 @@
     soldiers = {
         culture = mashriqi
         religion = animist
-        size = 47
+        size = 182
     }
 
     farmers = {
@@ -750,12 +714,6 @@
         culture = mashriqi
         religion = animist
         size = 477
-    }
-
-    soldiers = {
-        culture = mashriqi
-        religion = animist
-        size = 135
     }
 
     farmers = {

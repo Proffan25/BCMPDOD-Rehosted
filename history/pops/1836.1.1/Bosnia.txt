@@ -35,7 +35,7 @@
     soldiers = {
         culture = serb
         religion = animist
-        size = 343
+        size = 468
     }
 
     farmers = {
@@ -54,12 +54,6 @@
         culture = serb
         religion = animist
         size = 2187
-    }
-
-    soldiers = {
-        culture = serb
-        religion = animist
-        size = 125
     }
 
     farmers = {
@@ -121,7 +115,7 @@
     soldiers = {
         culture = serb
         religion = animist
-        size = 312
+        size = 437
     }
 
     farmers = {
@@ -140,12 +134,6 @@
         culture = serb
         religion = animist
         size = 375
-    }
-
-    soldiers = {
-        culture = serb
-        religion = animist
-        size = 125
     }
 
     farmers = {
@@ -195,7 +183,7 @@
     soldiers = {
         culture = serb
         religion = animist
-        size = 125
+        size = 406
     }
 
     farmers = {
@@ -216,12 +204,6 @@
         size = 625
     }
 
-    soldiers = {
-        culture = serb
-        religion = animist
-        size = 125
-    }
-
     farmers = {
         culture = serb
         religion = animist
@@ -238,12 +220,6 @@
         culture = croat
         religion = animist
         size = 233
-    }
-
-    soldiers = {
-        culture = croat
-        religion = animist
-        size = 156
     }
 
     farmers = {
@@ -275,7 +251,7 @@
     soldiers = {
         culture = serb
         religion = animist
-        size = 312
+        size = 593
     }
 
     farmers = {
@@ -296,12 +272,6 @@
         size = 875
     }
 
-    soldiers = {
-        culture = serb
-        religion = animist
-        size = 125
-    }
-
     farmers = {
         culture = serb
         religion = animist
@@ -318,12 +288,6 @@
         culture = croat
         religion = animist
         size = 390
-    }
-
-    soldiers = {
-        culture = croat
-        religion = animist
-        size = 156
     }
 
     farmers = {
@@ -355,7 +319,7 @@
     soldiers = {
         culture = serb
         religion = animist
-        size = 125
+        size = 250
     }
 
     farmers = {
@@ -374,12 +338,6 @@
         culture = serb
         religion = animist
         size = 687
-    }
-
-    soldiers = {
-        culture = serb
-        religion = animist
-        size = 125
     }
 
     farmers = {
@@ -411,7 +369,7 @@
     soldiers = {
         culture = serb
         religion = animist
-        size = 62
+        size = 343
     }
 
     farmers = {
@@ -432,12 +390,6 @@
         size = 781
     }
 
-    soldiers = {
-        culture = croat
-        religion = animist
-        size = 156
-    }
-
     farmers = {
         culture = croat
         religion = animist
@@ -454,12 +406,6 @@
         culture = serb
         religion = animist
         size = 250
-    }
-
-    soldiers = {
-        culture = serb
-        religion = animist
-        size = 125
     }
 
     farmers = {
@@ -489,9 +435,9 @@
     }
 
     soldiers = {
-        culture = serb
+        culture = croat
         religion = animist
-        size = 62
+        size = 218
     }
 
     farmers = {
@@ -510,12 +456,6 @@
         culture = croat
         religion = animist
         size = 1250
-    }
-
-    soldiers = {
-        culture = croat
-        religion = animist
-        size = 156
     }
 
     farmers = {

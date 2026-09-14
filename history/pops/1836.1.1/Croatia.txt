@@ -21,9 +21,9 @@
     }
 
     soldiers = {
-        culture = north_italian
+        culture = croat
         religion = animist
-        size = 281
+        size = 671
     }
 
     farmers = {
@@ -42,12 +42,6 @@
         culture = croat
         religion = animist
         size = 1406
-    }
-
-    soldiers = {
-        culture = croat
-        religion = animist
-        size = 390
     }
 
     farmers = {

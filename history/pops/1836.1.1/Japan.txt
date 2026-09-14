@@ -35,7 +35,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 1593
+        size = 2124
     }
 
     farmers = {
@@ -60,12 +60,6 @@
         culture = japanese
         religion = animist
         size = 2450
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 531
     }
 
     farmers = {
@@ -97,7 +91,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 1218
+        size = 1593
     }
 
     farmers = {
@@ -122,12 +116,6 @@
         culture = japanese
         religion = animist
         size = 1500
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 375
     }
 
     farmers = {
@@ -159,7 +147,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 1281
+        size = 1624
     }
 
     farmers = {
@@ -184,12 +172,6 @@
         culture = japanese
         religion = animist
         size = 1299
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 343
     }
 
     farmers = {
@@ -221,7 +203,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 1343
+        size = 1718
     }
 
     farmers = {
@@ -246,12 +228,6 @@
         culture = japanese
         religion = animist
         size = 1500
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 375
     }
 
     farmers = {
@@ -291,7 +267,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 125
+        size = 562
     }
 
     farmers = {
@@ -310,12 +286,6 @@
         culture = japanese
         religion = animist
         size = 499
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 125
     }
 
     farmers = {
@@ -342,12 +312,6 @@
         size = 1500
     }
 
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 312
-    }
-
     farmers = {
         culture = japanese
         religion = animist
@@ -371,7 +335,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 62
+        size = 561
     }
 
     farmers = {
@@ -390,12 +354,6 @@
         culture = japanese
         religion = animist
         size = 247
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 62
     }
 
     farmers = {
@@ -422,12 +380,6 @@
         size = 2002
     }
 
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 437
-    }
-
     farmers = {
         culture = japanese
         religion = animist
@@ -451,7 +403,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 93
+        size = 998
     }
 
     farmers = {
@@ -470,12 +422,6 @@
         culture = japanese
         religion = animist
         size = 399
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 93
     }
 
     farmers = {
@@ -500,12 +446,6 @@
         culture = japanese
         religion = animist
         size = 3003
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 812
     }
 
     farmers = {
@@ -551,7 +491,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 2343
+        size = 3124
     }
 
     farmers = {
@@ -576,12 +516,6 @@
         culture = japanese
         religion = animist
         size = 3102
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 781
     }
 
     farmers = {
@@ -613,7 +547,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 843
+        size = 1218
     }
 
     farmers = {
@@ -638,12 +572,6 @@
         culture = japanese
         religion = animist
         size = 1500
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 375
     }
 
     farmers = {
@@ -675,7 +603,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 312
+        size = 499
     }
 
     farmers = {
@@ -700,12 +628,6 @@
         culture = japanese
         religion = animist
         size = 749
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 187
     }
 
     farmers = {
@@ -737,7 +659,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 781
+        size = 1124
     }
 
     farmers = {
@@ -762,12 +684,6 @@
         culture = japanese
         religion = animist
         size = 1348
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 343
     }
 
     farmers = {
@@ -885,7 +801,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 3843
+        size = 4718
     }
 
     farmers = {
@@ -924,12 +840,6 @@
         size = 7007
     }
 
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 875
-    }
-
     farmers = {
         culture = japanese
         religion = animist
@@ -959,7 +869,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 2000
+        size = 2500
     }
 
     farmers = {
@@ -984,12 +894,6 @@
         culture = japanese
         religion = animist
         size = 1899
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 500
     }
 
     farmers = {
@@ -1021,7 +925,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 1406
+        size = 1781
     }
 
     farmers = {
@@ -1046,12 +950,6 @@
         culture = japanese
         religion = animist
         size = 2650
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 375
     }
 
     farmers = {
@@ -1089,7 +987,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 2937
+        size = 3624
     }
 
     farmers = {
@@ -1114,12 +1012,6 @@
         culture = japanese
         religion = animist
         size = 2751
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 687
     }
 
     farmers = {
@@ -1151,7 +1043,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 1468
+        size = 1843
     }
 
     farmers = {
@@ -1176,12 +1068,6 @@
         culture = japanese
         religion = animist
         size = 1500
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 375
     }
 
     farmers = {
@@ -1239,7 +1125,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 4468
+        size = 4843
     }
 
     farmers = {
@@ -1264,12 +1150,6 @@
         culture = japanese
         religion = animist
         size = 4004
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 375
     }
 
     farmers = {
@@ -1301,7 +1181,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 2343
+        size = 3343
     }
 
     farmers = {
@@ -1326,12 +1206,6 @@
         culture = japanese
         religion = animist
         size = 4004
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 1000
     }
 
     farmers = {
@@ -1369,7 +1243,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 50000
+        size = 55781
     }
 
     artisans = {
@@ -1382,12 +1256,6 @@
         culture = japanese
         religion = animist
         size = 7007
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 4875
     }
 
     farmers = {
@@ -1412,12 +1280,6 @@
         culture = japanese
         religion = animist
         size = 7007
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 906
     }
 
     farmers = {
@@ -1455,7 +1317,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 2625
+        size = 3750
     }
 
     farmers = {
@@ -1480,12 +1342,6 @@
         culture = japanese
         religion = animist
         size = 4503
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 1125
     }
 
     farmers = {
@@ -1517,7 +1373,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 2468
+        size = 3530
     }
 
     farmers = {
@@ -1542,12 +1398,6 @@
         culture = japanese
         religion = animist
         size = 4202
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 1062
     }
 
     farmers = {
@@ -1593,7 +1443,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 1906
+        size = 2468
     }
 
     farmers = {
@@ -1618,12 +1468,6 @@
         culture = japanese
         religion = animist
         size = 2249
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 562
     }
 
     farmers = {
@@ -1655,7 +1499,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 2312
+        size = 3187
     }
 
     farmers = {
@@ -1680,12 +1524,6 @@
         culture = japanese
         religion = animist
         size = 3502
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 875
     }
 
     farmers = {
@@ -1717,7 +1555,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 1593
+        size = 2061
     }
 
     farmers = {
@@ -1742,12 +1580,6 @@
         culture = japanese
         religion = animist
         size = 1899
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 468
     }
 
     farmers = {
@@ -1779,7 +1611,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 812
+        size = 1187
     }
 
     farmers = {
@@ -1804,12 +1636,6 @@
         culture = japanese
         religion = animist
         size = 1500
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 375
     }
 
     farmers = {
@@ -1841,7 +1667,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 1843
+        size = 2405
     }
 
     farmers = {
@@ -1866,12 +1692,6 @@
         culture = japanese
         religion = animist
         size = 2249
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 562
     }
 
     farmers = {
@@ -1905,7 +1725,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 1375
+        size = 1593
     }
 
     farmers = {
@@ -1930,12 +1750,6 @@
         culture = japanese
         religion = animist
         size = 898
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 218
     }
 
     farmers = {
@@ -1967,7 +1781,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 1375
+        size = 1781
     }
 
     farmers = {
@@ -1992,12 +1806,6 @@
         culture = japanese
         religion = animist
         size = 1600
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 406
     }
 
     farmers = {
@@ -2041,7 +1849,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 1531
+        size = 2187
     }
 
     farmers = {
@@ -2066,12 +1874,6 @@
         culture = japanese
         religion = animist
         size = 2601
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 656
     }
 
     farmers = {
@@ -2117,7 +1919,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 1468
+        size = 1968
     }
 
     farmers = {
@@ -2142,12 +1944,6 @@
         culture = japanese
         religion = animist
         size = 2002
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 500
     }
 
     farmers = {
@@ -2179,7 +1975,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 1312
+        size = 1874
     }
 
     farmers = {
@@ -2204,12 +2000,6 @@
         culture = japanese
         religion = animist
         size = 2200
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 562
     }
 
     farmers = {
@@ -2241,7 +2031,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 718
+        size = 999
     }
 
     farmers = {
@@ -2266,12 +2056,6 @@
         culture = japanese
         religion = animist
         size = 1149
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 281
     }
 
     farmers = {
@@ -2303,7 +2087,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 875
+        size = 1250
     }
 
     farmers = {
@@ -2328,12 +2112,6 @@
         culture = japanese
         religion = animist
         size = 1449
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 375
     }
 
     farmers = {
@@ -2365,7 +2143,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 812
+        size = 1187
     }
 
     farmers = {
@@ -2390,12 +2168,6 @@
         culture = japanese
         religion = animist
         size = 1500
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 375
     }
 
     farmers = {
@@ -2427,7 +2199,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 1375
+        size = 1750
     }
 
     farmers = {
@@ -2452,12 +2224,6 @@
         culture = japanese
         religion = animist
         size = 1500
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 375
     }
 
     farmers = {
@@ -2489,7 +2255,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 812
+        size = 1280
     }
 
     farmers = {
@@ -2514,12 +2280,6 @@
         culture = japanese
         religion = animist
         size = 1899
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 468
     }
 
     farmers = {
@@ -2571,7 +2331,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 3250
+        size = 4625
     }
 
     farmers = {
@@ -2596,12 +2356,6 @@
         culture = japanese
         religion = animist
         size = 7007
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 1375
     }
 
     farmers = {
@@ -2633,7 +2387,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 875
+        size = 1375
     }
 
     farmers = {
@@ -2658,12 +2412,6 @@
         culture = japanese
         religion = animist
         size = 2002
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 500
     }
 
     farmers = {
@@ -2701,7 +2449,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 2937
+        size = 4062
     }
 
     farmers = {
@@ -2726,12 +2474,6 @@
         culture = japanese
         religion = animist
         size = 4452
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = animist
-        size = 1125
     }
 
     farmers = {
@@ -2777,7 +2519,7 @@
     soldiers = {
         culture = japanese
         religion = animist
-        size = 562
+        size = 624
     }
 
     farmers = {
@@ -2802,12 +2544,6 @@
         culture = nanfaren
         religion = animist
         size = 198
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 62
     }
 
     farmers = {

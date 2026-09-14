@@ -29,7 +29,7 @@ leader = {
 
 army = {
 	name = "First Amazonian Army"
-	location = 2431
+	location = 2436
 	regiment = {
 		name= "1.1st Division"
 		type = infantry

@@ -21,9 +21,9 @@
     }
 
     soldiers = {
-        culture = afro_asiatic
+        culture = misri
         religion = animist
-        size = 28
+        size = 79
     }
 
     farmers = {
@@ -36,12 +36,6 @@
         culture = misri
         religion = animist
         size = 5
-    }
-
-    soldiers = {
-        culture = misri
-        religion = animist
-        size = 23
     }
 
     aristocrats = {
@@ -60,12 +54,6 @@
         culture = misri
         religion = animist
         size = 230
-    }
-
-    soldiers = {
-        culture = misri
-        religion = animist
-        size = 28
     }
 
     farmers = {
@@ -97,7 +85,7 @@
     soldiers = {
         culture = afro_asiatic
         religion = animist
-        size = 86
+        size = 143
     }
 
     farmers = {
@@ -122,12 +110,6 @@
         culture = afro_asiatic
         religion = animist
         size = 230
-    }
-
-    soldiers = {
-        culture = afro_asiatic
-        religion = animist
-        size = 57
     }
 
     farmers = {
@@ -172,7 +154,7 @@
     soldiers = {
         culture = afro_asiatic
         religion = animist
-        size = 143
+        size = 229
     }
 
     farmers = {
@@ -197,12 +179,6 @@
         culture = afro_asiatic
         religion = animist
         size = 460
-    }
-
-    soldiers = {
-        culture = afro_asiatic
-        religion = animist
-        size = 86
     }
 
     farmers = {

@@ -377,7 +377,7 @@
     soldiers = {
         culture = mashriqi
         religion = animist
-        size = 142
+        size = 174
     }
 
     farmers = {
@@ -402,12 +402,6 @@
         culture = mashriqi
         religion = animist
         size = 102
-    }
-
-    soldiers = {
-        culture = mashriqi
-        religion = animist
-        size = 32
     }
 
     farmers = {

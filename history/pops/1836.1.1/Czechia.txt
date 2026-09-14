@@ -139,7 +139,7 @@
     soldiers = {
         culture = czech
         religion = animist
-        size = 1270
+        size = 13367
     }
 
     farmers = {
@@ -166,12 +166,6 @@
         size = 2541
     }
 
-    soldiers = {
-        culture = czech
-        religion = animist
-        size = 12069
-    }
-
     farmers = {
         culture = czech
         religion = animist
@@ -188,12 +182,6 @@
         culture = czech
         religion = animist
         size = 2310
-    }
-
-    soldiers = {
-        culture = czech
-        religion = animist
-        size = 28
     }
 
     farmers = {
@@ -287,7 +275,7 @@
     soldiers = {
         culture = czech
         religion = animist
-        size = 0
+        size = 2270
     }
 
     farmers = {
@@ -317,12 +305,6 @@
         culture = czech
         religion = animist
         size = 3407
-    }
-
-    soldiers = {
-        culture = czech
-        religion = animist
-        size = 2270
     }
 
     farmers = {
@@ -390,7 +372,7 @@
     soldiers = {
         culture = czech
         religion = animist
-        size = 8075
+        size = 8103
     }
 
     farmers = {
@@ -409,12 +391,6 @@
         culture = czech
         religion = animist
         size = 2310
-    }
-
-    soldiers = {
-        culture = czech
-        religion = animist
-        size = 28
     }
 
     farmers = {
@@ -452,7 +428,7 @@
     soldiers = {
         culture = czech
         religion = animist
-        size = 635
+        size = 1933
     }
 
     farmers = {
@@ -491,12 +467,6 @@
         size = 2448
     }
 
-    soldiers = {
-        culture = czech
-        religion = animist
-        size = 1270
-    }
-
     farmers = {
         culture = czech
         religion = animist
@@ -513,12 +483,6 @@
         culture = czech
         religion = animist
         size = 2310
-    }
-
-    soldiers = {
-        culture = czech
-        religion = animist
-        size = 28
     }
 
     farmers = {
@@ -558,7 +522,7 @@
     soldiers = {
         culture = czech
         religion = animist
-        size = 2194
+        size = 13801
     }
 
     farmers = {
@@ -597,12 +561,6 @@
         size = 7507
     }
 
-    soldiers = {
-        culture = czech
-        religion = animist
-        size = 11550
-    }
-
     farmers = {
         culture = czech
         religion = animist
@@ -619,12 +577,6 @@
         culture = czech
         religion = animist
         size = 2887
-    }
-
-    soldiers = {
-        culture = czech
-        religion = animist
-        size = 57
     }
 
     farmers = {
@@ -732,7 +684,7 @@
     soldiers = {
         culture = czech
         religion = animist
-        size = 57
+        size = 288
     }
 
     farmers = {
@@ -771,12 +723,6 @@
         size = 1790
     }
 
-    soldiers = {
-        culture = czech
-        religion = animist
-        size = 231
-    }
-
     farmers = {
         culture = czech
         religion = animist
@@ -800,7 +746,7 @@
     soldiers = {
         culture = czech
         religion = animist
-        size = 143
+        size = 344
     }
 
     farmers = {
@@ -819,12 +765,6 @@
         culture = czech
         religion = animist
         size = 115
-    }
-
-    soldiers = {
-        culture = czech
-        religion = animist
-        size = 28
     }
 
     farmers = {
@@ -849,12 +789,6 @@
         culture = czech
         religion = animist
         size = 808
-    }
-
-    soldiers = {
-        culture = czech
-        religion = animist
-        size = 173
     }
 
     farmers = {

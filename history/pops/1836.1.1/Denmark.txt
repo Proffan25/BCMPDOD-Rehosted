@@ -258,7 +258,7 @@
     soldiers = {
         culture = scandinavian
         religion = animist
-        size = 430
+        size = 532
     }
 
     farmers = {
@@ -283,12 +283,6 @@
         culture = pomeranian
         religion = animist
         size = 505
-    }
-
-    soldiers = {
-        culture = pomeranian
-        religion = animist
-        size = 102
     }
 
     farmers = {

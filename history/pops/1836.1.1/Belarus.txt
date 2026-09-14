@@ -17,7 +17,7 @@
     soldiers = {
         culture = ukrainian
         religion = animist
-        size = 819
+        size = 1493
     }
 
     farmers = {
@@ -44,12 +44,6 @@
         size = 486
     }
 
-    soldiers = {
-        culture = polish
-        religion = animist
-        size = 134
-    }
-
     farmers = {
         culture = polish
         religion = animist
@@ -66,12 +60,6 @@
         culture = ukrainian
         religion = animist
         size = 849
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = animist
-        size = 271
     }
 
     farmers = {
@@ -92,12 +80,6 @@
         size = 242
     }
 
-    soldiers = {
-        culture = lithuanian
-        religion = animist
-        size = 89
-    }
-
     farmers = {
         culture = lithuanian
         religion = animist
@@ -114,12 +96,6 @@
         culture = ashkenazi
         religion = animist
         size = 1517
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 180
     }
 
     farmers = {
@@ -145,7 +121,7 @@
     soldiers = {
         culture = ukrainian
         religion = animist
-        size = 2003
+        size = 3223
     }
 
     farmers = {
@@ -184,12 +160,6 @@
         size = 606
     }
 
-    soldiers = {
-        culture = polish
-        religion = animist
-        size = 180
-    }
-
     farmers = {
         culture = polish
         religion = animist
@@ -206,12 +176,6 @@
         culture = ukrainian
         religion = animist
         size = 972
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = animist
-        size = 271
     }
 
     farmers = {
@@ -232,12 +196,6 @@
         size = 1335
     }
 
-    soldiers = {
-        culture = ukrainian
-        religion = animist
-        size = 544
-    }
-
     farmers = {
         culture = ukrainian
         religion = animist
@@ -254,12 +212,6 @@
         culture = ashkenazi
         religion = animist
         size = 1579
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 225
     }
 
     farmers = {
@@ -285,7 +237,7 @@
     soldiers = {
         culture = ukrainian
         religion = animist
-        size = 2003
+        size = 2450
     }
 
     farmers = {
@@ -312,12 +264,6 @@
         size = 180
     }
 
-    soldiers = {
-        culture = polish
-        religion = animist
-        size = 42
-    }
-
     farmers = {
         culture = polish
         religion = animist
@@ -336,12 +282,6 @@
         size = 486
     }
 
-    soldiers = {
-        culture = ukrainian
-        religion = animist
-        size = 271
-    }
-
     farmers = {
         culture = ukrainian
         religion = animist
@@ -358,12 +298,6 @@
         culture = ashkenazi
         religion = animist
         size = 910
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 134
     }
 
     farmers = {
@@ -391,7 +325,7 @@
     soldiers = {
         culture = ukrainian
         religion = animist
-        size = 1401
+        size = 1806
     }
 
     farmers = {
@@ -430,12 +364,6 @@
         size = 955
     }
 
-    soldiers = {
-        culture = polish
-        religion = animist
-        size = 126
-    }
-
     farmers = {
         culture = polish
         religion = animist
@@ -452,12 +380,6 @@
         culture = lithuanian
         religion = animist
         size = 60
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = animist
-        size = 30
     }
 
     farmers = {
@@ -496,12 +418,6 @@
         size = 126
     }
 
-    soldiers = {
-        culture = ukrainian
-        religion = animist
-        size = 60
-    }
-
     farmers = {
         culture = ukrainian
         religion = animist
@@ -518,12 +434,6 @@
         culture = ashkenazi
         religion = animist
         size = 1912
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 189
     }
 
     farmers = {
@@ -549,7 +459,7 @@
     soldiers = {
         culture = lithuanian
         religion = animist
-        size = 453
+        size = 901
     }
 
     farmers = {
@@ -576,12 +486,6 @@
         size = 486
     }
 
-    soldiers = {
-        culture = polish
-        religion = animist
-        size = 134
-    }
-
     farmers = {
         culture = polish
         religion = animist
@@ -600,12 +504,6 @@
         size = 544
     }
 
-    soldiers = {
-        culture = ukrainian
-        religion = animist
-        size = 180
-    }
-
     farmers = {
         culture = ukrainian
         religion = animist
@@ -622,12 +520,6 @@
         culture = ashkenazi
         religion = animist
         size = 910
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 134
     }
 
     farmers = {
@@ -653,7 +545,7 @@
     soldiers = {
         culture = ukrainian
         religion = animist
-        size = 681
+        size = 948
     }
 
     farmers = {
@@ -680,12 +572,6 @@
         size = 242
     }
 
-    soldiers = {
-        culture = polish
-        religion = animist
-        size = 89
-    }
-
     farmers = {
         culture = polish
         religion = animist
@@ -704,12 +590,6 @@
         size = 302
     }
 
-    soldiers = {
-        culture = ukrainian
-        religion = animist
-        size = 89
-    }
-
     farmers = {
         culture = ukrainian
         religion = animist
@@ -726,12 +606,6 @@
         culture = ashkenazi
         religion = animist
         size = 728
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 89
     }
 
     farmers = {
@@ -757,7 +631,7 @@
     soldiers = {
         culture = ukrainian
         religion = animist
-        size = 540
+        size = 693
     }
 
     farmers = {
@@ -784,12 +658,6 @@
         size = 126
     }
 
-    soldiers = {
-        culture = polish
-        religion = animist
-        size = 60
-    }
-
     farmers = {
         culture = polish
         religion = animist
@@ -806,12 +674,6 @@
         culture = ashkenazi
         religion = animist
         size = 955
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 93
     }
 
     farmers = {
@@ -837,7 +699,7 @@
     soldiers = {
         culture = ukrainian
         religion = animist
-        size = 571
+        size = 978
     }
 
     farmers = {
@@ -864,12 +726,6 @@
         size = 189
     }
 
-    soldiers = {
-        culture = polish
-        religion = animist
-        size = 30
-    }
-
     farmers = {
         culture = polish
         religion = animist
@@ -888,12 +744,6 @@
         size = 1401
     }
 
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 60
-    }
-
     farmers = {
         culture = ashkenazi
         religion = animist
@@ -910,12 +760,6 @@
         culture = ukrainian
         religion = animist
         size = 1147
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = animist
-        size = 317
     }
 
     farmers = {
@@ -949,7 +793,7 @@
     soldiers = {
         culture = ukrainian
         religion = animist
-        size = 93
+        size = 1268
     }
 
     farmers = {
@@ -970,12 +814,6 @@
         size = 4018
     }
 
-    soldiers = {
-        culture = ukrainian
-        religion = animist
-        size = 1082
-    }
-
     farmers = {
         culture = ukrainian
         religion = animist
@@ -992,12 +830,6 @@
         culture = ashkenazi
         religion = animist
         size = 1592
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 93
     }
 
     farmers = {
@@ -1025,7 +857,7 @@
     soldiers = {
         culture = ukrainian
         religion = animist
-        size = 1401
+        size = 1584
     }
 
     farmers = {
@@ -1064,12 +896,6 @@
         size = 317
     }
 
-    soldiers = {
-        culture = ukrainian
-        religion = animist
-        size = 60
-    }
-
     farmers = {
         culture = ukrainian
         religion = animist
@@ -1106,12 +932,6 @@
         size = 317
     }
 
-    soldiers = {
-        culture = polish
-        religion = animist
-        size = 30
-    }
-
     farmers = {
         culture = polish
         religion = animist
@@ -1128,12 +948,6 @@
         culture = ashkenazi
         religion = animist
         size = 1912
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 93
     }
 
     farmers = {
@@ -1159,7 +973,7 @@
     soldiers = {
         culture = ukrainian
         religion = animist
-        size = 1561
+        size = 2028
     }
 
     farmers = {
@@ -1186,12 +1000,6 @@
         size = 571
     }
 
-    soldiers = {
-        culture = polish
-        religion = animist
-        size = 93
-    }
-
     farmers = {
         culture = polish
         religion = animist
@@ -1208,12 +1016,6 @@
         culture = ashkenazi
         religion = animist
         size = 3188
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 254
     }
 
     farmers = {
@@ -1240,12 +1042,6 @@
         size = 317
     }
 
-    soldiers = {
-        culture = ukrainian
-        religion = animist
-        size = 60
-    }
-
     farmers = {
         culture = ukrainian
         religion = animist
@@ -1262,12 +1058,6 @@
         culture = lithuanian
         religion = animist
         size = 317
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = animist
-        size = 60
     }
 
     farmers = {
@@ -1293,7 +1083,7 @@
     soldiers = {
         culture = lithuanian
         religion = animist
-        size = 1093
+        size = 1633
     }
 
     farmers = {
@@ -1312,12 +1102,6 @@
         culture = ukrainian
         religion = animist
         size = 728
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = animist
-        size = 271
     }
 
     farmers = {
@@ -1344,12 +1128,6 @@
         size = 302
     }
 
-    soldiers = {
-        culture = polish
-        religion = animist
-        size = 89
-    }
-
     farmers = {
         culture = polish
         religion = animist
@@ -1366,12 +1144,6 @@
         culture = ashkenazi
         religion = animist
         size = 1821
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 180
     }
 
     farmers = {
@@ -1397,7 +1169,7 @@
     soldiers = {
         culture = ukrainian
         religion = animist
-        size = 1401
+        size = 1584
     }
 
     farmers = {
@@ -1424,12 +1196,6 @@
         size = 254
     }
 
-    soldiers = {
-        culture = polish
-        religion = animist
-        size = 30
-    }
-
     farmers = {
         culture = polish
         religion = animist
@@ -1454,12 +1220,6 @@
         size = 381
     }
 
-    soldiers = {
-        culture = ukrainian
-        religion = animist
-        size = 60
-    }
-
     farmers = {
         culture = ukrainian
         religion = animist
@@ -1476,12 +1236,6 @@
         culture = ashkenazi
         religion = animist
         size = 1592
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 93
     }
 
     farmers = {
@@ -1507,7 +1261,7 @@
     soldiers = {
         culture = ukrainian
         religion = animist
-        size = 1401
+        size = 1650
     }
 
     farmers = {
@@ -1534,12 +1288,6 @@
         size = 317
     }
 
-    soldiers = {
-        culture = polish
-        religion = animist
-        size = 60
-    }
-
     farmers = {
         culture = polish
         religion = animist
@@ -1556,12 +1304,6 @@
         culture = ashkenazi
         religion = animist
         size = 1912
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 189
     }
 
     farmers = {

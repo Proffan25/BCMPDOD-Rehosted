@@ -29,7 +29,7 @@
     soldiers = {
         culture = rheinish
         religion = animist
-        size = 2000
+        size = 2250
     }
 
     farmers = {
@@ -66,12 +66,6 @@
         culture = burgundian
         religion = animist
         size = 1750
-    }
-
-    soldiers = {
-        culture = burgundian
-        religion = animist
-        size = 250
     }
 
     farmers = {

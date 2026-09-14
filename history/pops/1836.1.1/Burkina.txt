@@ -73,7 +73,7 @@
 	soldiers = {
 		culture = afro_asiatic
 		religion = animist
-		size = 500
+		size = 825
 	}
 
 	farmers = {
@@ -104,12 +104,6 @@
 		culture = afro_asiatic
 		religion = animist
 		size = 1650
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 325
 	}
 
 	farmers = {
@@ -147,7 +141,7 @@
 	soldiers = {
 		culture = afro_asiatic
 		religion = animist
-		size = 350
+		size = 700
 	}
 
 	farmers = {
@@ -178,12 +172,6 @@
 		culture = afro_asiatic
 		religion = animist
 		size = 1700
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 350
 	}
 
 	farmers = {
@@ -221,7 +209,7 @@
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-		size = 150
+		size = 450
 	}
 
 	farmers = {
@@ -252,12 +240,6 @@
 		culture = niger_congo_a
 		religion = animist
 		size = 1150
-	}
-
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 300
 	}
 
 	farmers = {
@@ -303,7 +285,7 @@
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-		size = 25
+		size = 350
 	}
 
 	farmers = {
@@ -330,12 +312,6 @@
 		size = 1100
 	}
 
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 250
-	}
-
 	farmers = {
 		culture = niger_congo_a
 		religion = animist
@@ -358,12 +334,6 @@
 		culture = niger_congo_a
 		religion = animist
 		size = 350
-	}
-
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 75
 	}
 
 	farmers = {
@@ -401,7 +371,7 @@
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-		size = 50
+		size = 475
 	}
 
 	farmers = {
@@ -428,12 +398,6 @@
 		size = 550
 	}
 
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 150
-	}
-
 	farmers = {
 		culture = niger_congo_a
 		religion = animist
@@ -458,12 +422,6 @@
 		size = 1100
 	}
 
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 200
-	}
-
 	farmers = {
 		culture = niger_congo_a
 		religion = animist
@@ -486,12 +444,6 @@
 		culture = niger_congo_a
 		religion = animist
 		size = 350
-	}
-
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 75
 	}
 
 	farmers = {

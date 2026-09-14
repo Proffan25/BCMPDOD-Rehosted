@@ -141,7 +141,7 @@
     soldiers = {
         culture = greek
         religion = animist
-        size = 1100
+        size = 2200
     }
 
     farmers = {
@@ -160,12 +160,6 @@
         culture = albanian
         religion = animist
         size = 400
-    }
-
-    soldiers = {
-        culture = albanian
-        religion = animist
-        size = 1100
     }
 
     farmers = {

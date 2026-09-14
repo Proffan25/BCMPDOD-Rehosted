@@ -41,7 +41,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = animist
-		size = 4000
+		size = 4150
 	}
 
 	farmers = {
@@ -60,12 +60,6 @@
 		culture = beifaren
 		religion = animist
 		size = 750
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = animist
-		size = 150
 	}
 
 	farmers = {
@@ -97,7 +91,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = animist
-		size = 1400
+		size = 1550
 	}
 
 	farmers = {
@@ -116,12 +110,6 @@
 		culture = beifaren
 		religion = animist
 		size = 800
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = animist
-		size = 150
 	}
 
 	farmers = {
@@ -153,7 +141,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = animist
-		size = 800
+		size = 825
 	}
 
 	farmers = {
@@ -172,12 +160,6 @@
 		culture = beifaren
 		religion = animist
 		size = 150
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = animist
-		size = 25
 	}
 
 	farmers = {
@@ -305,7 +287,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = animist
-		size = 1325
+		size = 2050
 	}
 
 	farmers = {
@@ -332,12 +314,6 @@
 		size = 1950
 	}
 
-	soldiers = {
-		culture = kachin
-		religion = animist
-		size = 350
-	}
-
 	farmers = {
 		culture = kachin
 		religion = animist
@@ -360,12 +336,6 @@
 		culture = tibetan
 		religion = animist
 		size = 1900
-	}
-
-	soldiers = {
-		culture = tibetan
-		religion = animist
-		size = 375
 	}
 
 	farmers = {

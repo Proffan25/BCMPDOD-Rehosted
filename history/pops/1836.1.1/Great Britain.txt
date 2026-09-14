@@ -599,7 +599,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 3142
+        size = 3232
     }
 
     labourers = {
@@ -722,12 +722,6 @@
         size = 75
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 90
-    }
-
     labourers = {
         culture = anglois
         religion = animist
@@ -829,7 +823,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 4190
+        size = 4310
     }
 
     labourers = {
@@ -916,12 +910,6 @@
         size = 153
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 120
-    }
-
     labourers = {
         culture = anglois
         religion = animist
@@ -993,7 +981,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 523
+        size = 538
     }
 
     farmers = {
@@ -1036,12 +1024,6 @@
         culture = anglois
         religion = animist
         size = 120
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 15
     }
 
     farmers = {
@@ -1110,7 +1092,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 1571
+        size = 1616
     }
 
     labourers = {
@@ -1167,12 +1149,6 @@
         size = 72
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 45
-    }
-
     labourers = {
         culture = anglois
         religion = animist
@@ -1226,7 +1202,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 1152
+        size = 1185
     }
 
     labourers = {
@@ -1275,12 +1251,6 @@
         culture = anglois
         religion = animist
         size = 60
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
     }
 
     labourers = {
@@ -1342,7 +1312,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 1308
+        size = 1346
     }
 
     labourers = {
@@ -1397,12 +1367,6 @@
         culture = anglois
         religion = animist
         size = 77
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 38
     }
 
     labourers = {
@@ -1482,7 +1446,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 1571
+        size = 1616
     }
 
     labourers = {
@@ -1557,12 +1521,6 @@
         size = 71
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 45
-    }
-
     labourers = {
         culture = anglois
         religion = animist
@@ -1635,7 +1593,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 3142
+        size = 3232
     }
 
     labourers = {
@@ -1716,12 +1674,6 @@
         size = 270
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 90
-    }
-
     labourers = {
         culture = anglois
         religion = animist
@@ -1775,7 +1727,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 1152
+        size = 1185
     }
 
     labourers = {
@@ -1812,12 +1764,6 @@
         culture = anglois
         religion = animist
         size = 150
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
     }
 
     labourers = {
@@ -1867,7 +1813,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 1152
+        size = 1185
     }
 
     labourers = {
@@ -1898,12 +1844,6 @@
         culture = anglois
         religion = animist
         size = 180
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
     }
 
     labourers = {
@@ -1947,7 +1887,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 1152
+        size = 1185
     }
 
     labourers = {
@@ -1984,12 +1924,6 @@
         culture = anglois
         religion = animist
         size = 150
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
     }
 
     labourers = {
@@ -2052,7 +1986,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 1152
+        size = 1185
     }
 
     labourers = {
@@ -2121,12 +2055,6 @@
         size = 210
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
-    }
-
     labourers = {
         culture = anglois
         religion = animist
@@ -2180,7 +2108,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 1152
+        size = 1185
     }
 
     labourers = {
@@ -2219,12 +2147,6 @@
         size = 225
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
-    }
-
     labourers = {
         culture = anglois
         religion = animist
@@ -2260,7 +2182,7 @@
     soldiers = {
         culture = anglois
         religion = animist
-        size = 1152
+        size = 1185
     }
 
     labourers = {
@@ -2291,12 +2213,6 @@
         culture = anglois
         religion = animist
         size = 150
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
     }
 
     labourers = {
@@ -2353,7 +2269,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 1152
+        size = 1185
     }
 
     labourers = {
@@ -2404,12 +2320,6 @@
         size = 165
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
-    }
-
     labourers = {
         culture = anglois
         religion = animist
@@ -2451,7 +2361,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 1571
+        size = 1616
     }
 
     labourers = {
@@ -2488,12 +2398,6 @@
         culture = anglois
         religion = animist
         size = 252
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 45
     }
 
     labourers = {
@@ -2537,7 +2441,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 571
+        size = 616
     }
 
     labourers = {
@@ -2580,12 +2484,6 @@
         culture = anglois
         religion = animist
         size = 225
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 45
     }
 
     labourers = {
@@ -2642,7 +2540,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 1571
+        size = 1616
     }
 
     labourers = {
@@ -2687,12 +2585,6 @@
         size = 8
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 45
-    }
-
     labourers = {
         culture = anglois
         religion = animist
@@ -2728,7 +2620,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 1152
+        size = 1185
     }
 
     labourers = {
@@ -2759,12 +2651,6 @@
         culture = anglois
         religion = animist
         size = 8
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
     }
 
     labourers = {
@@ -2833,7 +2719,7 @@
     soldiers = {
         culture = anglois
         religion = animist
-        size = 1152
+        size = 1185
     }
 
     labourers = {
@@ -2902,12 +2788,6 @@
         size = 120
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
-    }
-
     labourers = {
         culture = anglois
         religion = animist
@@ -2949,7 +2829,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 1152
+        size = 1185
     }
 
     labourers = {
@@ -2980,12 +2860,6 @@
         culture = anglois
         religion = animist
         size = 150
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
     }
 
     labourers = {
@@ -3415,7 +3289,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 1152
+        size = 1185
     }
 
     labourers = {
@@ -3472,12 +3346,6 @@
         size = 120
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
-    }
-
     labourers = {
         culture = anglois
         religion = animist
@@ -3531,7 +3399,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 1152
+        size = 1185
     }
 
     labourers = {
@@ -3568,12 +3436,6 @@
         culture = anglois
         religion = animist
         size = 278
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
     }
 
     labourers = {
@@ -3617,7 +3479,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 1152
+        size = 1185
     }
 
     labourers = {
@@ -3656,12 +3518,6 @@
         size = 24
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
-    }
-
     labourers = {
         culture = anglois
         religion = animist
@@ -3698,7 +3554,7 @@
     soldiers = {
         culture = english
         religion = animist
-        size = 104
+        size = 107
     }
 
     labourers = {
@@ -3735,12 +3591,6 @@
         culture = anglois
         religion = animist
         size = 98
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 3
     }
 
     labourers = {

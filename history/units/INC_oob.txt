@@ -145,13 +145,13 @@ army = {
 	regiment = {
 		name= "4. Artillery"
 		type = artillery
-		home = 2310
+		home = 2305
 	}
 	
 	regiment = {
 		name= "5. Artillery"
 		type = artillery
-		home = 2310
+		home = 2305
 	}
 
 }
@@ -209,7 +209,7 @@ army = {
 	regiment = {
 		name= "4. Artillery"
 		type = artillery
-		home = 2311
+		home = 2314
 	}
 	
 	regiment = {

@@ -5,61 +5,55 @@
     aristocrats = {
         culture = central_american
         religion = animist
-        size = 42
+        size = 39
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 52
+        size = 49
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 106
+        size = 100
     }
 
     soldiers = {
         culture = central_american
         religion = animist
-        size = 18
+        size = 65
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 1901
+        size = 1788
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 106
+        size = 100
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 212
-    }
-
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 51
+        size = 199
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 2815
+        size = 2647
     }
 
     slaves = {
         culture = afro_caribeno
         religion = animist
-        size = 1062
+        size = 999
     }
 }
 #Panama City (52000/13000 POPS)
@@ -67,73 +61,67 @@
     aristocrats = {
         culture = central_american
         religion = animist
-        size = 477
+        size = 449
     }
 
     bureaucrats = {
         culture = central_american
         religion = animist
-        size = 52
+        size = 49
     }
 
     officers = {
         culture = central_american
         religion = animist
-        size = 106
+        size = 100
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 212
+        size = 199
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 956
+        size = 899
     }
 
     soldiers = {
         culture = central_american
         religion = animist
-        size = 222
+        size = 311
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 17106
+        size = 16088
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 158
+        size = 149
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 425
-    }
-
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 109
+        size = 400
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 5683
+        size = 5345
     }
 
     slaves = {
         culture = afro_caribeno
         religion = animist
-        size = 2337
+        size = 2198
     }
 }
 #David (28000/7000 POPS)
@@ -141,61 +129,55 @@
     aristocrats = {
         culture = central_american
         religion = animist
-        size = 318
+        size = 299
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 106
+        size = 100
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 637
+        size = 599
     }
 
     soldiers = {
         culture = central_american
         religion = animist
-        size = 163
+        size = 170
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 11421
+        size = 10741
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 42
+        size = 39
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 106
-    }
-
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 18
+        size = 100
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 1423
+        size = 1338
     }
 
     slaves = {
         culture = afro_caribeno
         religion = animist
-        size = 531
+        size = 499
     }
 }
 #Penonome (24000/6000 POPS)
@@ -203,61 +185,55 @@
     aristocrats = {
         culture = central_american
         religion = animist
-        size = 318
+        size = 299
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 106
+        size = 100
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 531
+        size = 499
     }
 
     soldiers = {
         culture = central_american
         religion = animist
-        size = 109
+        size = 119
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 9562
+        size = 8993
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 42
+        size = 39
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 106
-    }
-
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 18
+        size = 100
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 1423
+        size = 1338
     }
 
     slaves = {
         culture = afro_caribeno
         religion = animist
-        size = 531
+        size = 499
     }
 }
 #Yaviza (12000/3000 POPS)
@@ -265,90 +241,78 @@
     aristocrats = {
         culture = central_american
         religion = animist
-        size = 42
+        size = 39
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 52
+        size = 49
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 106
+        size = 100
     }
 
     soldiers = {
         culture = central_american
         religion = animist
-        size = 18
+        size = 40
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 1901
+        size = 1788
     }
 
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 25
+        size = 23
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 32
+        size = 30
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 70
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 6
+        size = 66
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 1265
+        size = 1190
     }
 
     aristocrats = {
         culture = central_american
         religion = animist
-        size = 31
+        size = 29
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 52
+        size = 49
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 106
-    }
-
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 18
+        size = 100
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 1912
+        size = 1798
     }
 }

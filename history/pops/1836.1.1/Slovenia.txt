@@ -27,9 +27,9 @@
     }
 
     soldiers = {
-        culture = south_german
+        culture = croat
         religion = animist
-        size = 36
+        size = 384
     }
 
     farmers = {
@@ -48,12 +48,6 @@
         culture = croat
         religion = animist
         size = 1965
-    }
-
-    soldiers = {
-        culture = croat
-        religion = animist
-        size = 348
     }
 
     farmers = {

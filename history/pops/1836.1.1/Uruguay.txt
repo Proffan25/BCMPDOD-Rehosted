@@ -5,73 +5,67 @@
     aristocrats = {
         culture = lotharian
         religion = animist
-        size = 2854
+        size = 2020
     }
 
     bureaucrats = {
         culture = lotharian
         religion = animist
-        size = 1530
+        size = 1083
     }
 
     officers = {
         culture = lotharian
         religion = animist
-        size = 260
+        size = 184
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 1516
+        size = 1073
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 20661
+        size = 14622
     }
 
     soldiers = {
         culture = lotharian
         religion = animist
-        size = 6800
+        size = 4952
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 109810
+        size = 77716
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 153
+        size = 108
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 1755
-    }
-
-    soldiers = {
-        culture = lotharian
-        religion = animist
-        size = 197
+        size = 1242
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 9550
+        size = 6759
     }
 
     slaves = {
         culture = afro_brazilian
         religion = animist
-        size = 12941
+        size = 9159
     }
 }
 #Paysandu (36000/9000 POPS)
@@ -79,31 +73,31 @@
     aristocrats = {
         culture = lotharian
         religion = animist
-        size = 425
+        size = 301
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 158
+        size = 112
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 956
+        size = 677
     }
 
     soldiers = {
         culture = lotharian
         religion = animist
-        size = 1870
+        size = 1323
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 15458
+        size = 10940
     }
 }
 #Tacumba (12000/3000 POPS)
@@ -111,55 +105,49 @@
     aristocrats = {
         culture = lotharian
         religion = animist
-        size = 52
+        size = 37
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 106
+        size = 75
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 212
+        size = 150
     }
 
     soldiers = {
         culture = lotharian
         religion = animist
-        size = 42
+        size = 36
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 3825
+        size = 2707
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 17
+        size = 12
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 61
-    }
-
-    soldiers = {
-        culture = lotharian
-        religion = animist
-        size = 9
+        size = 43
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 1138
+        size = 805
     }
 }
 #Melo (40000/10000 POPS)
@@ -167,54 +155,48 @@
     aristocrats = {
         culture = lotharian
         religion = animist
-        size = 318
+        size = 225
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 106
+        size = 75
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 743
+        size = 526
     }
 
     soldiers = {
         culture = lotharian
         religion = animist
-        size = 1870
+        size = 1340
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 11581
+        size = 8196
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 61
+        size = 43
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 183
-    }
-
-    soldiers = {
-        culture = lotharian
-        religion = animist
-        size = 24
+        size = 130
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 3418
+        size = 2419
     }
 }

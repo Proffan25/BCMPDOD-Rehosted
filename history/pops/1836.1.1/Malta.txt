@@ -11,7 +11,7 @@
     soldiers = {
         culture = south_italian
         religion = animist
-        size = 802
+        size = 1347
     }
 
     artisans = {
@@ -42,12 +42,6 @@
         culture = south_italian
         religion = animist
         size = 8560
-    }
-
-    soldiers = {
-        culture = south_italian
-        religion = animist
-        size = 545
     }
 
     farmers = {

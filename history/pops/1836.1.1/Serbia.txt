@@ -312,7 +312,7 @@
     soldiers = {
         culture = serb
         religion = animist
-        size = 2500
+        size = 2625
     }
 
     farmers = {
@@ -369,12 +369,6 @@
         size = 3750
     }
 
-    soldiers = {
-        culture = serb
-        religion = animist
-        size = 125
-    }
-
     farmers = {
         culture = serb
         religion = animist
@@ -398,7 +392,7 @@
     soldiers = {
         culture = serb
         religion = animist
-        size = 156
+        size = 2156
     }
 
     farmers = {
@@ -443,12 +437,6 @@
         size = 3125
     }
 
-    soldiers = {
-        culture = serb
-        religion = animist
-        size = 2000
-    }
-
     farmers = {
         culture = serb
         religion = animist
@@ -472,9 +460,9 @@
     }
 
     soldiers = {
-        culture = serb
+        culture = albanian
         religion = animist
-        size = 312
+        size = 812
     }
 
     farmers = {
@@ -531,12 +519,6 @@
         size = 1375
     }
 
-    soldiers = {
-        culture = albanian
-        religion = animist
-        size = 500
-    }
-
     farmers = {
         culture = albanian
         religion = animist
@@ -558,9 +540,9 @@
     }
 
     soldiers = {
-        culture = serb
+        culture = albanian
         religion = animist
-        size = 125
+        size = 750
     }
 
     farmers = {
@@ -587,12 +569,6 @@
         size = 2187
     }
 
-    soldiers = {
-        culture = serb
-        religion = animist
-        size = 125
-    }
-
     farmers = {
         culture = serb
         religion = animist
@@ -609,12 +585,6 @@
         culture = albanian
         religion = animist
         size = 1375
-    }
-
-    soldiers = {
-        culture = albanian
-        religion = animist
-        size = 500
     }
 
     farmers = {
@@ -658,7 +628,7 @@
     soldiers = {
         culture = serb
         religion = animist
-        size = 187
+        size = 312
     }
 
     farmers = {
@@ -683,12 +653,6 @@
         culture = serb
         religion = animist
         size = 625
-    }
-
-    soldiers = {
-        culture = serb
-        religion = animist
-        size = 125
     }
 
     farmers = {

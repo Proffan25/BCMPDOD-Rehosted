@@ -278,7 +278,7 @@
 	soldiers = {
 		culture = afro_asiatic
 		religion = animist
-		size = 25
+		size = 75
 	}
 
 	farmers = {
@@ -303,12 +303,6 @@
 		culture = afro_asiatic
 		religion = animist
 		size = 200
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 50
 	}
 
 	farmers = {
@@ -342,7 +336,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = animist
-		size = 25
+		size = 50
 	}
 
 	farmers = {
@@ -367,12 +361,6 @@
 		culture = afro_asiatic
 		religion = animist
 		size = 150
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 25
 	}
 
 	farmers = {

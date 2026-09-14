@@ -35,7 +35,7 @@
     soldiers = {
         culture = romanian
         religion = animist
-        size = 750
+        size = 875
     }
 
     farmers = {
@@ -56,12 +56,6 @@
         size = 1600
     }
 
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 75
-    }
-
     farmers = {
         culture = ashkenazi
         religion = animist
@@ -78,12 +72,6 @@
         culture = romanian
         religion = animist
         size = 250
-    }
-
-    soldiers = {
-        culture = romanian
-        religion = animist
-        size = 50
     }
 
     farmers = {
@@ -115,7 +103,7 @@
     soldiers = {
         culture = romanian
         religion = animist
-        size = 725
+        size = 800
     }
 
     farmers = {
@@ -134,12 +122,6 @@
         culture = ashkenazi
         religion = animist
         size = 1800
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 75
     }
 
     farmers = {

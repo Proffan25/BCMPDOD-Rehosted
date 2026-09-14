@@ -27,21 +27,15 @@
     }
 
     soldiers = {
-        culture = spanish
+        culture = niger_congo_a
         religion = animist
-        size = 5
+        size = 55
     }
 
     artisans = {
         culture = niger_congo_a
         religion = animist
         size = 120
-    }
-
-    soldiers = {
-        culture = niger_congo_a
-        religion = animist
-        size = 50
     }
 
     farmers = {

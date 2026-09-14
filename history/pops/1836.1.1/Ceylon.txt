@@ -29,7 +29,7 @@
     soldiers = {
         culture = indo_aryan
         religion = animist
-        size = 750
+        size = 1100
     }
 
     farmers = {
@@ -62,12 +62,6 @@
         size = 750
     }
 
-    soldiers = {
-        culture = indo_aryan
-        religion = animist
-        size = 100
-    }
-
     labourers = {
         culture = indo_aryan
         religion = animist
@@ -86,12 +80,6 @@
         size = 500
     }
 
-    soldiers = {
-        culture = indo_aryan
-        religion = animist
-        size = 50
-    }
-
     labourers = {
         culture = indo_aryan
         religion = animist
@@ -108,12 +96,6 @@
         culture = indo_aryan
         religion = animist
         size = 750
-    }
-
-    soldiers = {
-        culture = indo_aryan
-        religion = animist
-        size = 25
     }
 
     labourers = {
@@ -140,12 +122,6 @@
         size = 1500
     }
 
-    soldiers = {
-        culture = mashriqi
-        religion = animist
-        size = 25
-    }
-
     labourers = {
         culture = mashriqi
         religion = animist
@@ -168,12 +144,6 @@
         culture = malay
         religion = animist
         size = 1100
-    }
-
-    soldiers = {
-        culture = malay
-        religion = animist
-        size = 50
     }
 
     farmers = {
@@ -206,12 +176,6 @@
         size = 1100
     }
 
-    soldiers = {
-        culture = english
-        religion = animist
-        size = 100
-    }
-
     farmers = {
         culture = english
         religion = animist
@@ -241,7 +205,7 @@
     soldiers = {
         culture = dravidian
         religion = animist
-        size = 500
+        size = 1000
     }
 
     farmers = {
@@ -266,12 +230,6 @@
         culture = dravidian
         religion = animist
         size = 2000
-    }
-
-    soldiers = {
-        culture = dravidian
-        religion = animist
-        size = 500
     }
 
     labourers = {
@@ -335,7 +293,7 @@
     soldiers = {
         culture = dravidian
         religion = animist
-        size = 200
+        size = 575
     }
 
     farmers = {
@@ -362,12 +320,6 @@
         size = 500
     }
 
-    soldiers = {
-        culture = dravidian
-        religion = animist
-        size = 250
-    }
-
     labourers = {
         culture = dravidian
         religion = animist
@@ -384,12 +336,6 @@
         culture = dravidian
         religion = animist
         size = 250
-    }
-
-    soldiers = {
-        culture = dravidian
-        religion = animist
-        size = 25
     }
 
     labourers = {
@@ -410,12 +356,6 @@
         size = 500
     }
 
-    soldiers = {
-        culture = dravidian
-        religion = animist
-        size = 25
-    }
-
     labourers = {
         culture = dravidian
         religion = animist
@@ -432,12 +372,6 @@
         culture = malay
         religion = animist
         size = 250
-    }
-
-    soldiers = {
-        culture = malay
-        religion = animist
-        size = 50
     }
 
     labourers = {
@@ -462,12 +396,6 @@
         culture = mashriqi
         religion = animist
         size = 750
-    }
-
-    soldiers = {
-        culture = mashriqi
-        religion = animist
-        size = 25
     }
 
     labourers = {

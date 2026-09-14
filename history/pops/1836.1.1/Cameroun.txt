@@ -111,7 +111,7 @@
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-		size = 275
+		size = 450
 	}
 
 	farmers = {
@@ -142,12 +142,6 @@
 		culture = niger_congo_a
 		religion = animist
 		size = 725
-	}
-
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 175
 	}
 
 	farmers = {
@@ -187,7 +181,7 @@
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-		size = 275
+		size = 875
 	}
 
 	farmers = {
@@ -218,12 +212,6 @@
 		culture = niger_congo_a
 		religion = animist
 		size = 2325
-	}
-
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 600
 	}
 
 	farmers = {
@@ -299,7 +287,7 @@
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-		size = 625
+		size = 800
 	}
 
 	farmers = {
@@ -330,12 +318,6 @@
 		culture = niger_congo_a
 		religion = animist
 		size = 725
-	}
-
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 175
 	}
 
 	farmers = {
@@ -427,7 +409,7 @@
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-		size = 275
+		size = 425
 	}
 
 	farmers = {
@@ -452,12 +434,6 @@
 		culture = niger_congo_a
 		religion = animist
 		size = 575
-	}
-
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 150
 	}
 
 	farmers = {
@@ -496,7 +472,7 @@
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-		size = 100
+		size = 300
 	}
 
 	farmers = {
@@ -523,12 +499,6 @@
 		size = 200
 	}
 
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 50
-	}
-
 	farmers = {
 		culture = niger_congo_a
 		religion = animist
@@ -553,12 +523,6 @@
 		size = 250
 	}
 
-	soldiers = {
-		culture = bedouin
-		religion = animist
-		size = 50
-	}
-
 	farmers = {
 		culture = bedouin
 		religion = animist
@@ -581,12 +545,6 @@
 		culture = niger_congo_a
 		religion = animist
 		size = 450
-	}
-
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 100
 	}
 
 	farmers = {

@@ -497,7 +497,7 @@
     soldiers = {
         culture = irish
         religion = animist
-        size = 2688
+        size = 2788
     }
 
     farmers = {
@@ -534,12 +534,6 @@
         culture = anglois
         religion = animist
         size = 380
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 100
     }
 
     farmers = {
@@ -597,7 +591,7 @@
     soldiers = {
         culture = irish
         religion = animist
-        size = 2149
+        size = 2229
     }
 
     farmers = {
@@ -672,12 +666,6 @@
         size = 80
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 60
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -700,12 +688,6 @@
         culture = anglois
         religion = animist
         size = 10
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 20
     }
 
     farmers = {

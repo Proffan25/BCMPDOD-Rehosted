@@ -5,60 +5,54 @@
     clergymen = {
         culture = afro_caribbean
         religion = animist
-        size = 18
+        size = 11
     }
 
     artisans = {
         culture = afro_caribbean
         religion = animist
-        size = 125
+        size = 74
     }
 
     soldiers = {
         culture = afro_caribbean
         religion = animist
-        size = 67
+        size = 80
     }
 
     farmers = {
         culture = afro_caribbean
         religion = animist
-        size = 1387
+        size = 821
     }
 
     aristocrats = {
         culture = plantagenian
         religion = animist
-        size = 31
+        size = 18
     }
 
     bureaucrats = {
         culture = plantagenian
         religion = animist
-        size = 31
+        size = 18
     }
 
     clergymen = {
         culture = plantagenian
         religion = animist
-        size = 31
+        size = 18
     }
 
     artisans = {
         culture = plantagenian
         religion = animist
-        size = 187
-    }
-
-    soldiers = {
-        culture = plantagenian
-        religion = animist
-        size = 67
+        size = 111
     }
 
     farmers = {
         culture = plantagenian
         religion = animist
-        size = 975
+        size = 577
     }
 }

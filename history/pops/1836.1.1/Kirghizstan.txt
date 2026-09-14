@@ -23,7 +23,7 @@
     soldiers = {
         culture = turkic
         religion = animist
-        size = 3276
+        size = 3346
     }
 
     farmers = {
@@ -50,12 +50,6 @@
         size = 308
     }
 
-    soldiers = {
-        culture = turkic
-        religion = animist
-        size = 35
-    }
-
     farmers = {
         culture = turkic
         religion = animist
@@ -78,12 +72,6 @@
         culture = turkic
         religion = animist
         size = 360
-    }
-
-    soldiers = {
-        culture = turkic
-        religion = animist
-        size = 35
     }
 
     farmers = {
@@ -115,7 +103,7 @@
     soldiers = {
         culture = turkic
         religion = animist
-        size = 514
+        size = 560
     }
 
     farmers = {
@@ -142,12 +130,6 @@
         size = 257
     }
 
-    soldiers = {
-        culture = turkic
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = turkic
         religion = animist
@@ -170,12 +152,6 @@
         culture = turkic
         religion = animist
         size = 205
-    }
-
-    soldiers = {
-        culture = turkic
-        religion = animist
-        size = 23
     }
 
     farmers = {
@@ -209,7 +185,7 @@
     soldiers = {
         culture = turkic
         religion = animist
-        size = 46
+        size = 1918
     }
 
     farmers = {
@@ -234,12 +210,6 @@
         culture = turkic
         religion = animist
         size = 926
-    }
-
-    soldiers = {
-        culture = turkic
-        religion = animist
-        size = 1872
     }
 
     farmers = {

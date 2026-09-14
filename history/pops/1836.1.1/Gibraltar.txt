@@ -23,7 +23,7 @@
     soldiers = {
         culture = spanish
         religion = animist
-        size = 100
+        size = 150
     }
 
     artisans = {
@@ -48,12 +48,6 @@
         culture = spanish
         religion = animist
         size = 3000
-    }
-
-    soldiers = {
-        culture = spanish
-        religion = animist
-        size = 50
     }
 
     farmers = {

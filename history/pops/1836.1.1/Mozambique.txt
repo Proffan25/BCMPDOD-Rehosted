@@ -89,7 +89,7 @@
     soldiers = {
         culture = bantu
         religion = animist
-        size = 150
+        size = 550
     }
 
     farmers = {
@@ -120,12 +120,6 @@
         culture = bantu
         religion = animist
         size = 1400
-    }
-
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 400
     }
 
     farmers = {
@@ -163,7 +157,7 @@
     soldiers = {
         culture = bantu
         religion = animist
-        size = 50
+        size = 450
     }
 
     farmers = {
@@ -188,12 +182,6 @@
         culture = bantu
         religion = animist
         size = 1800
-    }
-
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 400
     }
 
     farmers = {
@@ -237,9 +225,9 @@
     }
 
     soldiers = {
-        culture = scandinavian
+        culture = bantu
         religion = animist
-        size = 156
+        size = 556
     }
 
     aristocrats = {
@@ -258,12 +246,6 @@
         culture = bantu
         religion = animist
         size = 700
-    }
-
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 150
     }
 
     farmers = {
@@ -294,12 +276,6 @@
         culture = bantu
         religion = animist
         size = 1100
-    }
-
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 250
     }
 
     farmers = {
@@ -347,9 +323,9 @@
     }
 
     soldiers = {
-        culture = scandinavian
+        culture = bantu
         religion = animist
-        size = 52
+        size = 277
     }
 
     aristocrats = {
@@ -368,12 +344,6 @@
         culture = bantu
         religion = animist
         size = 650
-    }
-
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 150
     }
 
     farmers = {
@@ -418,12 +388,6 @@
         size = 350
     }
 
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 75
-    }
-
     farmers = {
         culture = bantu
         religion = animist
@@ -460,7 +424,7 @@
     soldiers = {
         culture = bantu
         religion = animist
-        size = 150
+        size = 325
     }
 
     farmers = {
@@ -493,12 +457,6 @@
         size = 400
     }
 
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 100
-    }
-
     farmers = {
         culture = bantu
         religion = animist
@@ -527,12 +485,6 @@
         culture = bantu
         religion = animist
         size = 350
-    }
-
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 75
     }
 
     farmers = {
@@ -602,7 +554,7 @@
     soldiers = {
         culture = bantu
         religion = animist
-        size = 100
+        size = 300
     }
 
     farmers = {
@@ -635,12 +587,6 @@
         size = 650
     }
 
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 150
-    }
-
     farmers = {
         culture = bantu
         religion = animist
@@ -669,12 +615,6 @@
         culture = bantu
         religion = animist
         size = 150
-    }
-
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 50
     }
 
     farmers = {
@@ -706,7 +646,7 @@
     soldiers = {
         culture = bantu
         religion = animist
-        size = 100
+        size = 400
     }
 
     farmers = {
@@ -739,12 +679,6 @@
         size = 525
     }
 
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 150
-    }
-
     farmers = {
         culture = bantu
         religion = animist
@@ -767,12 +701,6 @@
         culture = bantu
         religion = animist
         size = 700
-    }
-
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 150
     }
 
     farmers = {
@@ -866,9 +794,9 @@
     }
 
     soldiers = {
-        culture = scandinavian
+        culture = bantu
         religion = animist
-        size = 52
+        size = 302
     }
 
     aristocrats = {
@@ -887,12 +815,6 @@
         culture = bantu
         religion = animist
         size = 1050
-    }
-
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 250
     }
 
     farmers = {
@@ -931,7 +853,7 @@
     soldiers = {
         culture = bantu
         religion = animist
-        size = 200
+        size = 400
     }
 
     farmers = {
@@ -962,12 +884,6 @@
         culture = bantu
         religion = animist
         size = 750
-    }
-
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 200
     }
 
     farmers = {
@@ -1061,7 +977,7 @@
     soldiers = {
         culture = bantu
         religion = animist
-        size = 300
+        size = 500
     }
 
     farmers = {
@@ -1092,12 +1008,6 @@
         culture = bantu
         religion = animist
         size = 900
-    }
-
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 200
     }
 
     farmers = {
@@ -1141,7 +1051,7 @@
     soldiers = {
         culture = bantu
         religion = animist
-        size = 300
+        size = 325
     }
 
     farmers = {
@@ -1172,12 +1082,6 @@
         culture = bantu
         religion = animist
         size = 150
-    }
-
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 25
     }
 
     farmers = {

@@ -15,21 +15,15 @@
     }
 
     soldiers = {
-        culture = spanish
+        culture = micronesian
         religion = animist
-        size = 5
+        size = 20
     }
 
     artisans = {
         culture = micronesian
         religion = animist
         size = 75
-    }
-
-    soldiers = {
-        culture = micronesian
-        religion = animist
-        size = 15
     }
 
     farmers = {

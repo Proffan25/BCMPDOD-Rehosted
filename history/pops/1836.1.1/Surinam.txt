@@ -5,55 +5,49 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 25
+        size = 23
     }
 
     bureaucrats = {
         culture = granadan
         religion = animist
-        size = 10
+        size = 9
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 50
+        size = 47
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 75
+        size = 125
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 58
+        size = 55
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 4270
+        size = 4016
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 2928
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 57
+        size = 2754
     }
 
     slaves = {
         culture = afro_caribeno
         religion = animist
-        size = 21971
+        size = 20664
     }
 }
 #Aperina (8000/2000 POPS)
@@ -61,30 +55,30 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 58
+        size = 55
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 120
+        size = 113
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 243
+        size = 229
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 57
+        size = 54
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 4270
+        size = 4016
     }
 }

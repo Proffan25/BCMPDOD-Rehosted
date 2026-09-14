@@ -158,7 +158,7 @@
     soldiers = {
         culture = turkic
         religion = animist
-        size = 25
+        size = 350
     }
 
     farmers = {
@@ -183,12 +183,6 @@
         culture = turkic
         religion = animist
         size = 1100
-    }
-
-    soldiers = {
-        culture = turkic
-        religion = animist
-        size = 325
     }
 
     farmers = {

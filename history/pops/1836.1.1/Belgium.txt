@@ -76,7 +76,7 @@
     soldiers = {
         culture = dutch
         religion = animist
-        size = 4950
+        size = 6765
     }
 
     farmers = {
@@ -131,12 +131,6 @@
         culture = burgundian
         religion = animist
         size = 13200
-    }
-
-    soldiers = {
-        culture = burgundian
-        religion = animist
-        size = 1815
     }
 
     labourers = {
@@ -298,7 +292,7 @@
     soldiers = {
         culture = dutch
         religion = animist
-        size = 1815
+        size = 1855
     }
 
     farmers = {
@@ -317,12 +311,6 @@
         culture = burgundian
         religion = animist
         size = 4825
-    }
-
-    soldiers = {
-        culture = burgundian
-        religion = animist
-        size = 40
     }
 }
 #Hasselt (272000/68000 POPS)
@@ -489,9 +477,9 @@
     }
 
     soldiers = {
-        culture = dutch
+        culture = burgundian
         religion = animist
-        size = 150
+        size = 1800
     }
 
     farmers = {
@@ -530,12 +518,6 @@
         size = 3750
     }
 
-    soldiers = {
-        culture = burgundian
-        religion = animist
-        size = 1650
-    }
-
     farmers = {
         culture = burgundian
         religion = animist
@@ -569,9 +551,9 @@
     }
 
     soldiers = {
-        culture = dutch
+        culture = burgundian
         religion = animist
-        size = 187
+        size = 1837
     }
 
     farmers = {
@@ -608,12 +590,6 @@
         culture = burgundian
         religion = animist
         size = 4500
-    }
-
-    soldiers = {
-        culture = burgundian
-        religion = animist
-        size = 1650
     }
 
     farmers = {
@@ -701,7 +677,7 @@
     soldiers = {
         culture = burgundian
         religion = animist
-        size = 1650
+        size = 1800
     }
 
     farmers = {
@@ -720,12 +696,6 @@
         culture = rheinish
         religion = animist
         size = 525
-    }
-
-    soldiers = {
-        culture = rheinish
-        religion = animist
-        size = 150
     }
 
     farmers = {

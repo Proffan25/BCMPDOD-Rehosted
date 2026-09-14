@@ -35,7 +35,7 @@
 	soldiers = {
 		culture = nanfaren
 		religion = animist
-		size = 1250
+		size = 3700
 	}
 
 	farmers = {
@@ -68,12 +68,6 @@
 		size = 2000
 	}
 
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 2400
-	}
-
 	farmers = {
 		culture = nanfaren
 		religion = animist
@@ -90,12 +84,6 @@
 		culture = manchu
 		religion = animist
 		size = 25
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = animist
-		size = 50
 	}
 }
 #Tainan (1528000/382000 POPS) #now part of Taiwan  
@@ -121,7 +109,7 @@
 	soldiers = {
 		culture = nanfaren
 		religion = animist
-		size = 1325
+		size = 3825
 	}
 
 	farmers = {
@@ -149,12 +137,6 @@
 	}
 
 	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 2500
-	}
-
-	soldiers = {
 		culture = nanfaren
 		religion = animist
 		size = 2500

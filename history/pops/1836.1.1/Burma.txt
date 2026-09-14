@@ -29,7 +29,7 @@
     soldiers = {
         culture = burmese
         religion = animist
-        size = 237
+        size = 579
     }
 
     farmers = {
@@ -54,12 +54,6 @@
         culture = burmese
         religion = animist
         size = 1045
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 142
     }
 
     aristocrats = {
@@ -155,12 +149,6 @@
         size = 118
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 200
-    }
-
     farmers = {
         culture = burmese
         religion = animist
@@ -196,7 +184,7 @@
     soldiers = {
         culture = burmese
         religion = animist
-        size = 285
+        size = 350
     }
 
     farmers = {
@@ -223,12 +211,6 @@
         size = 190
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 47
-    }
-
     aristocrats = {
         culture = burmese
         religion = animist
@@ -253,12 +235,6 @@
         size = 68
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 15
-    }
-
     farmers = {
         culture = burmese
         religion = animist
@@ -281,12 +257,6 @@
         culture = burmese
         religion = animist
         size = 10
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 3
     }
 }
 #Pegu (560000/140000 POPS)
@@ -343,7 +313,7 @@
     soldiers = {
         culture = burmese
         religion = animist
-        size = 142
+        size = 375
     }
 
     aristocrats = {
@@ -406,12 +376,6 @@
         size = 120
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 25
-    }
-
 
     aristocrats = {
         culture = burmese
@@ -429,12 +393,6 @@
         culture = burmese
         religion = animist
         size = 43
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 8
     }
 
     aristocrats = {
@@ -462,12 +420,6 @@
     }
 
     artisans = {
-        culture = burmese
-        religion = animist
-        size = 200
-    }
-
-    soldiers = {
         culture = burmese
         religion = animist
         size = 200
@@ -502,7 +454,7 @@
     soldiers = {
         culture = burmese
         religion = animist
-        size = 332
+        size = 550
     }
 
     farmers = {
@@ -553,12 +505,6 @@
         size = 80
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 18
-    }
-
     farmers = {
         culture = burmese
         religion = animist
@@ -581,12 +527,6 @@
         culture = burmese
         religion = animist
         size = 113
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 200
     }
 
     farmers = {
@@ -620,7 +560,7 @@
     soldiers = {
         culture = burmese
         religion = animist
-        size = 3800
+        size = 4125
     }
 
     farmers = {
@@ -647,12 +587,6 @@
         size = 237
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 47
-    }
-
     farmers = {
         culture = burmese
         religion = animist
@@ -675,12 +609,6 @@
         culture = burmese
         religion = animist
         size = 332
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 71
     }
 
     farmers = {
@@ -707,12 +635,6 @@
         size = 120
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 200
-    }
-
     farmers = {
         culture = burmese
         religion = animist
@@ -737,12 +659,6 @@
         size = 13
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 3
-    }
-
     farmers = {
         culture = burmese
         religion = animist
@@ -765,12 +681,6 @@
         culture = burmese
         religion = animist
         size = 18
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 4
     }
 
     farmers = {
@@ -814,7 +724,7 @@
     soldiers = {
         culture = burmese
         religion = animist
-        size = 3800
+        size = 4050
     }
 
     farmers = {
@@ -839,12 +749,6 @@
         culture = burmese
         religion = animist
         size = 237
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 47
     }
 
     farmers = {
@@ -883,12 +787,6 @@
         size = 275
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 200
-    }
-
     farmers = {
         culture = burmese
         religion = animist
@@ -911,12 +809,6 @@
         culture = burmese
         religion = animist
         size = 13
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 3
     }
 
     farmers = {
@@ -948,7 +840,7 @@
     soldiers = {
         culture = burmese
         religion = animist
-        size = 1045
+        size = 1100
     }
 
     farmers = {
@@ -973,12 +865,6 @@
         culture = burmese
         religion = animist
         size = 75
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 55
     }
 
     farmers = {
@@ -1010,7 +896,7 @@
     soldiers = {
         culture = burmese
         religion = animist
-        size = 1045
+        size = 1100
     }
 
     farmers = {
@@ -1035,12 +921,6 @@
         culture = burmese
         religion = animist
         size = 150
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 55
     }
 
     farmers = {
@@ -1086,7 +966,7 @@
     soldiers = {
         culture = burmese
         religion = animist
-        size = 807
+        size = 1075
     }
 
     farmers = {
@@ -1125,12 +1005,6 @@
         size = 1045
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 214
-    }
-
     farmers = {
         culture = burmese
         religion = animist
@@ -1165,12 +1039,6 @@
         culture = burmese
         religion = animist
         size = 213
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 43
     }
 
     farmers = {
@@ -1209,12 +1077,6 @@
         size = 55
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = burmese
         religion = animist
@@ -1244,7 +1106,7 @@
     soldiers = {
         culture = burmese
         religion = animist
-        size = 475
+        size = 750
     }
 
     farmers = {
@@ -1271,12 +1133,6 @@
         size = 522
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 142
-    }
-
     farmers = {
         culture = burmese
         religion = animist
@@ -1293,12 +1149,6 @@
         culture = burmese
         religion = animist
         size = 332
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 95
     }
 
     farmers = {
@@ -1325,12 +1175,6 @@
         size = 125
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = burmese
         religion = animist
@@ -1355,12 +1199,6 @@
         size = 28
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 8
-    }
-
     farmers = {
         culture = burmese
         religion = animist
@@ -1377,12 +1215,6 @@
         culture = burmese
         religion = animist
         size = 18
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 5
     }
 
     farmers = {
@@ -1416,7 +1248,7 @@
     soldiers = {
         culture = burmese
         religion = animist
-        size = 1045
+        size = 1800
     }
 
     farmers = {
@@ -1443,12 +1275,6 @@
         size = 2850
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 475
-    }
-
     aristocrats = {
         culture = burmese
         religion = animist
@@ -1465,12 +1291,6 @@
         culture = burmese
         religion = animist
         size = 760
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 190
     }
 
     farmers = {
@@ -1497,12 +1317,6 @@
         size = 13
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 55
-    }
-
     farmers = {
         culture = burmese
         religion = animist
@@ -1527,12 +1341,6 @@
         size = 150
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 25
-    }
-
     aristocrats = {
         culture = burmese
         religion = animist
@@ -1549,12 +1357,6 @@
         culture = burmese
         religion = animist
         size = 40
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 10
     }
 
     farmers = {
@@ -1586,7 +1388,7 @@
     soldiers = {
         culture = burmese
         religion = animist
-        size = 522
+        size = 550
     }
 
     farmers = {
@@ -1611,12 +1413,6 @@
         culture = burmese
         religion = animist
         size = 125
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 28
     }
 
     farmers = {
@@ -1648,7 +1444,7 @@
     soldiers = {
         culture = burmese
         religion = animist
-        size = 380
+        size = 4650
     }
 
     farmers = {
@@ -1673,12 +1469,6 @@
         culture = burmese
         religion = animist
         size = 1140
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 237
     }
 
     farmers = {
@@ -1711,12 +1501,6 @@
         size = 95
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 3800
-    }
-
     farmers = {
         culture = burmese
         religion = animist
@@ -1741,12 +1525,6 @@
         size = 100
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 20
-    }
-
     farmers = {
         culture = burmese
         religion = animist
@@ -1769,12 +1547,6 @@
         culture = burmese
         religion = animist
         size = 60
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 13
     }
 
     farmers = {
@@ -1805,12 +1577,6 @@
         culture = burmese
         religion = animist
         size = 5
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 200
     }
 
     farmers = {
@@ -1844,7 +1610,7 @@
     soldiers = {
         culture = burmese
         religion = animist
-        size = 285
+        size = 700
     }
 
     farmers = {
@@ -1871,12 +1637,6 @@
         size = 1306
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 237
-    }
-
     aristocrats = {
         culture = burmese
         religion = animist
@@ -1899,12 +1659,6 @@
         culture = burmese
         religion = animist
         size = 95
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 142
     }
 
     farmers = {
@@ -1937,12 +1691,6 @@
         size = 55
     }
 
-    soldiers = {
-        culture = thai
-        religion = animist
-        size = 15
-    }
-
     farmers = {
         culture = thai
         religion = animist
@@ -1967,12 +1715,6 @@
         size = 69
     }
 
-    soldiers = {
-        culture = thai
-        religion = animist
-        size = 13
-    }
-
     aristocrats = {
         culture = thai
         religion = animist
@@ -1995,12 +1737,6 @@
         culture = thai
         religion = animist
         size = 5
-    }
-
-    soldiers = {
-        culture = thai
-        religion = animist
-        size = 8
     }
 
     farmers = {
@@ -2038,7 +1774,7 @@
     soldiers = {
         culture = burmese
         religion = animist
-        size = 380
+        size = 900
     }
 
     farmers = {
@@ -2065,12 +1801,6 @@
         size = 1187
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 190
-    }
-
     farmers = {
         culture = burmese
         religion = animist
@@ -2093,12 +1823,6 @@
         culture = burmese
         religion = animist
         size = 1900
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 285
     }
 
     farmers = {
@@ -2125,12 +1849,6 @@
         size = 55
     }
 
-    soldiers = {
-        culture = thai
-        religion = animist
-        size = 20
-    }
-
     farmers = {
         culture = thai
         religion = animist
@@ -2155,12 +1873,6 @@
         size = 63
     }
 
-    soldiers = {
-        culture = thai
-        religion = animist
-        size = 10
-    }
-
     farmers = {
         culture = thai
         religion = animist
@@ -2183,12 +1895,6 @@
         culture = thai
         religion = animist
         size = 100
-    }
-
-    soldiers = {
-        culture = thai
-        religion = animist
-        size = 15
     }
 
     farmers = {
@@ -2228,7 +1934,7 @@
     soldiers = {
         culture = burmese
         religion = animist
-        size = 142
+        size = 400
     }
 
     farmers = {
@@ -2259,12 +1965,6 @@
         culture = burmese
         religion = animist
         size = 5937
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 237
     }
 
     farmers = {
@@ -2321,12 +2021,6 @@
         size = 138
     }
 
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 8
-    }
-
     farmers = {
         culture = burmese
         religion = animist
@@ -2355,12 +2049,6 @@
         culture = burmese
         religion = animist
         size = 313
-    }
-
-    soldiers = {
-        culture = burmese
-        religion = animist
-        size = 13
     }
 
     farmers = {

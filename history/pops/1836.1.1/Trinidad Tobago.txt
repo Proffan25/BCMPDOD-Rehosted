@@ -5,49 +5,49 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 30
+        size = 28
     }
 
     bureaucrats = {
         culture = granadan
         religion = animist
-        size = 15
+        size = 14
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 100
+        size = 94
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 500
+        size = 470
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 125
+        size = 118
     }
 
     farmers = {
         culture = afro_caribeno
         religion = animist
-        size = 410
+        size = 386
     }
 
     artisans = {
         culture = afro_caribeno
         religion = animist
-        size = 750
+        size = 705
     }
 
     slaves = {
         culture = afro_caribeno
         religion = animist
-        size = 9075
+        size = 8535
     }
 }
 #Tobago (15000/3750 POPS)

@@ -35,7 +35,7 @@
     soldiers = {
         culture = pashtun
         religion = animist
-        size = 11000
+        size = 12250
     }
 
     farmers = {
@@ -68,12 +68,6 @@
         size = 4900
     }
 
-    soldiers = {
-        culture = pashtun
-        religion = animist
-        size = 1100
-    }
-
     farmers = {
         culture = pashtun
         religion = animist
@@ -96,12 +90,6 @@
         culture = pashtun
         religion = animist
         size = 800
-    }
-
-    soldiers = {
-        culture = pashtun
-        religion = animist
-        size = 150
     }
 
     farmers = {
@@ -133,7 +121,7 @@
     soldiers = {
         culture = pashtun
         religion = animist
-        size = 825
+        size = 1300
     }
 
     farmers = {
@@ -160,12 +148,6 @@
         size = 1900
     }
 
-    soldiers = {
-        culture = pashtun
-        religion = animist
-        size = 375
-    }
-
     farmers = {
         culture = pashtun
         religion = animist
@@ -188,12 +170,6 @@
         culture = pashtun
         religion = animist
         size = 500
-    }
-
-    soldiers = {
-        culture = pashtun
-        religion = animist
-        size = 100
     }
 
     farmers = {
@@ -225,7 +201,7 @@
     soldiers = {
         culture = pashtun
         religion = animist
-        size = 1100
+        size = 5100
     }
 
     farmers = {
@@ -250,12 +226,6 @@
         culture = pashtun
         religion = animist
         size = 3200
-    }
-
-    soldiers = {
-        culture = pashtun
-        religion = animist
-        size = 4000
     }
 
     farmers = {
@@ -287,7 +257,7 @@
     soldiers = {
         culture = pashtun
         religion = animist
-        size = 1100
+        size = 3825
     }
 
     farmers = {
@@ -314,12 +284,6 @@
         size = 700
     }
 
-    soldiers = {
-        culture = pashtun
-        religion = animist
-        size = 1100
-    }
-
     farmers = {
         culture = pashtun
         religion = animist
@@ -344,12 +308,6 @@
         size = 2700
     }
 
-    soldiers = {
-        culture = pashtun
-        religion = animist
-        size = 525
-    }
-
     farmers = {
         culture = pashtun
         religion = animist
@@ -372,12 +330,6 @@
         culture = pashtun
         religion = animist
         size = 850
-    }
-
-    soldiers = {
-        culture = pashtun
-        religion = animist
-        size = 1100
     }
 
     farmers = {
@@ -409,7 +361,7 @@
     soldiers = {
         culture = pashtun
         religion = animist
-        size = 1100
+        size = 2200
     }
 
     farmers = {
@@ -434,12 +386,6 @@
         culture = pashtun
         religion = animist
         size = 4400
-    }
-
-    soldiers = {
-        culture = pashtun
-        religion = animist
-        size = 1100
     }
 
     farmers = {
@@ -471,7 +417,7 @@
     soldiers = {
         culture = pashtun
         religion = animist
-        size = 1100
+        size = 2300
     }
 
     farmers = {
@@ -498,12 +444,6 @@
         size = 1050
     }
 
-    soldiers = {
-        culture = pashtun
-        religion = animist
-        size = 1100
-    }
-
     farmers = {
         culture = pashtun
         religion = animist
@@ -526,12 +466,6 @@
         culture = pashtun
         religion = animist
         size = 525
-    }
-
-    soldiers = {
-        culture = pashtun
-        religion = animist
-        size = 100
     }
 
     farmers = {
@@ -595,7 +529,7 @@
     soldiers = {
         culture = pashtun
         religion = animist
-        size = 675
+        size = 800
     }
 
     farmers = {
@@ -620,12 +554,6 @@
         culture = pashtun
         religion = animist
         size = 650
-    }
-
-    soldiers = {
-        culture = pashtun
-        religion = animist
-        size = 125
     }
 
     farmers = {
@@ -659,7 +587,7 @@
     soldiers = {
         culture = pashtun
         religion = animist
-        size = 1100
+        size = 5100
     }
 
     farmers = {
@@ -684,12 +612,6 @@
         culture = pashtun
         religion = animist
         size = 3750
-    }
-
-    soldiers = {
-        culture = pashtun
-        religion = animist
-        size = 4000
     }
 
     farmers = {

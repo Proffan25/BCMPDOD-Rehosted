@@ -35,7 +35,7 @@
 	soldiers = {
 		culture = nepali
 		religion = animist
-		size = 7000
+		size = 7300
 	}
 
 	farmers = {
@@ -62,12 +62,6 @@
 		size = 475
 	}
 
-	soldiers = {
-		culture = tibetan
-		religion = animist
-		size = 100
-	}
-
 	farmers = {
 		culture = tibetan
 		religion = animist
@@ -90,12 +84,6 @@
 		culture = nepali
 		religion = animist
 		size = 1050
-	}
-
-	soldiers = {
-		culture = nepali
-		religion = animist
-		size = 200
 	}
 
 	farmers = {
@@ -127,7 +115,7 @@
 	soldiers = {
 		culture = nepali
 		religion = animist
-		size = 1100
+		size = 1650
 	}
 
 	farmers = {
@@ -154,12 +142,6 @@
 		size = 1850
 	}
 
-	soldiers = {
-		culture = tibetan
-		religion = animist
-		size = 350
-	}
-
 	farmers = {
 		culture = tibetan
 		religion = animist
@@ -182,12 +164,6 @@
 		culture = nepali
 		religion = animist
 		size = 950
-	}
-
-	soldiers = {
-		culture = nepali
-		religion = animist
-		size = 200
 	}
 
 	farmers = {

@@ -65,7 +65,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 11500
+        size = 13775
     }
 
     farmers = {
@@ -92,12 +92,6 @@
         size = 8950
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1800
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -122,12 +116,6 @@
         size = 1050
     }
 
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 225
-    }
-
     farmers = {
         culture = beifaren
         religion = animist
@@ -144,12 +132,6 @@
         culture = manchu
         religion = animist
         size = 150
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 250
     }
 }
 #Chizhou (5088000/1272000 POPS)
@@ -205,7 +187,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 11900
+        size = 12750
     }
 
     farmers = {
@@ -230,12 +212,6 @@
         culture = nanfaren
         religion = animist
         size = 4200
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 850
     }
 
     farmers = {
@@ -279,7 +255,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 5450
+        size = 5575
     }
 
     farmers = {
@@ -304,12 +280,6 @@
         culture = beifaren
         religion = animist
         size = 600
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 125
     }
 
     farmers = {
@@ -371,7 +341,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 10800
+        size = 11225
     }
 
     farmers = {
@@ -396,12 +366,6 @@
         culture = beifaren
         religion = animist
         size = 2525
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 425
     }
 
     farmers = {
@@ -463,7 +427,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 11100
+        size = 11225
     }
 
     farmers = {
@@ -488,12 +452,6 @@
         culture = beifaren
         religion = animist
         size = 650
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 125
     }
 
     farmers = {
@@ -769,7 +727,7 @@
     soldiers = {
         culture = manchu
         religion = animist
-        size = 5796
+        size = 6628
     }
 
     farmers = {
@@ -796,12 +754,6 @@
         size = 1774
     }
 
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 362
-    }
-
     farmers = {
         culture = manchu
         religion = animist
@@ -826,12 +778,6 @@
         size = 1159
     }
 
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 235
-    }
-
     farmers = {
         culture = manchu
         religion = animist
@@ -854,12 +800,6 @@
         culture = manchu
         religion = animist
         size = 1122
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 235
     }
 
     farmers = {
@@ -891,7 +831,7 @@
     soldiers = {
         culture = manchu
         religion = animist
-        size = 1032
+        size = 1248
     }
 
     farmers = {
@@ -918,12 +858,6 @@
         size = 507
     }
 
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 108
-    }
-
     farmers = {
         culture = manchu
         religion = animist
@@ -946,12 +880,6 @@
         culture = manchu
         religion = animist
         size = 507
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 108
     }
 
     farmers = {
@@ -983,7 +911,7 @@
     soldiers = {
         culture = manchu
         religion = animist
-        size = 150
+        size = 200
     }
 
     farmers = {
@@ -1008,12 +936,6 @@
         culture = beifaren
         religion = animist
         size = 250
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 50
     }
 
     farmers = {
@@ -1065,7 +987,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 3175
+        size = 10525
     }
 
     farmers = {
@@ -1090,12 +1012,6 @@
         culture = nanfaren
         religion = animist
         size = 1500
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 300
     }
 
     farmers = {
@@ -1140,12 +1056,6 @@
         size = 3950
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 6500
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -1170,12 +1080,6 @@
         size = 1800
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 350
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -1192,12 +1096,6 @@
         culture = manchu
         religion = animist
         size = 250
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 200
     }
 }
 #Jianning (2520000/630000POPS)
@@ -1223,7 +1121,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 1950
+        size = 6325
     }
 
     farmers = {
@@ -1248,12 +1146,6 @@
         culture = nanfaren
         religion = animist
         size = 1250
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 250
     }
 
     farmers = {
@@ -1292,12 +1184,6 @@
         size = 550
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 4125
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -1333,7 +1219,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 2400
+        size = 6800
     }
 
     farmers = {
@@ -1372,12 +1258,6 @@
         size = 1800
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 4400
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -1407,7 +1287,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 1950
+        size = 15150
     }
 
     farmers = {
@@ -1458,12 +1338,6 @@
         size = 600
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 8100
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -1498,12 +1372,6 @@
         culture = nanfaren
         religion = animist
         size = 5400
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 5100
     }
 
     farmers = {
@@ -1541,7 +1409,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 2400
+        size = 3450
     }
 
     farmers = {
@@ -1566,12 +1434,6 @@
         culture = nanfaren
         religion = animist
         size = 5225
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1050
     }
 
     farmers = {
@@ -1641,7 +1503,7 @@
     soldiers = {
         culture = mongol
         religion = animist
-        size = 1774
+        size = 8002
     }
 
     farmers = {
@@ -1668,12 +1530,6 @@
         size = 312
     }
 
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 58
-    }
-
     farmers = {
         culture = mongol
         religion = animist
@@ -1696,12 +1552,6 @@
         culture = mongol
         religion = animist
         size = 652
-    }
-
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 131
     }
 
     farmers = {
@@ -1740,12 +1590,6 @@
         size = 3120
     }
 
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 3744
-    }
-
     farmers = {
         culture = mongol
         religion = animist
@@ -1762,12 +1606,6 @@
         culture = mongol
         religion = animist
         size = 195
-    }
-
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 390
     }
 
     aristocrats = {
@@ -1824,12 +1662,6 @@
         size = 1549
     }
 
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 1774
-    }
-
     farmers = {
         culture = mongol
         religion = animist
@@ -1852,12 +1684,6 @@
         culture = mongol
         religion = animist
         size = 652
-    }
-
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 131
     }
 
     farmers = {
@@ -1901,7 +1727,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 5500
+        size = 5650
     }
 
     farmers = {
@@ -1926,12 +1752,6 @@
         culture = beifaren
         religion = animist
         size = 700
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 150
     }
 
     farmers = {
@@ -1981,7 +1801,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 7000
+        size = 9000
     }
 
     farmers = {
@@ -2008,12 +1828,6 @@
         size = 1350
     }
 
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 275
-    }
-
     farmers = {
         culture = beifaren
         religion = animist
@@ -2038,12 +1852,6 @@
         size = 200
     }
 
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = mongol
         religion = animist
@@ -2066,12 +1874,6 @@
         culture = mongol
         religion = animist
         size = 8450
-    }
-
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 1700
     }
 
     farmers = {
@@ -2103,7 +1905,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 1525
+        size = 2400
     }
 
     farmers = {
@@ -2130,12 +1932,6 @@
         size = 1100
     }
 
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 200
-    }
-
     farmers = {
         culture = beifaren
         religion = animist
@@ -2158,12 +1954,6 @@
         culture = mongol
         religion = animist
         size = 3350
-    }
-
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 675
     }
 
     farmers = {
@@ -2213,7 +2003,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 7675
+        size = 7950
     }
 
     farmers = {
@@ -2238,12 +2028,6 @@
         culture = beifaren
         religion = animist
         size = 1300
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 275
     }
 
     farmers = {
@@ -2307,7 +2091,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 2250
+        size = 11900
     }
 
     farmers = {
@@ -2334,12 +2118,6 @@
         size = 2700
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 550
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -2362,12 +2140,6 @@
         culture = nanfaren
         religion = animist
         size = 1850
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 375
     }
 
     farmers = {
@@ -2394,12 +2166,6 @@
         size = 8200
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1650
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -2422,12 +2188,6 @@
         culture = nanfaren
         religion = animist
         size = 800
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 175
     }
 
     farmers = {
@@ -2514,12 +2274,6 @@
         size = 9950
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 6400
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -2536,12 +2290,6 @@
         culture = manchu
         religion = animist
         size = 300
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 500
     }
 }
 #Chaozhou (3600000/900000 POPS)
@@ -2573,7 +2321,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 3750
+        size = 9025
     }
 
     farmers = {
@@ -2598,12 +2346,6 @@
         culture = nanfaren
         religion = animist
         size = 1400
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 275
     }
 
     farmers = {
@@ -2642,12 +2384,6 @@
         size = 5000
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 5000
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -2677,7 +2413,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 200
+        size = 9500
     }
 
     farmers = {
@@ -2726,12 +2462,6 @@
         culture = nanfaren
         religion = animist
         size = 6500
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 9300
     }
 
     farmers = {
@@ -2789,7 +2519,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 1625
+        size = 5525
     }
 
     farmers = {
@@ -2814,12 +2544,6 @@
         culture = nanfaren
         religion = animist
         size = 4850
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 975
     }
 
     farmers = {
@@ -2852,12 +2576,6 @@
         size = 4600
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 2925
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -2887,7 +2605,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 1875
+        size = 8600
     }
 
     farmers = {
@@ -2932,12 +2650,6 @@
         size = 950
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 6200
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -2960,12 +2672,6 @@
         culture = nanfaren
         religion = animist
         size = 2550
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 525
     }
 
     farmers = {
@@ -2997,7 +2703,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 1200
+        size = 5950
     }
 
     farmers = {
@@ -3030,12 +2736,6 @@
         size = 3800
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 2750
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -3064,12 +2764,6 @@
         culture = nanfaren
         religion = animist
         size = 100
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 2000
     }
 
     farmers = {
@@ -3222,7 +2916,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 925
+        size = 6375
     }
 
     farmers = {
@@ -3255,12 +2949,6 @@
         size = 9700
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 3950
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -3283,12 +2971,6 @@
         culture = nanfaren
         religion = animist
         size = 6250
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1250
     }
 
     farmers = {
@@ -3315,12 +2997,6 @@
         size = 500
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 100
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -3337,12 +3013,6 @@
         culture = manchu
         religion = animist
         size = 75
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 150
     }
 }
 #Guilin (4668000/1167000 POPS)
@@ -3374,7 +3044,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 2625
+        size = 11700
     }
 
     farmers = {
@@ -3413,12 +3083,6 @@
         size = 6550
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 5325
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -3449,12 +3113,6 @@
         size = 5600
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 3125
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -3477,12 +3135,6 @@
         culture = nanfaren
         religion = animist
         size = 3150
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 625
     }
 
     farmers = {
@@ -3514,7 +3166,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 800
+        size = 3585
     }
 
     farmers = {
@@ -3541,12 +3193,6 @@
         size = 7900
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1600
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -3571,12 +3217,6 @@
         size = 5850
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1175
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -3599,12 +3239,6 @@
         culture = nanfaren
         religion = animist
         size = 50
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 10
     }
 
     farmers = {
@@ -3656,7 +3290,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 2575
+        size = 2900
     }
 
     farmers = {
@@ -3683,12 +3317,6 @@
         size = 250
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -3711,12 +3339,6 @@
         culture = nanfaren
         religion = animist
         size = 100
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -3743,12 +3365,6 @@
         size = 750
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 150
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -3765,12 +3381,6 @@
         culture = manchu
         religion = animist
         size = 25
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 100
     }
 }
 #Anshun (1876000/469000 POPS)
@@ -3802,7 +3412,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 3000
+        size = 4700
     }
 
     farmers = {
@@ -3829,12 +3439,6 @@
         size = 6100
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1225
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -3859,12 +3463,6 @@
         size = 1950
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 400
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -3887,12 +3485,6 @@
         culture = nanfaren
         religion = animist
         size = 400
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 75
     }
 
     farmers = {
@@ -3936,7 +3528,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 4550
+        size = 6225
     }
 
     farmers = {
@@ -3963,12 +3555,6 @@
         size = 5700
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1150
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -3991,12 +3577,6 @@
         culture = nanfaren
         religion = animist
         size = 2575
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 525
     }
 
     farmers = {
@@ -4066,7 +3646,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 9150
+        size = 10800
     }
 
     farmers = {
@@ -4091,12 +3671,6 @@
         culture = beifaren
         religion = animist
         size = 2750
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 550
     }
 
     farmers = {
@@ -4127,12 +3701,6 @@
         culture = manchu
         religion = animist
         size = 150
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 1100
     }
 }
 #Guide (3248000/812000 POPS)
@@ -4176,7 +3744,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 7750
+        size = 8125
     }
 
     farmers = {
@@ -4201,12 +3769,6 @@
         culture = beifaren
         religion = animist
         size = 1900
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 375
     }
 
     farmers = {
@@ -4256,7 +3818,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 7875
+        size = 8275
     }
 
     farmers = {
@@ -4281,12 +3843,6 @@
         culture = beifaren
         religion = animist
         size = 1950
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 400
     }
 
     farmers = {
@@ -4348,7 +3904,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 10775
+        size = 11325
     }
 
     farmers = {
@@ -4373,12 +3929,6 @@
         culture = beifaren
         religion = animist
         size = 2700
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 550
     }
 
     farmers = {
@@ -4428,7 +3978,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 7800
+        size = 8175
     }
 
     farmers = {
@@ -4453,12 +4003,6 @@
         culture = beifaren
         religion = animist
         size = 1850
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 375
     }
 
     farmers = {
@@ -4684,7 +4228,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 8000
+        size = 9500
     }
 
     farmers = {
@@ -4711,12 +4255,6 @@
         size = 1050
     }
 
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 225
-    }
-
     farmers = {
         culture = beifaren
         religion = animist
@@ -4741,12 +4279,6 @@
         size = 850
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 175
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -4763,12 +4295,6 @@
         culture = manchu
         religion = animist
         size = 125
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 1100
     }
 }
 #Dean (4128000/1032000 POPS)
@@ -4874,7 +4400,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 7950
+        size = 8300
     }
 
     farmers = {
@@ -4901,12 +4427,6 @@
         size = 850
     }
 
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 175
-    }
-
     farmers = {
         culture = beifaren
         religion = animist
@@ -4929,12 +4449,6 @@
         culture = nanfaren
         religion = animist
         size = 800
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 175
     }
 
     farmers = {
@@ -4984,7 +4498,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 7750
+        size = 8375
     }
 
     farmers = {
@@ -5011,12 +4525,6 @@
         size = 2100
     }
 
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 425
-    }
-
     farmers = {
         culture = beifaren
         religion = animist
@@ -5039,12 +4547,6 @@
         culture = nanfaren
         religion = animist
         size = 900
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 200
     }
 
     farmers = {
@@ -5094,7 +4596,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 8000
+        size = 8175
     }
 
     farmers = {
@@ -5119,12 +4621,6 @@
         culture = nanfaren
         religion = animist
         size = 800
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 175
     }
 
     farmers = {
@@ -5174,7 +4670,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 7750
+        size = 8110
     }
 
     farmers = {
@@ -5201,12 +4697,6 @@
         size = 1750
     }
 
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 350
-    }
-
     farmers = {
         culture = beifaren
         religion = animist
@@ -5229,12 +4719,6 @@
         culture = nanfaren
         religion = animist
         size = 50
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 10
     }
 
     farmers = {
@@ -5290,7 +4774,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 8300
+        size = 8310
     }
 
     farmers = {
@@ -5315,12 +4799,6 @@
         culture = nanfaren
         religion = animist
         size = 50
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 10
     }
 
     farmers = {
@@ -5370,7 +4848,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 8025
+        size = 9485
     }
 
     farmers = {
@@ -5397,12 +4875,6 @@
         size = 7250
     }
 
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 1450
-    }
-
     farmers = {
         culture = beifaren
         religion = animist
@@ -5425,12 +4897,6 @@
         culture = nanfaren
         religion = animist
         size = 50
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 10
     }
 
     farmers = {
@@ -5506,7 +4972,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 10275
+        size = 11050
     }
 
     farmers = {
@@ -5533,12 +4999,6 @@
         size = 150
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -5555,12 +5015,6 @@
         culture = manchu
         religion = animist
         size = 100
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 750
     }
 }
 #Changde (1616000/404000 POPS)
@@ -5592,7 +5046,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 3650
+        size = 4050
     }
 
     farmers = {
@@ -5617,12 +5071,6 @@
         culture = nanfaren
         religion = animist
         size = 1950
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 400
     }
 
     farmers = {
@@ -5678,7 +5126,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 8400
+        size = 9650
     }
 
     farmers = {
@@ -5703,12 +5151,6 @@
         culture = nanfaren
         religion = animist
         size = 6150
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1250
     }
 
     farmers = {
@@ -5764,7 +5206,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 8475
+        size = 9525
     }
 
     farmers = {
@@ -5789,12 +5231,6 @@
         culture = nanfaren
         religion = animist
         size = 5150
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1050
     }
 
     farmers = {
@@ -5832,7 +5268,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 2450
+        size = 3000
     }
 
     farmers = {
@@ -5857,12 +5293,6 @@
         culture = nanfaren
         religion = animist
         size = 2700
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 550
     }
 
     farmers = {
@@ -5962,7 +5392,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 6300
+        size = 7475
     }
 
     farmers = {
@@ -5987,12 +5417,6 @@
         culture = nanfaren
         religion = animist
         size = 5850
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1175
     }
 
     farmers = {
@@ -6038,7 +5462,7 @@
     soldiers = {
         culture = mongol
         religion = animist
-        size = 982
+        size = 2011
     }
 
     farmers = {
@@ -6075,12 +5499,6 @@
         culture = mongol
         religion = animist
         size = 70
-    }
-
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 1029
     }
 
     clergymen = {
@@ -6124,7 +5542,7 @@
     soldiers = {
         culture = manchu
         religion = animist
-        size = 796
+        size = 813
     }
 
     farmers = {
@@ -6167,12 +5585,6 @@
         culture = manchu
         religion = animist
         size = 53
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 17
     }
 
     farmers = {
@@ -6342,7 +5754,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 5250
+        size = 9700
     }
 
     farmers = {
@@ -6393,12 +5805,6 @@
         size = 9000
     }
 
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 3350
-    }
-
     farmers = {
         culture = beifaren
         religion = animist
@@ -6415,12 +5821,6 @@
         culture = manchu
         religion = animist
         size = 250
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 1100
     }
 }
 #Huaian (3148000/787000 POPS)
@@ -6444,9 +5844,9 @@
     }
 
     soldiers = {
-        culture = nanfaren
+        culture = beifaren
         religion = animist
-        size = 550
+        size = 7875
     }
 
     farmers = {
@@ -6489,12 +5889,6 @@
         culture = beifaren
         religion = animist
         size = 6600
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 7325
     }
 
     farmers = {
@@ -6562,7 +5956,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 13375
+        size = 15325
     }
 
     farmers = {
@@ -6587,12 +5981,6 @@
         culture = beifaren
         religion = animist
         size = 9750
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 1950
     }
 
     farmers = {
@@ -6686,7 +6074,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 10625
+        size = 12425
     }
 
     farmers = {
@@ -6711,12 +6099,6 @@
         culture = beifaren
         religion = animist
         size = 9000
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 1800
     }
 
     farmers = {
@@ -6778,7 +6160,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 11075
+        size = 13825
     }
 
     farmers = {
@@ -6809,12 +6191,6 @@
         culture = beifaren
         religion = animist
         size = 3700
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 2750
     }
 
     farmers = {
@@ -6882,7 +6258,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 12900
+        size = 13800
     }
 
     farmers = {
@@ -6907,12 +6283,6 @@
         culture = beifaren
         religion = animist
         size = 4500
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 900
     }
 
     farmers = {
@@ -6942,9 +6312,9 @@
     }
 
     soldiers = {
-        culture = nanfaren
+        culture = beifaren
         religion = animist
-        size = 1200
+        size = 5400
     }
 
     farmers = {
@@ -6983,12 +6353,6 @@
         size = 1100
     }
 
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 4200
-    }
-
     farmers = {
         culture = beifaren
         religion = animist
@@ -7016,9 +6380,9 @@
     }
 
     soldiers = {
-        culture = nanfaren
+        culture = beifaren
         religion = animist
-        size = 1125
+        size = 8375
     }
 
     farmers = {
@@ -7063,12 +6427,6 @@
         size = 6250
     }
 
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 7250
-    }
-
     farmers = {
         culture = beifaren
         religion = animist
@@ -7110,7 +6468,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 5850
+        size = 7900
     }
 
     farmers = {
@@ -7141,12 +6499,6 @@
         culture = beifaren
         religion = animist
         size = 250
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 2050
     }
 
     farmers = {
@@ -7204,7 +6556,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 5025
+        size = 7475
     }
 
     farmers = {
@@ -7243,12 +6595,6 @@
         size = 7800
     }
 
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 1575
-    }
-
     farmers = {
         culture = beifaren
         religion = animist
@@ -7271,12 +6617,6 @@
         culture = nanfaren
         religion = animist
         size = 100
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -7303,12 +6643,6 @@
         size = 1750
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 350
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -7325,12 +6659,6 @@
         culture = manchu
         religion = animist
         size = 175
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 500
     }
 }
 #Guangxin (2960000/740000 POPS)
@@ -7368,7 +6696,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 5275
+        size = 7425
     }
 
     farmers = {
@@ -7395,12 +6723,6 @@
         size = 7600
     }
 
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 1525
-    }
-
     farmers = {
         culture = beifaren
         religion = animist
@@ -7423,12 +6745,6 @@
         culture = nanfaren
         religion = animist
         size = 3100
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 625
     }
 
     farmers = {
@@ -7472,7 +6788,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 5800
+        size = 16750
     }
 
     farmers = {
@@ -7529,12 +6845,6 @@
         size = 4750
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 10950
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -7570,7 +6880,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 2900
+        size = 4175
     }
 
     farmers = {
@@ -7595,12 +6905,6 @@
         culture = nanfaren
         religion = animist
         size = 6300
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1275
     }
 
     farmers = {
@@ -7650,7 +6954,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 7575
+        size = 9850
     }
 
     farmers = {
@@ -7677,12 +6981,6 @@
         size = 9650
     }
 
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 1950
-    }
-
     farmers = {
         culture = beifaren
         religion = animist
@@ -7705,12 +7003,6 @@
         culture = nanfaren
         religion = animist
         size = 1600
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 325
     }
 
     farmers = {
@@ -7772,7 +7064,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 11775
+        size = 12375
     }
 
     farmers = {
@@ -7797,12 +7089,6 @@
         culture = nanfaren
         religion = animist
         size = 2950
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 600
     }
 
     farmers = {
@@ -7846,7 +7132,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 5800
+        size = 7325
     }
 
     farmers = {
@@ -7871,12 +7157,6 @@
         culture = beifaren
         religion = animist
         size = 7550
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 1525
     }
 
     farmers = {
@@ -7940,7 +7220,7 @@
     soldiers = {
         culture = manchu
         religion = animist
-        size = 5796
+        size = 5831
     }
 
     farmers = {
@@ -7965,12 +7245,6 @@
         culture = manchu
         religion = animist
         size = 180
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 35
     }
 
     farmers = {
@@ -8008,7 +7282,7 @@
     soldiers = {
         culture = manchu
         religion = animist
-        size = 2753
+        size = 2770
     }
 
     farmers = {
@@ -8033,12 +7307,6 @@
         culture = manchu
         religion = animist
         size = 108
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 17
     }
 
     farmers = {
@@ -8076,7 +7344,7 @@
     soldiers = {
         culture = manchu
         religion = animist
-        size = 1666
+        size = 1955
     }
 
     farmers = {
@@ -8101,12 +7369,6 @@
         culture = manchu
         religion = animist
         size = 1376
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 289
     }
 
     farmers = {
@@ -8144,7 +7406,7 @@
     soldiers = {
         culture = manchu
         religion = animist
-        size = 1811
+        size = 2064
     }
 
     farmers = {
@@ -8169,12 +7431,6 @@
         culture = manchu
         religion = animist
         size = 1231
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 253
     }
 
     farmers = {
@@ -8206,7 +7462,7 @@
     soldiers = {
         culture = manchu
         religion = animist
-        size = 796
+        size = 813
     }
 
     farmers = {
@@ -8231,12 +7487,6 @@
         culture = manchu
         religion = animist
         size = 108
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 17
     }
 
     farmers = {
@@ -8282,7 +7532,7 @@
     soldiers = {
         culture = tibetan
         religion = animist
-        size = 925
+        size = 1250
     }
 
     farmers = {
@@ -8309,12 +7559,6 @@
         size = 100
     }
 
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = mongol
         religion = animist
@@ -8331,12 +7575,6 @@
         culture = beifaren
         religion = animist
         size = 125
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -8363,12 +7601,6 @@
         size = 900
     }
 
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 175
-    }
-
     farmers = {
         culture = mongol
         religion = animist
@@ -8385,12 +7617,6 @@
         culture = manchu
         religion = animist
         size = 25
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 100
     }
 }
 #Balekungomi (364000/91000 POPS)
@@ -8416,7 +7642,7 @@
     soldiers = {
         culture = tibetan
         religion = animist
-        size = 775
+        size = 935
     }
 
     farmers = {
@@ -8443,12 +7669,6 @@
         size = 700
     }
 
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 150
-    }
-
     farmers = {
         culture = mongol
         religion = animist
@@ -8471,12 +7691,6 @@
         culture = mongol
         religion = animist
         size = 50
-    }
-
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 10
     }
 
     farmers = {
@@ -8506,9 +7720,9 @@
     }
 
     soldiers = {
-        culture = tibetan
+        culture = mongol
         religion = animist
-        size = 400
+        size = 1125
     }
 
     farmers = {
@@ -8535,12 +7749,6 @@
         size = 600
     }
 
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 125
-    }
-
     farmers = {
         culture = mongol
         religion = animist
@@ -8565,12 +7773,6 @@
         size = 550
     }
 
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 125
-    }
-
     farmers = {
         culture = mongol
         religion = animist
@@ -8593,12 +7795,6 @@
         culture = mongol
         religion = animist
         size = 2350
-    }
-
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 475
     }
 
     farmers = {
@@ -8656,7 +7852,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 7500
+        size = 8425
     }
 
     farmers = {
@@ -8683,12 +7879,6 @@
         size = 2100
     }
 
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 425
-    }
-
     farmers = {
         culture = beifaren
         religion = animist
@@ -8705,12 +7895,6 @@
         culture = manchu
         religion = animist
         size = 75
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 500
     }
 }
 #Yenan (1088000/272000 POPS)
@@ -8742,7 +7926,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 2550
+        size = 2750
     }
 
     farmers = {
@@ -8767,12 +7951,6 @@
         culture = beifaren
         religion = animist
         size = 900
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 200
     }
 
     farmers = {
@@ -8808,9 +7986,9 @@
     }
 
     soldiers = {
-        culture = beifaren
+        culture = nanfaren
         religion = animist
-        size = 3900
+        size = 8775
     }
 
     farmers = {
@@ -8835,12 +8013,6 @@
         culture = beifaren
         religion = animist
         size = 2150
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 450
     }
 
     farmers = {
@@ -8879,12 +8051,6 @@
         size = 2100
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 4425
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -8920,7 +8086,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 3200
+        size = 3400
     }
 
     farmers = {
@@ -8945,12 +8111,6 @@
         culture = beifaren
         religion = animist
         size = 1100
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 200
     }
 
     farmers = {
@@ -9038,7 +8198,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 14100
+        size = 16325
     }
 
     farmers = {
@@ -9065,12 +8225,6 @@
         size = 3550
     }
 
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 725
-    }
-
     farmers = {
         culture = beifaren
         religion = animist
@@ -9087,12 +8241,6 @@
         culture = manchu
         religion = animist
         size = 300
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 1500
     }
 }
 #Caozhou (3704000/926000 POPS)
@@ -9562,7 +8710,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 10950
+        size = 11475
     }
 
     farmers = {
@@ -9589,12 +8737,6 @@
         size = 700
     }
 
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 150
-    }
-
     farmers = {
         culture = beifaren
         religion = animist
@@ -9611,12 +8753,6 @@
         culture = manchu
         religion = animist
         size = 125
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 375
     }
 }
 #Fenzhou (3412000/853000 POPS)
@@ -9666,7 +8802,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 8450
+        size = 8550
     }
 
     farmers = {
@@ -9691,12 +8827,6 @@
         culture = beifaren
         religion = animist
         size = 450
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 100
     }
 
     farmers = {
@@ -9752,7 +8882,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 9300
+        size = 9375
     }
 
     farmers = {
@@ -9777,12 +8907,6 @@
         culture = beifaren
         religion = animist
         size = 400
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 75
     }
 
     farmers = {
@@ -9838,7 +8962,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 8425
+        size = 8500
     }
 
     farmers = {
@@ -9863,12 +8987,6 @@
         culture = beifaren
         religion = animist
         size = 350
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 75
     }
 
     farmers = {
@@ -9900,7 +9018,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 575
+        size = 600
     }
 
     farmers = {
@@ -9925,12 +9043,6 @@
         culture = beifaren
         religion = animist
         size = 100
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -10068,7 +9180,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 5800
+        size = 6550
     }
 
     farmers = {
@@ -10087,12 +9199,6 @@
         culture = manchu
         religion = animist
         size = 150
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 750
     }
 }
 #Baotung (4268000/1067000 POPS)
@@ -10192,7 +9298,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 5000
+        size = 10225
     }
 
     farmers = {
@@ -10225,12 +9331,6 @@
         size = 8500
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 3700
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -10255,12 +9355,6 @@
         size = 5550
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1125
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -10283,12 +9377,6 @@
         culture = tibetan
         religion = animist
         size = 2000
-    }
-
-    soldiers = {
-        culture = tibetan
-        religion = animist
-        size = 400
     }
 
     farmers = {
@@ -10394,7 +9482,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 5550
+        size = 7025
     }
 
     farmers = {
@@ -10421,12 +9509,6 @@
         size = 100
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -10451,12 +9533,6 @@
         size = 5250
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1050
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -10479,12 +9555,6 @@
         culture = tibetan
         religion = animist
         size = 1950
-    }
-
-    soldiers = {
-        culture = tibetan
-        religion = animist
-        size = 400
     }
 
     farmers = {
@@ -10640,7 +9710,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 4300
+        size = 7250
     }
 
     farmers = {
@@ -10667,12 +9737,6 @@
         size = 5450
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1100
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -10695,12 +9759,6 @@
         culture = tibetan
         religion = animist
         size = 9200
-    }
-
-    soldiers = {
-        culture = tibetan
-        religion = animist
-        size = 1850
     }
 
     farmers = {
@@ -10744,7 +9802,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 4525
+        size = 6325
     }
 
     farmers = {
@@ -10771,12 +9829,6 @@
         size = 400
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 75
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -10801,12 +9853,6 @@
         size = 450
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 100
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -10829,12 +9875,6 @@
         culture = tibetan
         religion = animist
         size = 8150
-    }
-
-    soldiers = {
-        culture = tibetan
-        religion = animist
-        size = 1625
     }
 
     farmers = {
@@ -10898,7 +9938,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 6775
+        size = 7825
     }
 
     farmers = {
@@ -10925,12 +9965,6 @@
         size = 500
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 100
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -10953,12 +9987,6 @@
         culture = nanfaren
         religion = animist
         size = 300
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 75
     }
 
     farmers = {
@@ -10985,12 +10013,6 @@
         size = 500
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 100
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -11015,12 +10037,6 @@
         size = 2600
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 525
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -11037,12 +10053,6 @@
         culture = manchu
         religion = animist
         size = 25
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 250
     }
 }
 #Dali (1216000/304000 POPS)
@@ -11068,7 +10078,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 75
+        size = 3050
     }
 
     farmers = {
@@ -11101,12 +10111,6 @@
         size = 3500
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 2700
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -11129,12 +10133,6 @@
         culture = nanfaren
         religion = animist
         size = 1350
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 275
     }
 
     farmers = {
@@ -11166,7 +10164,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 1100
+        size = 3600
     }
 
     farmers = {
@@ -11193,12 +10191,6 @@
         size = 200
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -11221,12 +10213,6 @@
         culture = nanfaren
         religion = animist
         size = 4400
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 900
     }
 
     farmers = {
@@ -11253,12 +10239,6 @@
         size = 200
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -11283,12 +10263,6 @@
         size = 1600
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 325
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -11311,12 +10285,6 @@
         culture = nanfaren
         religion = animist
         size = 5850
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1175
     }
 
     farmers = {
@@ -11386,7 +10354,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 2750
+        size = 4750
     }
 
     farmers = {
@@ -11425,12 +10393,6 @@
         size = 7450
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1375
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -11453,12 +10415,6 @@
         culture = nanfaren
         religion = animist
         size = 200
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 50
     }
 
     farmers = {
@@ -11485,12 +10441,6 @@
         size = 350
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 75
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -11507,12 +10457,6 @@
         culture = manchu
         religion = animist
         size = 75
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 500
     }
 }
 #Huzhou (376000/94000 POPS)
@@ -11536,9 +10480,9 @@
     }
 
     soldiers = {
-        culture = beifaren
+        culture = nanfaren
         religion = animist
-        size = 375
+        size = 950
     }
 
     farmers = {
@@ -11563,12 +10507,6 @@
         culture = nanfaren
         religion = animist
         size = 2850
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 575
     }
 
     farmers = {
@@ -11600,7 +10538,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 500
+        size = 875
     }
 
     farmers = {
@@ -11625,12 +10563,6 @@
         culture = nanfaren
         religion = animist
         size = 1900
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 375
     }
 
     farmers = {
@@ -11674,7 +10606,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 4250
+        size = 5225
     }
 
     farmers = {
@@ -11701,12 +10633,6 @@
         size = 700
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 150
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
@@ -11729,12 +10655,6 @@
         culture = nanfaren
         religion = animist
         size = 4050
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 825
     }
 
     farmers = {
@@ -11766,7 +10686,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 1675
+        size = 2900
     }
 
     farmers = {
@@ -11791,12 +10711,6 @@
         culture = nanfaren
         religion = animist
         size = 6100
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1225
     }
 
     farmers = {
@@ -11826,9 +10740,9 @@
     }
 
     soldiers = {
-        culture = beifaren
+        culture = nanfaren
         religion = animist
-        size = 900
+        size = 2200
     }
 
     farmers = {
@@ -11853,12 +10767,6 @@
         culture = nanfaren
         religion = animist
         size = 6500
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 1300
     }
 
     farmers = {
@@ -11946,7 +10854,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 4200
+        size = 4425
     }
 
     farmers = {
@@ -11971,12 +10879,6 @@
         culture = nanfaren
         religion = animist
         size = 1050
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 225
     }
 
     farmers = {
@@ -12082,7 +10984,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 11550
+        size = 24000
     }
 
     farmers = {
@@ -12113,12 +11015,6 @@
         culture = beifaren
         religion = animist
         size = 1100
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 450
     }
 
     farmers = {
@@ -12155,12 +11051,6 @@
         culture = manchu
         religion = animist
         size = 10000
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = animist
-        size = 12000
     }
 
     farmers = {
@@ -12234,7 +11124,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 15900
+        size = 16050
     }
 
     farmers = {
@@ -12259,12 +11149,6 @@
         culture = beifaren
         religion = animist
         size = 700
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 150
     }
 
     farmers = {
@@ -12518,7 +11402,7 @@
     soldiers = {
         culture = beifaren
         religion = animist
-        size = 14525
+        size = 14925
     }
 
     farmers = {
@@ -12543,12 +11427,6 @@
         culture = beifaren
         religion = animist
         size = 1950
-    }
-
-    soldiers = {
-        culture = beifaren
-        religion = animist
-        size = 400
     }
 
     farmers = {
@@ -12644,7 +11522,7 @@
     soldiers = {
         culture = nanfaren
         religion = animist
-        size = 10
+        size = 100
     }
 
     farmers = {
@@ -12669,12 +11547,6 @@
         culture = nanfaren
         religion = animist
         size = 1400
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 90
     }
 
     farmers = {
@@ -12724,7 +11596,7 @@
     soldiers = {
         culture = mongol
         religion = animist
-        size = 982
+        size = 2011
     }
 
     farmers = {
@@ -12761,12 +11633,6 @@
         culture = mongol
         religion = animist
         size = 70
-    }
-
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 1029
     }
 
     clergymen = {

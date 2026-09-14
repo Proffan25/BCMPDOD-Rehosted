@@ -35,7 +35,7 @@
     soldiers = {
         culture = bedouin
         religion = animist
-        size = 1650
+        size = 1724
     }
 
     farmers = {
@@ -56,12 +56,6 @@
         size = 150
     }
 
-    soldiers = {
-        culture = bedouin
-        religion = animist
-        size = 37
-    }
-
     farmers = {
         culture = bedouin
         religion = animist
@@ -72,12 +66,6 @@
         culture = aryan
         religion = animist
         size = 75
-    }
-
-    soldiers = {
-        culture = aryan
-        religion = animist
-        size = 37
     }
 
     farmers = {
@@ -165,7 +153,7 @@
     soldiers = {
         culture = bedouin
         religion = animist
-        size = 75
+        size = 90
     }
 
     farmers = {
@@ -184,12 +172,6 @@
         culture = bedouin
         religion = animist
         size = 75
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = animist
-        size = 15
     }
 
     farmers = {
@@ -221,7 +203,7 @@
     soldiers = {
         culture = bedouin
         religion = animist
-        size = 37
+        size = 111
     }
 
     farmers = {
@@ -242,12 +224,6 @@
         size = 150
     }
 
-    soldiers = {
-        culture = bedouin
-        religion = animist
-        size = 37
-    }
-
     farmers = {
         culture = bedouin
         religion = animist
@@ -258,12 +234,6 @@
         culture = aryan
         religion = animist
         size = 75
-    }
-
-    soldiers = {
-        culture = aryan
-        religion = animist
-        size = 37
     }
 
     farmers = {

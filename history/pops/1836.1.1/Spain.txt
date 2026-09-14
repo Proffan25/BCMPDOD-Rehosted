@@ -78,7 +78,7 @@
     soldiers = {
         culture = spanish
         religion = animist
-        size = 1100
+        size = 1150
     }
 
     farmers = {
@@ -88,12 +88,6 @@
     }
 
     clergymen = {
-        culture = spanish
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
         culture = spanish
         religion = animist
         size = 50
@@ -205,7 +199,7 @@
     soldiers = {
         culture = spanish
         religion = animist
-        size = 400
+        size = 450
     }
 
     farmers = {
@@ -215,12 +209,6 @@
     }
 
     clergymen = {
-        culture = spanish
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
         culture = spanish
         religion = animist
         size = 50
@@ -765,7 +753,7 @@
     soldiers = {
         culture = spanish
         religion = animist
-        size = 550
+        size = 2750
     }
 
     farmers = {
@@ -790,12 +778,6 @@
         culture = spanish
         religion = animist
         size = 1100
-    }
-
-    soldiers = {
-        culture = spanish
-        religion = animist
-        size = 2200
     }
 
     farmers = {
@@ -849,7 +831,7 @@
     soldiers = {
         culture = spanish
         religion = animist
-        size = 400
+        size = 650
         militancy = 8
         rebel_type = carlist_rebels
     }
@@ -890,12 +872,6 @@
         culture = spanish
         religion = animist
         size = 1250
-    }
-
-    soldiers = {
-        culture = spanish
-        religion = animist
-        size = 250
     }
 
     farmers = {
@@ -1022,7 +998,7 @@
     soldiers = {
         culture = catalan
         religion = animist
-        size = 674
+        size = 1094
     }
 
     farmers = {
@@ -1047,12 +1023,6 @@
         culture = catalan
         religion = animist
         size = 954
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = animist
-        size = 420
     }
 
     labourers = {
@@ -1161,7 +1131,7 @@
     soldiers = {
         culture = catalan
         religion = animist
-        size = 3370
+        size = 3875
     }
 
     farmers = {
@@ -1198,12 +1168,6 @@
         culture = catalan
         religion = animist
         size = 10111
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = animist
-        size = 505
     }
 
     farmers = {
@@ -1300,7 +1264,7 @@
     soldiers = {
         culture = catalan
         religion = animist
-        size = 462
+        size = 713
         militancy = 8
         rebel_type = carlist_rebels
     }
@@ -1329,12 +1293,6 @@
         culture = catalan
         religion = animist
         size = 1403
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = animist
-        size = 251
     }
 
     farmers = {
@@ -1433,7 +1391,7 @@
     soldiers = {
         culture = catalan
         religion = animist
-        size = 674
+        size = 1011
     }
 
     farmers = {
@@ -1458,12 +1416,6 @@
         culture = catalan
         religion = animist
         size = 3370
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = animist
-        size = 337
     }
 
     labourers = {
@@ -1514,7 +1466,7 @@
     soldiers = {
         culture = catalan
         religion = animist
-        size = 3370
+        size = 4212
     }
 
     farmers = {
@@ -1553,12 +1505,6 @@
         size = 11235
     }
 
-    soldiers = {
-        culture = catalan
-        religion = animist
-        size = 842
-    }
-
     farmers = {
         culture = catalan
         religion = animist
@@ -1588,7 +1534,7 @@
     soldiers = {
         culture = catalan
         religion = animist
-        size = 420
+        size = 840
     }
 
     farmers = {
@@ -1613,12 +1559,6 @@
         culture = catalan
         religion = animist
         size = 1909
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = animist
-        size = 420
     }
 
     farmers = {
@@ -1650,7 +1590,7 @@
     soldiers = {
         culture = catalan
         religion = animist
-        size = 925
+        size = 1599
     }
 
     farmers = {
@@ -1675,12 +1615,6 @@
         culture = catalan
         religion = animist
         size = 2247
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = animist
-        size = 674
     }
 
     labourers = {
@@ -2203,7 +2137,7 @@
     soldiers = {
         culture = catalan
         religion = animist
-        size = 462
+        size = 713
         militancy = 8
         rebel_type = carlist_rebels
     }
@@ -2232,12 +2166,6 @@
         culture = catalan
         religion = animist
         size = 1403
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = animist
-        size = 251
     }
 
     farmers = {

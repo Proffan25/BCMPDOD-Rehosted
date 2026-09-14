@@ -127,7 +127,7 @@
     soldiers = {
         culture = finnish
         religion = animist
-        size = 799
+        size = 1067
     }
 
     farmers = {
@@ -146,12 +146,6 @@
         culture = finnish
         religion = animist
         size = 412
-    }
-
-    soldiers = {
-        culture = finnish
-        religion = animist
-        size = 97
     }
 
     farmers = {
@@ -189,12 +183,6 @@
         religion = animist
         size = 82
     }
-
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 171
-    }
 }
 #Kotka (64000/16000 POPS)
 340 = {
@@ -213,7 +201,7 @@
     soldiers = {
         culture = finnish
         religion = animist
-        size = 298
+        size = 314
     }
 
     farmers = {
@@ -232,12 +220,6 @@
         culture = scandinavian
         religion = animist
         size = 82
-    }
-
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 16
     }
 
     farmers = {
@@ -289,7 +271,7 @@
     soldiers = {
         culture = finnish
         religion = animist
-        size = 698
+        size = 715
     }
 
     farmers = {
@@ -308,12 +290,6 @@
         culture = finnish
         religion = animist
         size = 81
-    }
-
-    soldiers = {
-        culture = finnish
-        religion = animist
-        size = 17
     }
 
     farmers = {
@@ -415,7 +391,7 @@
     soldiers = {
         culture = finnish
         religion = animist
-        size = 198
+        size = 239
     }
 
     farmers = {
@@ -442,12 +418,6 @@
         size = 123
     }
 
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 41
-    }
-
     farmers = {
         culture = scandinavian
         religion = animist
@@ -471,7 +441,7 @@
     soldiers = {
         culture = finnish
         religion = animist
-        size = 2198
+        size = 2411
     }
 
     farmers = {
@@ -498,12 +468,6 @@
         size = 907
     }
 
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 213
-    }
-
     farmers = {
         culture = scandinavian
         religion = animist
@@ -527,7 +491,7 @@
     soldiers = {
         culture = finnish
         religion = animist
-        size = 2198
+        size = 2498
     }
 
     farmers = {
@@ -554,12 +518,6 @@
         size = 1815
     }
 
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 300
-    }
-
     farmers = {
         culture = scandinavian
         religion = animist
@@ -583,7 +541,7 @@
     soldiers = {
         culture = finnish
         religion = animist
-        size = 399
+        size = 440
     }
 
     farmers = {
@@ -608,12 +566,6 @@
         culture = scandinavian
         religion = animist
         size = 165
-    }
-
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 41
     }
 
     farmers = {
@@ -641,7 +593,7 @@
     soldiers = {
         culture = scandinavian
         religion = animist
-        size = 41
+        size = 48
     }
 
     farmers = {
@@ -660,12 +612,6 @@
         culture = finnish
         religion = animist
         size = 15
-    }
-
-    soldiers = {
-        culture = finnish
-        religion = animist
-        size = 7
     }
 
     farmers = {

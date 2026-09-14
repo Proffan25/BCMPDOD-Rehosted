@@ -23,7 +23,7 @@
     soldiers = {
         culture = romanian
         religion = animist
-        size = 1350
+        size = 2150
     }
 
     farmers = {
@@ -62,12 +62,6 @@
         size = 1400
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 300
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -98,12 +92,6 @@
         size = 2100
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 400
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -122,12 +110,6 @@
         size = 1100
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -144,12 +126,6 @@
         culture = hungarian
         religion = animist
         size = 450
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 75
     }
 
     farmers = {
@@ -175,7 +151,7 @@
     soldiers = {
         culture = romanian
         religion = animist
-        size = 550
+        size = 1150
     }
 
     farmers = {
@@ -202,12 +178,6 @@
         size = 900
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 200
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -232,12 +202,6 @@
         size = 1300
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 250
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -254,12 +218,6 @@
         culture = hungarian
         religion = animist
         size = 1100
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -280,12 +238,6 @@
         size = 450
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 75
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -302,12 +254,6 @@
         culture = ashkenazi
         religion = animist
         size = 750
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 50
     }
 
     farmers = {
@@ -333,9 +279,9 @@
     }
 
     soldiers = {
-        culture = romanian
+        culture = hungarian
         religion = animist
-        size = 300
+        size = 2400
     }
 
     farmers = {
@@ -374,12 +320,6 @@
         size = 700
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 150
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -402,12 +342,6 @@
         culture = hungarian
         religion = animist
         size = 1200
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 150
     }
 
     farmers = {
@@ -446,12 +380,6 @@
         size = 4500
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 850
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -470,12 +398,6 @@
         size = 850
     }
 
-    soldiers = {
-        culture = croat
-        religion = animist
-        size = 200
-    }
-
     farmers = {
         culture = croat
         religion = animist
@@ -492,12 +414,6 @@
         culture = serb
         religion = animist
         size = 3000
-    }
-
-    soldiers = {
-        culture = serb
-        religion = animist
-        size = 750
     }
 
     farmers = {
@@ -523,7 +439,7 @@
     soldiers = {
         culture = romanian
         religion = animist
-        size = 600
+        size = 950
     }
 
     farmers = {
@@ -542,12 +458,6 @@
         culture = serb
         religion = animist
         size = 750
-    }
-
-    soldiers = {
-        culture = serb
-        religion = animist
-        size = 200
     }
 
     farmers = {
@@ -572,12 +482,6 @@
         culture = hungarian
         religion = animist
         size = 800
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 150
     }
 
     farmers = {
@@ -611,7 +515,7 @@
     soldiers = {
         culture = romanian
         religion = animist
-        size = 250
+        size = 475
     }
 
     farmers = {
@@ -650,12 +554,6 @@
         size = 650
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -690,12 +588,6 @@
         culture = hungarian
         religion = animist
         size = 1500
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 100
     }
 
     farmers = {
@@ -734,12 +626,6 @@
         size = 850
     }
 
-    soldiers = {
-        culture = hungarian #Transylvanian. Saxons
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = hungarian #Transylvanian. Saxons
         religion = animist
@@ -756,12 +642,6 @@
         culture = ashkenazi
         religion = animist
         size = 800
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -787,7 +667,7 @@
     soldiers = {
         culture = romanian
         religion = animist
-        size = 550
+        size = 800
     }
 
     farmers = {
@@ -814,12 +694,6 @@
         size = 200
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -842,12 +716,6 @@
         culture = hungarian
         religion = animist
         size = 500
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 100
     }
 
     farmers = {
@@ -874,12 +742,6 @@
         size = 350
     }
 
-    soldiers = {
-        culture = hungarian #Transylvanian. Saxons
-        religion = animist
-        size = 75
-    }
-
     farmers = {
         culture = hungarian #Transylvanian. Saxons
         religion = animist
@@ -896,12 +758,6 @@
         culture = ashkenazi
         religion = animist
         size = 800
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -927,7 +783,7 @@
     soldiers = {
         culture = romanian
         religion = animist
-        size = 500
+        size = 650
     }
 
     farmers = {
@@ -954,12 +810,6 @@
         size = 150
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -984,12 +834,6 @@
         size = 300
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -1008,12 +852,6 @@
         size = 100
     }
 
-    soldiers = {
-        culture = hungarian #Transylvanian. Saxons
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = hungarian #Transylvanian. Saxons
         religion = animist
@@ -1030,12 +868,6 @@
         culture = ashkenazi
         religion = animist
         size = 800
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -1067,7 +899,7 @@
     soldiers = {
         culture = romanian
         religion = animist
-        size = 350
+        size = 700
     }
 
     farmers = {
@@ -1094,12 +926,6 @@
         size = 125
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -1122,12 +948,6 @@
         culture = hungarian
         religion = animist
         size = 250
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 50
     }
 
     farmers = {
@@ -1154,12 +974,6 @@
         size = 1250
     }
 
-    soldiers = {
-        culture = hungarian #Transylvanian. Saxons
-        religion = animist
-        size = 250
-    }
-
     farmers = {
         culture = hungarian #Transylvanian. Saxons
         religion = animist
@@ -1176,12 +990,6 @@
         culture = ashkenazi
         religion = animist
         size = 800
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -1207,7 +1015,7 @@
     soldiers = {
         culture = romanian
         religion = animist
-        size = 250
+        size = 450
     }
 
     farmers = {
@@ -1234,12 +1042,6 @@
         size = 400
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -1262,12 +1064,6 @@
         culture = hungarian
         religion = animist
         size = 800
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 50
     }
 
     farmers = {
@@ -1294,12 +1090,6 @@
         size = 2400
     }
 
-    soldiers = {
-        culture = hungarian #Transylvanian. Saxons
-        religion = animist
-        size = 100
-    }
-
     farmers = {
         culture = hungarian #Transylvanian. Saxons
         religion = animist
@@ -1316,12 +1106,6 @@
         culture = ashkenazi
         religion = animist
         size = 800
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -1345,9 +1129,9 @@
     }
 
     soldiers = {
-        culture = romanian
+        culture = hungarian
         religion = animist
-        size = 75
+        size = 575
     }
 
     farmers = {
@@ -1374,12 +1158,6 @@
         size = 750
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 150
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -1404,12 +1182,6 @@
         size = 1550
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 300
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -1428,12 +1200,6 @@
         size = 150
     }
 
-    soldiers = {
-        culture = hungarian #Transylvanian. Saxons
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = hungarian #Transylvanian. Saxons
         religion = animist
@@ -1450,12 +1216,6 @@
         culture = ashkenazi
         religion = animist
         size = 800
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -1481,7 +1241,7 @@
     soldiers = {
         culture = romanian
         religion = animist
-        size = 500
+        size = 725
     }
 
     farmers = {
@@ -1508,12 +1268,6 @@
         size = 200
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -1536,12 +1290,6 @@
         culture = hungarian
         religion = animist
         size = 400
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 75
     }
 
     farmers = {
@@ -1568,12 +1316,6 @@
         size = 425
     }
 
-    soldiers = {
-        culture = hungarian #Transylvanian. Saxons
-        religion = animist
-        size = 75
-    }
-
     farmers = {
         culture = hungarian #Transylvanian. Saxons
         religion = animist
@@ -1590,12 +1332,6 @@
         culture = ashkenazi
         religion = animist
         size = 800
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -1619,9 +1355,9 @@
     }
 
     soldiers = {
-        culture = romanian
+        culture = hungarian
         religion = animist
-        size = 300
+        size = 875
     }
 
     farmers = {
@@ -1648,12 +1384,6 @@
         size = 800
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 175
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -1676,12 +1406,6 @@
         culture = hungarian
         religion = animist
         size = 1600
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 325
     }
 
     farmers = {
@@ -1708,12 +1432,6 @@
         size = 350
     }
 
-    soldiers = {
-        culture = hungarian #Transylvanian. Saxons
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = hungarian #Transylvanian. Saxons
         religion = animist
@@ -1730,12 +1448,6 @@
         culture = ashkenazi
         religion = animist
         size = 800
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -1763,7 +1475,7 @@
     soldiers = {
         culture = romanian
         religion = animist
-        size = 250
+        size = 525
     }
 
     farmers = {
@@ -1782,12 +1494,6 @@
         culture = ukrainian
         religion = animist
         size = 700
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = animist
-        size = 150
     }
 
     farmers = {
@@ -1814,12 +1520,6 @@
         size = 175
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -1838,12 +1538,6 @@
         size = 600
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = hungarian
         religion = animist
@@ -1860,12 +1554,6 @@
         culture = ashkenazi
         religion = animist
         size = 800
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -2253,7 +1941,7 @@
     soldiers = {
         culture = romanian
         religion = animist
-        size = 85
+        size = 255
     }
 
     farmers = {
@@ -2266,12 +1954,6 @@
         culture = bulgarian
         religion = animist
         size = 552
-    }
-
-    soldiers = {
-        culture = bulgarian
-        religion = animist
-        size = 85
     }
 
     farmers = {
@@ -2326,12 +2008,6 @@
         culture = romanian
         religion = animist
         size = 935
-    }
-
-    soldiers = {
-        culture = romanian
-        religion = animist
-        size = 85
     }
 
     farmers = {

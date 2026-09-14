@@ -5,30 +5,30 @@
     artisans = {
         culture = central_american
         religion = animist
-        size = 25
+        size = 23
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 18
+        size = 17
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 125
+        size = 118
     }
 
     soldiers = {
         culture = central_american
         religion = animist
-        size = 10
+        size = 9
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 2062
+        size = 1939
     }
 }

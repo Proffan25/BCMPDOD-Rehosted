@@ -27,9 +27,9 @@
     }
 
     soldiers = {
-        culture = portuguese
+        culture = niger_congo_a
         religion = animist
-        size = 5
+        size = 105
     }
 
     clergymen = {
@@ -42,12 +42,6 @@
         culture = niger_congo_a
         religion = animist
         size = 200
-    }
-
-    soldiers = {
-        culture = niger_congo_a
-        religion = animist
-        size = 100
     }
 
     farmers = {

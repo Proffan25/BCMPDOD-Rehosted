@@ -5,73 +5,67 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 2703
+        size = 2542
     }
 
     bureaucrats = {
         culture = granadan
         religion = animist
-        size = 296
+        size = 278
     }
 
     officers = {
         culture = granadan
         religion = animist
-        size = 237
+        size = 223
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 960
+        size = 903
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 4932
+        size = 4638
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 2797
+        size = 5262
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 98031
+        size = 92198
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 118
+        size = 111
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 1321
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 2797
+        size = 1242
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 22626
+        size = 21280
     }
 
     slaves = {
         culture = granadan
         religion = animist
-        size = 9627
+        size = 9054
     }
 }
 #Cumana (24000/6000 POPS)
@@ -79,61 +73,55 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 296
+        size = 278
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 118
+        size = 111
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 597
+        size = 561
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 2797
+        size = 2685
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 8602
+        size = 8090
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 57
+        size = 54
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 118
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 57
+        size = 111
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 1440
+        size = 1354
     }
 
     slaves = {
         culture = granadan
         religion = animist
-        size = 718
+        size = 675
     }
 }
 #San Felipe (44000/11000 POPS)
@@ -141,61 +129,55 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 538
+        size = 506
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 176
+        size = 166
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 1078
+        size = 1014
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 2797
+        size = 2685
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 19737
+        size = 18563
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 118
+        size = 111
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 237
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 57
+        size = 223
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 3426
+        size = 3222
     }
 
     slaves = {
         culture = granadan
         religion = animist
-        size = 960
+        size = 903
     }
 }
 #Guiria (40000/10000 POPS)
@@ -203,55 +185,49 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 478
+        size = 450
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 176
+        size = 166
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 1078
+        size = 1014
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 2797
+        size = 2647
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 17508
+        size = 16466
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 57
+        size = 54
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 118
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 17
+        size = 111
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 2645
+        size = 2488
     }
 }
 #Llanos Region (88000)
@@ -261,73 +237,67 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 237
+        size = 223
     }
 
     bureaucrats = {
         culture = granadan
         religion = animist
-        size = 57
+        size = 54
     }
 
     officers = {
         culture = granadan
         religion = animist
-        size = 57
+        size = 54
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 176
+        size = 166
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 356
+        size = 335
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 120
+        size = 129
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 6195
+        size = 5826
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 43
+        size = 40
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 118
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 17
+        size = 111
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 1250
+        size = 1176
     }
 
     slaves = {
         culture = granadan
         religion = animist
-        size = 960
+        size = 903
     }
 }
 #Calabozo (40000/10000 POPS)
@@ -335,61 +305,55 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 538
+        size = 506
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 176
+        size = 166
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 960
+        size = 903
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 182
+        size = 225
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 17387
+        size = 16352
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 57
+        size = 54
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 237
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 57
+        size = 223
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 3246
+        size = 3053
     }
 
     slaves = {
         culture = granadan
         religion = animist
-        size = 1202
+        size = 1130
     }
 }
 #Barinas (32000/8000 POPS)
@@ -397,85 +361,73 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 418
+        size = 393
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 118
+        size = 111
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 597
+        size = 561
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 120
+        size = 183
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 10770
+        size = 10129
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 57
+        size = 54
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 118
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 17
+        size = 111
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 1235
+        size = 1161
     }
 
     slaves = {
         culture = granadan
         religion = animist
-        size = 960
+        size = 903
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 57
+        size = 54
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 237
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 57
+        size = 223
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 4452
+        size = 4187
     }
 }
 #Zulia Region (378000)
@@ -485,97 +437,85 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 1321
+        size = 1242
     }
 
     bureaucrats = {
         culture = granadan
         religion = animist
-        size = 356
+        size = 335
     }
 
     officers = {
         culture = granadan
         religion = animist
-        size = 296
+        size = 278
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 478
+        size = 450
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 1682
+        size = 1582
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 374
+        size = 600
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 29543
+        size = 27785
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 118
+        size = 111
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 1202
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 247
+        size = 1130
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 17690
+        size = 16637
     }
 
     slaves = {
         culture = granadan
         religion = animist
-        size = 4813
+        size = 4527
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 20
+        size = 19
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 118
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 17
+        size = 111
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 2235
+        size = 2102
     }
 }
 #Valera (128000/32000 POPS)
@@ -583,85 +523,73 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 1562
+        size = 1469
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 657
+        size = 618
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 3246
+        size = 3053
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 2797
+        size = 2760
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 57108
+        size = 53710
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 118
+        size = 111
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 478
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 120
+        size = 450
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 6496
+        size = 6109
     }
 
     slaves = {
         culture = granadan
         religion = animist
-        size = 2645
+        size = 2488
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 20
+        size = 19
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 118
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 17
+        size = 111
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 2235
+        size = 2102
     }
 }
 #Coro (56000/14000 POPS)
@@ -669,61 +597,55 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 781
+        size = 735
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 296
+        size = 278
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 1202
+        size = 1130
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 247
+        size = 345
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 21541
+        size = 20259
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 118
+        size = 111
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 478
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 120
+        size = 450
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 6496
+        size = 6109
     }
 
     slaves = {
         culture = granadan
         religion = animist
-        size = 2645
+        size = 2488
     }
 }
 #Barquisimento (96000/24000 POPS)
@@ -731,61 +653,55 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 1260
+        size = 1185
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 478
+        size = 450
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 2645
+        size = 2488
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 502
+        size = 585
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 43507
+        size = 40918
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 118
+        size = 111
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 478
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 120
+        size = 450
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 46496
+        size = 43729
     }
 
     slaves = {
         culture = granadan
         religion = animist
-        size = 2645
+        size = 2488
     }
 }
 #Orinoco Region (152000)
@@ -795,61 +711,55 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 418
+        size = 393
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 118
+        size = 111
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 597
+        size = 561
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 120
+        size = 167
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 10770
+        size = 10129
     }
 
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 118
+        size = 111
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 176
+        size = 166
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 356
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 57
+        size = 335
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 6496
+        size = 6109
     }
 }
 #Curiapo (104000/26000 POPS)
@@ -857,73 +767,67 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 1321
+        size = 1242
     }
 
     bureaucrats = {
         culture = granadan
         religion = animist
-        size = 57
+        size = 54
     }
 
     officers = {
         culture = granadan
         religion = animist
-        size = 57
+        size = 54
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 538
+        size = 506
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 2525
+        size = 2375
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 566
+        size = 645
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 45493
+        size = 42786
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 176
+        size = 166
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 597
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 120
+        size = 561
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 8721
+        size = 8202
     }
 
     slaves = {
         culture = granadan
         religion = animist
-        size = 2645
+        size = 2488
     }
 }
 #under "rule" of Venezuela 1836
@@ -932,61 +836,55 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 32
+        size = 30
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 57
+        size = 54
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 118
+        size = 111
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 17
+        size = 70
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 2163
+        size = 2034
     }
 
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 118
+        size = 111
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 176
+        size = 166
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 356
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 57
+        size = 335
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 6496
+        size = 6109
     }
 }
 #San Fernando de Atabapo (4000/1000 POPS)
@@ -994,30 +892,30 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 20
+        size = 19
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 57
+        size = 54
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 118
+        size = 111
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 30
+        size = 28
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 2163
+        size = 2034
     }
 }

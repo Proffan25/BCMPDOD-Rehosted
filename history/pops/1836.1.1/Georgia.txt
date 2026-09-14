@@ -21,9 +21,9 @@
     }
 
     soldiers = {
-        culture = russian
+        culture = azerbaijani
         religion = animist
-        size = 250
+        size = 1784
     }
 
     aristocrats = {
@@ -56,12 +56,6 @@
         size = 3530
     }
 
-    soldiers = {
-        culture = armenian
-        religion = animist
-        size = 577
-    }
-
     farmers = {
         culture = armenian
         religion = animist
@@ -84,12 +78,6 @@
         culture = north_caucasian
         religion = animist
         size = 150
-    }
-
-    soldiers = {
-        culture = north_caucasian
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -116,12 +104,6 @@
         size = 1484
     }
 
-    soldiers = {
-        culture = armenian
-        religion = animist
-        size = 164
-    }
-
     farmers = {
         culture = armenian
         religion = animist
@@ -144,12 +126,6 @@
         culture = azerbaijani
         religion = animist
         size = 150
-    }
-
-    soldiers = {
-        culture = azerbaijani
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -200,12 +176,6 @@
         size = 3531
     }
 
-    soldiers = {
-        culture = azerbaijani
-        religion = animist
-        size = 578
-    }
-
     farmers = {
         culture = azerbaijani
         religion = animist
@@ -228,12 +198,6 @@
         culture = azerbaijani
         religion = animist
         size = 1485
-    }
-
-    soldiers = {
-        culture = azerbaijani
-        religion = animist
-        size = 165
     }
 
     farmers = {
@@ -263,9 +227,9 @@
     }
 
     soldiers = {
-        culture = armenian
+        culture = azerbaijani
         religion = animist
-        size = 52
+        size = 484
     }
 
     farmers = {
@@ -292,12 +256,6 @@
         size = 300
     }
 
-    soldiers = {
-        culture = north_caucasian
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = north_caucasian
         religion = animist
@@ -320,12 +278,6 @@
         culture = armenian
         religion = animist
         size = 494
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = animist
-        size = 164
     }
 
     farmers = {
@@ -352,12 +304,6 @@
         size = 263
     }
 
-    soldiers = {
-        culture = azerbaijani
-        religion = animist
-        size = 53
-    }
-
     farmers = {
         culture = azerbaijani
         religion = animist
@@ -380,12 +326,6 @@
         culture = azerbaijani
         religion = animist
         size = 495
-    }
-
-    soldiers = {
-        culture = azerbaijani
-        religion = animist
-        size = 165
     }
 
     farmers = {
@@ -415,9 +355,9 @@
     }
 
     soldiers = {
-        culture = armenian
+        culture = azerbaijani
         religion = animist
-        size = 157
+        size = 315
     }
 
     farmers = {
@@ -456,12 +396,6 @@
         size = 683
     }
 
-    soldiers = {
-        culture = azerbaijani
-        religion = animist
-        size = 158
-    }
-
     farmers = {
         culture = azerbaijani
         religion = animist
@@ -489,9 +423,9 @@
     }
 
     soldiers = {
-        culture = armenian
+        culture = azerbaijani
         religion = animist
-        size = 26
+        size = 391
     }
 
     farmers = {
@@ -518,12 +452,6 @@
         size = 824
     }
 
-    soldiers = {
-        culture = armenian
-        religion = animist
-        size = 164
-    }
-
     farmers = {
         culture = armenian
         religion = animist
@@ -546,12 +474,6 @@
         culture = azerbaijani
         religion = animist
         size = 50
-    }
-
-    soldiers = {
-        culture = azerbaijani
-        religion = animist
-        size = 10
     }
 
     farmers = {
@@ -578,12 +500,6 @@
         size = 105
     }
 
-    soldiers = {
-        culture = azerbaijani
-        religion = animist
-        size = 26
-    }
-
     farmers = {
         culture = azerbaijani
         religion = animist
@@ -606,12 +522,6 @@
         culture = azerbaijani
         religion = animist
         size = 825
-    }
-
-    soldiers = {
-        culture = azerbaijani
-        religion = animist
-        size = 165
     }
 
     farmers = {
@@ -643,7 +553,7 @@
     soldiers = {
         culture = armenian
         religion = animist
-        size = 144
+        size = 288
     }
 
     farmers = {
@@ -668,12 +578,6 @@
         culture = azerbaijani
         religion = animist
         size = 683
-    }
-
-    soldiers = {
-        culture = azerbaijani
-        religion = animist
-        size = 144
     }
 
     farmers = {
@@ -703,9 +607,9 @@
     }
 
     soldiers = {
-        culture = armenian
+        culture = north_caucasian
         religion = animist
-        size = 26
+        size = 202
     }
 
     farmers = {
@@ -732,12 +636,6 @@
         size = 450
     }
 
-    soldiers = {
-        culture = north_caucasian
-        religion = animist
-        size = 100
-    }
-
     farmers = {
         culture = north_caucasian
         religion = animist
@@ -762,12 +660,6 @@
         size = 250
     }
 
-    soldiers = {
-        culture = north_caucasian
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = north_caucasian
         religion = animist
@@ -790,12 +682,6 @@
         culture = azerbaijani
         religion = animist
         size = 105
-    }
-
-    soldiers = {
-        culture = azerbaijani
-        religion = animist
-        size = 26
     }
 
     farmers = {
@@ -827,9 +713,9 @@
     }
 
     soldiers = {
-        culture = turkish
+        culture = armenian
         religion = animist
-        size = 31
+        size = 142
     }
 
     farmers = {
@@ -874,12 +760,6 @@
         size = 374
     }
 
-    soldiers = {
-        culture = armenian
-        religion = animist
-        size = 78
-    }
-
     farmers = {
         culture = armenian
         religion = animist
@@ -920,12 +800,6 @@
         culture = turkish
         religion = animist
         size = 161
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = animist
-        size = 33
     }
 
     farmers = {

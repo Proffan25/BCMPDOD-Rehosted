@@ -781,7 +781,7 @@
     soldiers = {
         culture = north_italian
         religion = animist
-        size = 50
+        size = 600
     }
 
     farmers = {
@@ -800,12 +800,6 @@
         culture = north_italian
         religion = animist
         size = 2800
-    }
-
-    soldiers = {
-        culture = north_italian
-        religion = animist
-        size = 550
     }
 
     farmers = {
@@ -837,7 +831,7 @@
     soldiers = {
         culture = south_german
         religion = animist
-        size = 455
+        size = 606
     }
 
     farmers = {
@@ -856,12 +850,6 @@
         culture = south_german
         religion = animist
         size = 1012
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = animist
-        size = 151
     }
 
     farmers = {

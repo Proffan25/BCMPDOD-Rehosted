@@ -35,7 +35,7 @@
     soldiers = {
         culture = khmer
         religion = animist
-        size = 3800
+        size = 4000
     }
 
     farmers = {
@@ -98,12 +98,6 @@
         size = 275
     }
 
-    soldiers = {
-        culture = khmer
-        religion = animist
-        size = 200
-    }
-
     farmers = {
         culture = khmer
         religion = animist
@@ -157,7 +151,7 @@
     soldiers = {
         culture = khmer
         religion = animist
-        size = 1045
+        size = 1100
     }
 
     farmers = {
@@ -200,12 +194,6 @@
         culture = khmer
         religion = animist
         size = 88
-    }
-
-    soldiers = {
-        culture = khmer
-        religion = animist
-        size = 55
     }
 
     farmers = {
@@ -255,7 +243,7 @@
     soldiers = {
         culture = khmer
         religion = animist
-        size = 166
+        size = 200
     }
 
     farmers = {
@@ -282,12 +270,6 @@
         size = 119
     }
 
-    soldiers = {
-        culture = khmer
-        religion = animist
-        size = 24
-    }
-
     farmers = {
         culture = khmer
         religion = animist
@@ -312,12 +294,6 @@
         size = 45
     }
 
-    soldiers = {
-        culture = khmer
-        religion = animist
-        size = 9
-    }
-
     farmers = {
         culture = khmer
         religion = animist
@@ -340,12 +316,6 @@
         culture = khmer
         religion = animist
         size = 6
-    }
-
-    soldiers = {
-        culture = khmer
-        religion = animist
-        size = 1
     }
 
     farmers = {
@@ -390,7 +360,7 @@
     soldiers = {
         culture = khmer
         religion = animist
-        size = 47
+        size = 525
     }
 
     farmers = {
@@ -417,12 +387,6 @@
         size = 1900
     }
 
-    soldiers = {
-        culture = khmer
-        religion = animist
-        size = 404
-    }
-
     farmers = {
         culture = khmer
         religion = animist
@@ -445,12 +409,6 @@
         culture = khmer
         religion = animist
         size = 712
-    }
-
-    soldiers = {
-        culture = khmer
-        religion = animist
-        size = 47
     }
 
     farmers = {
@@ -489,12 +447,6 @@
         size = 3
     }
 
-    soldiers = {
-        culture = khmer
-        religion = animist
-        size = 3
-    }
-
     farmers = {
         culture = khmer
         religion = animist
@@ -519,12 +471,6 @@
         size = 100
     }
 
-    soldiers = {
-        culture = khmer
-        religion = animist
-        size = 21
-    }
-
     farmers = {
         culture = khmer
         religion = animist
@@ -547,12 +493,6 @@
         culture = khmer
         religion = animist
         size = 38
-    }
-
-    soldiers = {
-        culture = khmer
-        religion = animist
-        size = 3
     }
 
     farmers = {

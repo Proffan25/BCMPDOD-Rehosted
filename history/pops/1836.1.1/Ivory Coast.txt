@@ -62,7 +62,7 @@
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-		size = 125
+		size = 500
 
 	}
 
@@ -94,13 +94,6 @@
 		culture = niger_congo_a
 		religion = animist
 		size = 1500
-	}
-
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 375
-
 	}
 
 	farmers = {
@@ -177,7 +170,7 @@
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-		size = 125
+		size = 150
 
 	}
 
@@ -211,13 +204,6 @@
 		size = 150
 	}
 
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 25
-
-	}
-
 	farmers = {
 		culture = niger_congo_a
 		religion = animist
@@ -247,7 +233,7 @@
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-		size = 75
+		size = 300
 
 	}
 
@@ -273,13 +259,6 @@
 		culture = niger_congo_a
 		religion = animist
 		size = 1100
-	}
-
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 225
-
 	}
 
 	farmers = {
@@ -370,7 +349,7 @@
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-		size = 1105
+		size = 1405
 
 	}
 
@@ -402,13 +381,6 @@
 		culture = niger_congo_a
 		religion = animist
 		size = 1500
-	}
-
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 300
-
 	}
 
 	farmers = {
@@ -446,7 +418,7 @@
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-		size = 1450
+		size = 1675
 
 	}
 
@@ -472,13 +444,6 @@
 		culture = niger_congo_a
 		religion = animist
 		size = 1050
-	}
-
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 225
-
 	}
 
 	farmers = {
@@ -518,7 +483,7 @@
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-		size = 1200
+		size = 1425
 
 	}
 
@@ -546,13 +511,6 @@
 		size = 750
 	}
 
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 150
-
-	}
-
 	farmers = {
 		culture = niger_congo_a
 		religion = animist
@@ -575,13 +533,6 @@
 		culture = niger_congo_a
 		religion = animist
 		size = 450
-	}
-
-	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 75
-
 	}
 
 	farmers = {

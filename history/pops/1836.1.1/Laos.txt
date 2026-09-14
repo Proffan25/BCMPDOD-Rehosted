@@ -35,7 +35,7 @@
     soldiers = {
         culture = vietnamese
         religion = animist
-        size = 1045
+        size = 1275
     }
 
     farmers = {
@@ -60,12 +60,6 @@
         culture = vietnamese
         religion = animist
         size = 760
-    }
-
-    soldiers = {
-        culture = vietnamese
-        religion = animist
-        size = 166
     }
 
     farmers = {
@@ -104,12 +98,6 @@
         size = 108
     }
 
-    soldiers = {
-        culture = vietnamese
-        religion = animist
-        size = 55
-    }
-
     farmers = {
         culture = vietnamese
         religion = animist
@@ -132,12 +120,6 @@
         culture = vietnamese
         religion = animist
         size = 40
-    }
-
-    soldiers = {
-        culture = vietnamese
-        religion = animist
-        size = 9
     }
 
     farmers = {
@@ -169,7 +151,7 @@
     soldiers = {
         culture = vietnamese
         religion = animist
-        size = 142
+        size = 225
     }
 
     farmers = {
@@ -196,12 +178,6 @@
         size = 332
     }
 
-    soldiers = {
-        culture = vietnamese
-        religion = animist
-        size = 71
-    }
-
     farmers = {
         culture = vietnamese
         religion = animist
@@ -226,12 +202,6 @@
         size = 38
     }
 
-    soldiers = {
-        culture = vietnamese
-        religion = animist
-        size = 8
-    }
-
     farmers = {
         culture = vietnamese
         religion = animist
@@ -254,12 +224,6 @@
         culture = vietnamese
         religion = animist
         size = 18
-    }
-
-    soldiers = {
-        culture = vietnamese
-        religion = animist
-        size = 4
     }
 
     farmers = {
@@ -291,7 +255,7 @@
     soldiers = {
         culture = vietnamese
         religion = animist
-        size = 142
+        size = 200
     }
 
     farmers = {
@@ -318,12 +282,6 @@
         size = 237
     }
 
-    soldiers = {
-        culture = vietnamese
-        religion = animist
-        size = 47
-    }
-
     farmers = {
         culture = vietnamese
         religion = animist
@@ -348,12 +306,6 @@
         size = 38
     }
 
-    soldiers = {
-        culture = vietnamese
-        religion = animist
-        size = 8
-    }
-
     farmers = {
         culture = vietnamese
         religion = animist
@@ -376,12 +328,6 @@
         culture = vietnamese
         religion = animist
         size = 13
-    }
-
-    soldiers = {
-        culture = vietnamese
-        religion = animist
-        size = 3
     }
 
     farmers = {
@@ -413,7 +359,7 @@
     soldiers = {
         culture = vietnamese
         religion = animist
-        size = 1045
+        size = 1275
     }
 
     farmers = {
@@ -440,12 +386,6 @@
         size = 855
     }
 
-    soldiers = {
-        culture = vietnamese
-        religion = animist
-        size = 166
-    }
-
     farmers = {
         culture = vietnamese
         religion = animist
@@ -470,12 +410,6 @@
         size = 60
     }
 
-    soldiers = {
-        culture = vietnamese
-        religion = animist
-        size = 55
-    }
-
     farmers = {
         culture = vietnamese
         religion = animist
@@ -498,12 +432,6 @@
         culture = vietnamese
         religion = animist
         size = 45
-    }
-
-    soldiers = {
-        culture = vietnamese
-        religion = animist
-        size = 9
     }
 
     farmers = {
@@ -536,7 +464,7 @@
     soldiers = {
         culture = vietnamese
         religion = animist
-        size = 71
+        size = 150
     }
 
     farmers = {
@@ -563,12 +491,6 @@
         size = 332
     }
 
-    soldiers = {
-        culture = vietnamese
-        religion = animist
-        size = 71
-    }
-
     farmers = {
         culture = vietnamese
         religion = animist
@@ -593,12 +515,6 @@
         size = 20
     }
 
-    soldiers = {
-        culture = vietnamese
-        religion = animist
-        size = 4
-    }
-
     farmers = {
         culture = vietnamese
         religion = animist
@@ -621,12 +537,6 @@
         culture = vietnamese
         religion = animist
         size = 18
-    }
-
-    soldiers = {
-        culture = vietnamese
-        religion = animist
-        size = 4
     }
 
     farmers = {
@@ -658,7 +568,7 @@
     soldiers = {
         culture = khmer
         religion = animist
-        size = 119
+        size = 125
     }
 
     farmers = {
@@ -683,12 +593,6 @@
         culture = vietnamese
         religion = animist
         size = 38
-    }
-
-    soldiers = {
-        culture = vietnamese
-        religion = animist
-        size = 6
     }
 
     farmers = {

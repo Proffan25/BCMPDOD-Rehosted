@@ -17,7 +17,7 @@
     soldiers = {
         culture = latvian
         religion = animist
-        size = 2299
+        size = 2451
     }
 
     farmers = {
@@ -56,12 +56,6 @@
         size = 1113
     }
 
-    soldiers = {
-        culture = pomeranian
-        religion = animist
-        size = 68
-    }
-
     clergymen = {
         culture = scandinavian
         religion = animist
@@ -72,12 +66,6 @@
         culture = scandinavian
         religion = animist
         size = 330
-    }
-
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 27
     }
 
     farmers = {
@@ -115,12 +103,6 @@
         religion = animist
         size = 192
     }
-
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 57
-    }
 }
 #Narva (184000/46000 POPS)
 350 = {
@@ -139,7 +121,7 @@
     soldiers = {
         culture = latvian
         religion = animist
-        size = 939
+        size = 996
     }
 
     farmers = {
@@ -164,12 +146,6 @@
         culture = scandinavian
         religion = animist
         size = 110
-    }
-
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 57
     }
 
     farmers = {
@@ -199,9 +175,9 @@
     }
 
     soldiers = {
-        culture = pomeranian
+        culture = latvian
         religion = animist
-        size = 68
+        size = 485
     }
 
     clergymen = {
@@ -214,12 +190,6 @@
         culture = latvian
         religion = animist
         size = 1252
-    }
-
-    soldiers = {
-        culture = latvian
-        religion = animist
-        size = 417
     }
 
     farmers = {
@@ -249,9 +219,9 @@
     }
 
     soldiers = {
-        culture = pomeranian
+        culture = latvian
         religion = animist
-        size = 68
+        size = 855
     }
 
     clergymen = {
@@ -264,12 +234,6 @@
         culture = latvian
         religion = animist
         size = 2718
-    }
-
-    soldiers = {
-        culture = latvian
-        religion = animist
-        size = 730
     }
 
     farmers = {
@@ -288,12 +252,6 @@
         culture = scandinavian
         religion = animist
         size = 110
-    }
-
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 57
     }
 
     farmers = {
@@ -323,9 +281,9 @@
     }
 
     soldiers = {
-        culture = pomeranian
+        culture = latvian
         religion = animist
-        size = 11
+        size = 60
     }
 
     clergymen = {
@@ -338,12 +296,6 @@
         culture = latvian
         religion = animist
         size = 310
-    }
-
-    soldiers = {
-        culture = latvian
-        religion = animist
-        size = 49
     }
 
     farmers = {

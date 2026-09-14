@@ -184,7 +184,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 1749
+        size = 1848
     }
 
     farmers = {
@@ -217,12 +217,6 @@
         size = 33
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 45
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -251,12 +245,6 @@
         culture = french
         religion = animist
         size = 39
-    }
-
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 54
     }
 
     farmers = {
@@ -288,7 +276,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 1283
+        size = 1355
     }
 
     farmers = {
@@ -315,12 +303,6 @@
         size = 150
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -343,12 +325,6 @@
         culture = french
         religion = animist
         size = 181
-    }
-
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 39
     }
 
     farmers = {
@@ -405,7 +381,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 1749
+        size = 1848
     }
 
     farmers = {
@@ -456,12 +432,6 @@
         size = 142
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 45
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -508,12 +478,6 @@
         culture = french
         religion = animist
         size = 171
-    }
-
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 54
     }
 
     farmers = {
@@ -917,7 +881,7 @@
     soldiers = {
         culture = rheinish
         religion = animist
-        size = 350
+        size = 1025
     }
 
     labourers = {
@@ -954,12 +918,6 @@
         culture = rheinish
         religion = animist
         size = 6000
-    }
-
-    soldiers = {
-        culture = rheinish
-        religion = animist
-        size = 400
     }
 
     labourers = {
@@ -1010,12 +968,6 @@
         size = 3500
     }
 
-    soldiers = {
-        culture = burgundian
-        religion = animist
-        size = 275
-    }
-
     labourers = {
         culture = burgundian
         religion = animist
@@ -1045,7 +997,7 @@
     soldiers = {
         culture = rheinish
         religion = animist
-        size = 300
+        size = 1050
     }
 
     farmers = {
@@ -1070,12 +1022,6 @@
         culture = rheinish
         religion = animist
         size = 2500
-    }
-
-    soldiers = {
-        culture = rheinish
-        religion = animist
-        size = 400
     }
 
     farmers = {
@@ -1106,12 +1052,6 @@
         culture = burgundian
         religion = animist
         size = 1500
-    }
-
-    soldiers = {
-        culture = burgundian
-        religion = animist
-        size = 350
     }
 
     farmers = {
@@ -1236,7 +1176,7 @@
     soldiers = {
         culture = burgundian
         religion = animist
-        size = 650
+        size = 950
     }
 
     clerks = {
@@ -1273,12 +1213,6 @@
         culture = rheinish
         religion = animist
         size = 3500
-    }
-
-    soldiers = {
-        culture = rheinish
-        religion = animist
-        size = 100
     }
 
     farmers = {
@@ -1321,12 +1255,6 @@
         culture = rheinish
         religion = animist
         size = 500
-    }
-
-    soldiers = {
-        culture = rheinish
-        religion = animist
-        size = 200
     }
 
     farmers = {
@@ -1715,7 +1643,7 @@
     soldiers = {
         culture = anglois
         religion = animist
-        size = 1399
+        size = 1478
     }
 
     farmers = {
@@ -1742,12 +1670,6 @@
         size = 165
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 36
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -1770,12 +1692,6 @@
         culture = french
         religion = animist
         size = 198
-    }
-
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 43
     }
 
     farmers = {
@@ -1813,7 +1729,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 14875
+        size = 15718
     }
 
     farmers = {
@@ -1852,12 +1768,6 @@
         size = 105
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 383
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -1892,12 +1802,6 @@
         culture = french
         religion = animist
         size = 126
-    }
-
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 460
     }
 
     farmers = {
@@ -3311,7 +3215,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 1283
+        size = 1355
     }
 
     farmers = {
@@ -3350,12 +3254,6 @@
         size = 47
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -3390,12 +3288,6 @@
         culture = french
         religion = animist
         size = 55
-    }
-
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 39
     }
 
     farmers = {
@@ -3439,7 +3331,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 1283
+        size = 1355
     }
 
     farmers = {
@@ -3478,12 +3370,6 @@
         size = 47
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -3518,12 +3404,6 @@
         culture = french
         religion = animist
         size = 55
-    }
-
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 39
     }
 
     farmers = {
@@ -3567,7 +3447,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 283
+        size = 355
     }
 
     farmers = {
@@ -3606,12 +3486,6 @@
         size = 79
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -3646,12 +3520,6 @@
         culture = french
         religion = animist
         size = 95
-    }
-
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 39
     }
 
     farmers = {
@@ -3800,7 +3668,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 874
+        size = 924
     }
 
     farmers = {
@@ -3827,12 +3695,6 @@
         size = 195
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -3855,12 +3717,6 @@
         culture = french
         religion = animist
         size = 234
-    }
-
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 27
     }
 
     farmers = {
@@ -3985,7 +3841,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 874
+        size = 924
     }
 
     farmers = {
@@ -4024,12 +3880,6 @@
         size = 300
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -4066,12 +3916,6 @@
         size = 360
     }
 
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 27
-    }
-
     farmers = {
         culture = french
         religion = animist
@@ -4101,7 +3945,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 1574
+        size = 1663
     }
 
     farmers = {
@@ -4128,12 +3972,6 @@
         size = 195
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 41
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -4156,12 +3994,6 @@
         culture = french
         religion = animist
         size = 234
-    }
-
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 48
     }
 
     farmers = {
@@ -4193,7 +4025,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 11640
+        size = 12000
     }
 
     farmers = {
@@ -4218,12 +4050,6 @@
         culture = anglois
         religion = animist
         size = 225
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 360
     }
 
     farmers = {
@@ -4268,7 +4094,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 1794
+        size = 1850
     }
 
     farmers = {
@@ -4307,12 +4133,6 @@
         size = 270
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 56
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -4342,7 +4162,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 67
+        size = 100
     }
 
     farmers = {
@@ -4367,12 +4187,6 @@
         culture = anglois
         religion = animist
         size = 150
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
     }
 
     farmers = {
@@ -4404,7 +4218,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 727
+        size = 750
     }
 
     farmers = {
@@ -4429,12 +4243,6 @@
         culture = anglois
         religion = animist
         size = 105
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 23
     }
 
     farmers = {
@@ -4527,7 +4335,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 2037
+        size = 2100
     }
 
     farmers = {
@@ -4638,12 +4446,6 @@
         size = 90
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 63
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -4709,7 +4511,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 1115
+        size = 1150
     }
 
     farmers = {
@@ -4746,12 +4548,6 @@
         culture = anglois
         religion = animist
         size = 221
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 35
     }
 
     farmers = {
@@ -4795,7 +4591,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 1600
+        size = 1650
     }
 
     farmers = {
@@ -4834,12 +4630,6 @@
         size = 32
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -4869,7 +4659,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 1097
+        size = 1750
     }
 
     farmers = {
@@ -4894,12 +4684,6 @@
         culture = anglois
         religion = animist
         size = 255
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 653
     }
 
     farmers = {
@@ -4950,7 +4734,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 1697
+        size = 1750
     }
 
     farmers = {
@@ -4995,12 +4779,6 @@
         size = 300
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 53
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -5030,7 +4808,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 1455
+        size = 1500
     }
 
     farmers = {
@@ -5055,12 +4833,6 @@
         culture = anglois
         religion = animist
         size = 225
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 45
     }
 
     farmers = {
@@ -5092,7 +4864,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 1067
+        size = 1100
     }
 
     farmers = {
@@ -5117,12 +4889,6 @@
         culture = anglois
         religion = animist
         size = 120
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
     }
 
     farmers = {
@@ -5185,7 +4951,7 @@
     soldiers = {
         culture = anglois
         religion = animist
-        size = 11252
+        size = 11600
     }
 
     farmers = {
@@ -5240,12 +5006,6 @@
         culture = anglois
         religion = animist
         size = 33
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 348
     }
 
     farmers = {
@@ -5333,7 +5093,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 1212
+        size = 1700
     }
 
     farmers = {
@@ -5360,12 +5120,6 @@
         size = 2425
     }
 
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 436
-    }
-
     farmers = {
         culture = french
         religion = animist
@@ -5390,12 +5144,6 @@
         size = 180
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 38
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -5418,12 +5166,6 @@
         culture = anglois
         religion = animist
         size = 75
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 14
     }
 
     farmers = {
@@ -5474,7 +5216,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 1746
+        size = 1800
     }
 
     farmers = {
@@ -5519,12 +5261,6 @@
         size = 33
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 54
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -5554,7 +5290,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 1261
+        size = 1300
     }
 
     farmers = {
@@ -5579,12 +5315,6 @@
         culture = anglois
         religion = animist
         size = 195
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 39
     }
 
     farmers = {
@@ -5616,7 +5346,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 67
+        size = 100
     }
 
     farmers = {
@@ -5641,12 +5371,6 @@
         culture = anglois
         religion = animist
         size = 135
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
     }
 
     farmers = {
@@ -5676,9 +5400,9 @@
     }
 
     soldiers = {
-        culture = french
+        culture = catalan
         religion = animist
-        size = 145
+        size = 400
     }
 
     farmers = {
@@ -5705,12 +5429,6 @@
         size = 2250
     }
 
-    soldiers = {
-        culture = catalan
-        religion = animist
-        size = 250
-    }
-
     farmers = {
         culture = catalan
         religion = animist
@@ -5733,12 +5451,6 @@
         culture = anglois
         religion = animist
         size = 38
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 5
     }
 
     farmers = {

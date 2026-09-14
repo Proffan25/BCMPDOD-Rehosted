@@ -35,7 +35,7 @@
     soldiers = {
         culture = mongol
         religion = animist
-        size = 842
+        size = 888
     }
 
     farmers = {
@@ -62,12 +62,6 @@
         size = 93
     }
 
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = mongol
         religion = animist
@@ -90,12 +84,6 @@
         culture = mongol
         religion = animist
         size = 93
-    }
-
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 23
     }
 
     farmers = {
@@ -159,7 +147,7 @@
     soldiers = {
         culture = mongol
         religion = animist
-        size = 397
+        size = 420
     }
 
     farmers = {
@@ -184,12 +172,6 @@
         culture = mongol
         religion = animist
         size = 117
-    }
-
-    soldiers = {
-        culture = mongol
-        religion = animist
-        size = 23
     }
 
     farmers = {
@@ -349,7 +331,7 @@
     soldiers = {
         culture = oirat
         religion = animist
-        size = 1020
+        size = 1746
     }
 
     farmers = {
@@ -374,12 +356,6 @@
         culture = oirat
         religion = animist
         size = 964
-    }
-
-    soldiers = {
-        culture = oirat
-        religion = animist
-        size = 726
     }
 
     farmers = {

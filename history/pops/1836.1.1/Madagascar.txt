@@ -135,7 +135,7 @@
 	soldiers = {
 		culture = malagasy
 		religion = animist
-		size = 250
+		size = 450
 	}
 
 	farmers = {
@@ -168,12 +168,6 @@
 		size = 950
 	}
 
-	soldiers = {
-		culture = malagasy
-		religion = animist
-		size = 200
-	}
-
 	farmers = {
 		culture = malagasy
 		religion = animist
@@ -203,7 +197,7 @@
 	soldiers = {
 		culture = malagasy
 		religion = animist
-		size = 125
+		size = 275
 	}
 
 	farmers = {
@@ -234,12 +228,6 @@
 		culture = malagasy
 		religion = animist
 		size = 700
-	}
-
-	soldiers = {
-		culture = malagasy
-		religion = animist
-		size = 150
 	}
 
 	farmers = {
@@ -313,7 +301,7 @@
 	soldiers = {
 		culture = malagasy
 		religion = animist
-		size = 100
+		size = 275
 	}
 
 	farmers = {
@@ -344,12 +332,6 @@
 		culture = malagasy
 		religion = animist
 		size = 800
-	}
-
-	soldiers = {
-		culture = malagasy
-		religion = animist
-		size = 175
 	}
 
 	farmers = {
@@ -383,7 +365,7 @@
 	soldiers = {
 		culture = malagasy
 		religion = animist
-		size = 250
+		size = 1350
 	}
 
 	farmers = {
@@ -408,12 +390,6 @@
 		culture = malagasy
 		religion = animist
 		size = 1600
-	}
-
-	soldiers = {
-		culture = malagasy
-		religion = animist
-		size = 1100
 	}
 
 	farmers = {
@@ -445,7 +421,7 @@
 	soldiers = {
 		culture = malagasy
 		religion = animist
-		size = 275
+		size = 475
 	}
 
 	farmers = {
@@ -478,12 +454,6 @@
 		size = 1100
 	}
 
-	soldiers = {
-		culture = malagasy
-		religion = animist
-		size = 200
-	}
-
 	farmers = {
 		culture = malagasy
 		religion = animist
@@ -513,7 +483,7 @@
 	soldiers = {
 		culture = malagasy
 		religion = animist
-		size = 175
+		size = 1275
 	}
 
 	farmers = {
@@ -544,12 +514,6 @@
 		culture = malagasy
 		religion = animist
 		size = 1350
-	}
-
-	soldiers = {
-		culture = malagasy
-		religion = animist
-		size = 1100
 	}
 
 	farmers = {

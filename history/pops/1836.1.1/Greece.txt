@@ -35,7 +35,7 @@
     soldiers = {
         culture = greek
         religion = animist
-        size = 100
+        size = 300
     }
 
     farmers = {
@@ -72,12 +72,6 @@
         culture = greek
         religion = animist
         size = 2500
-    }
-
-    soldiers = {
-        culture = greek
-        religion = animist
-        size = 200
     }
 
     farmers = {
@@ -157,7 +151,7 @@
     soldiers = {
         culture = greek
         religion = animist
-        size = 50
+        size = 250
     }
 
     farmers = {
@@ -194,12 +188,6 @@
         culture = greek
         religion = animist
         size = 450
-    }
-
-    soldiers = {
-        culture = greek
-        religion = animist
-        size = 200
     }
 
     farmers = {
@@ -243,7 +231,7 @@
     soldiers = {
         culture = greek
         religion = animist
-        size = 125
+        size = 350
     }
 
     farmers = {
@@ -264,12 +252,6 @@
         size = 300
     }
 
-    soldiers = {
-        culture = bulgarian
-        religion = animist
-        size = 100
-    }
-
     farmers = {
         culture = bulgarian
         religion = animist
@@ -286,12 +268,6 @@
         culture = greek
         religion = animist
         size = 900
-    }
-
-    soldiers = {
-        culture = greek
-        religion = animist
-        size = 125
     }
 
     farmers = {
@@ -343,7 +319,7 @@
     soldiers = {
         culture = greek
         religion = animist
-        size = 100
+        size = 150
     }
 
     farmers = {
@@ -386,12 +362,6 @@
         culture = greek
         religion = animist
         size = 800
-    }
-
-    soldiers = {
-        culture = greek
-        religion = animist
-        size = 50
     }
 
     farmers = {
@@ -613,9 +583,9 @@
     }
 
     soldiers = {
-        culture = albanian
+        culture = greek
         religion = animist
-        size = 100
+        size = 1800
     }
 
     farmers = {
@@ -636,12 +606,6 @@
         size = 250
     }
 
-    soldiers = {
-        culture = albanian
-        religion = animist
-        size = 200
-    }
-
     farmers = {
         culture = albanian
         religion = animist
@@ -658,12 +622,6 @@
         culture = greek
         religion = animist
         size = 800
-    }
-
-    soldiers = {
-        culture = greek
-        religion = animist
-        size = 1500
     }
 
     farmers = {
@@ -707,7 +665,7 @@
     soldiers = {
         culture = greek
         religion = animist
-        size = 50
+        size = 1475
     }
 
     farmers = {
@@ -726,12 +684,6 @@
         culture = greek
         religion = animist
         size = 2150
-    }
-
-    soldiers = {
-        culture = greek
-        religion = animist
-        size = 1425
     }
 
     farmers = {
@@ -867,7 +819,7 @@
     soldiers = {
         culture = greek
         religion = animist
-        size = 75
+        size = 175
     }
 
     farmers = {
@@ -886,12 +838,6 @@
         culture = greek
         religion = animist
         size = 450
-    }
-
-    soldiers = {
-        culture = greek
-        religion = animist
-        size = 100
     }
 
     farmers = {
@@ -947,7 +893,7 @@
     soldiers = {
         culture = greek
         religion = animist
-        size = 75
+        size = 175
     }
 
     farmers = {
@@ -966,12 +912,6 @@
         culture = greek
         religion = animist
         size = 450
-    }
-
-    soldiers = {
-        culture = greek
-        religion = animist
-        size = 100
     }
 
     farmers = {
@@ -1047,7 +987,7 @@
     soldiers = {
         culture = greek
         religion = animist
-        size = 50
+        size = 250
     }
 
     farmers = {
@@ -1066,12 +1006,6 @@
         culture = greek
         religion = animist
         size = 650
-    }
-
-    soldiers = {
-        culture = greek
-        religion = animist
-        size = 200
     }
 
     farmers = {
@@ -1115,7 +1049,7 @@
     soldiers = {
         culture = greek
         religion = animist
-        size = 50
+        size = 1275
     }
 
     farmers = {
@@ -1140,12 +1074,6 @@
         culture = greek
         religion = animist
         size = 1500
-    }
-
-    soldiers = {
-        culture = greek
-        religion = animist
-        size = 1225
     }
 
     farmers = {

@@ -5,67 +5,61 @@
     aristocrats = {
         culture = french
         religion = animist
-        size = 150
+        size = 141
     }
 
     bureaucrats = {
         culture = french
         religion = animist
-        size = 10
+        size = 9
     }
 
     clergymen = {
         culture = french
         religion = animist
-        size = 10
+        size = 9
     }
 
     artisans = {
         culture = french
         religion = animist
-        size = 100
+        size = 94
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 48
+        size = 166
     }
 
     farmers = {
         culture = french
         religion = animist
-        size = 80
+        size = 75
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 363
+        size = 341
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 58
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 122
+        size = 55
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 1035
+        size = 973
     }
 
     slaves = {
         culture = granadan
         religion = animist
-        size = 7200
+        size = 6772
     }
 
     aristocrats = {
@@ -83,19 +77,13 @@
     artisans = {
         culture = granadan
         religion = animist
-        size = 22
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 6
+        size = 21
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 558
+        size = 525
     }
 }
 #Maripasoula (3000/750 POPS)
@@ -103,30 +91,30 @@
     aristocrats = {
         culture = granadan
         religion = animist
-        size = 22
+        size = 21
     }
 
     clergymen = {
         culture = granadan
         religion = animist
-        size = 33
+        size = 31
     }
 
     artisans = {
         culture = granadan
         religion = animist
-        size = 82
+        size = 77
     }
 
     soldiers = {
         culture = granadan
         religion = animist
-        size = 18
+        size = 17
     }
 
     farmers = {
         culture = granadan
         religion = animist
-        size = 1658
+        size = 1559
     }
 }

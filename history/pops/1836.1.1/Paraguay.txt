@@ -71,97 +71,85 @@
     aristocrats = {
         culture = lotharian
         religion = animist
-        size = 3931
+        size = 2782
     }
 
     bureaucrats = {
         culture = lotharian
         religion = animist
-        size = 1700
+        size = 1203
     }
 
     officers = {
         culture = lotharian
         religion = animist
-        size = 318
+        size = 225
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 1646
+        size = 1165
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 6800
+        size = 4813
     }
 
     soldiers = {
         culture = lotharian
         religion = animist
-        size = 18700
+        size = 13571
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 120752
+        size = 85460
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 265
+        size = 188
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 2550
-    }
-
-    soldiers = {
-        culture = lotharian
-        religion = animist
-        size = 425
+        size = 1805
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 47652
+        size = 33725
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 61
+        size = 43
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 307
-    }
-
-    soldiers = {
-        culture = lotharian
-        religion = animist
-        size = 49
+        size = 217
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 3881
+        size = 2747
     }
 
     slaves = {
         culture = lotharian
         religion = animist
-        size = 1848
+        size = 1308
     }
 }
 #Pilar (68000/17000 POPS)
@@ -169,79 +157,67 @@
     aristocrats = {
         culture = lotharian
         religion = animist
-        size = 743
+        size = 526
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 212
+        size = 150
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 425
+        size = 301
     }
 
     soldiers = {
         culture = lotharian
         religion = animist
-        size = 85
+        size = 228
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 7012
+        size = 4963
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 106
+        size = 75
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 1275
-    }
-
-    soldiers = {
-        culture = lotharian
-        religion = animist
-        size = 212
+        size = 902
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 23852
+        size = 16881
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 52
+        size = 37
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 106
-    }
-
-    soldiers = {
-        culture = lotharian
-        religion = animist
-        size = 25
+        size = 75
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 1933
+        size = 1368
     }
 }
 #Encarnacion (100000/25000 POPS)
@@ -249,79 +225,67 @@
     aristocrats = {
         culture = lotharian
         religion = animist
-        size = 1062
+        size = 752
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 265
+        size = 188
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 425
+        size = 301
     }
 
     soldiers = {
         culture = lotharian
         religion = animist
-        size = 85
+        size = 1401
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 6640
+        size = 4699
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 212
+        size = 150
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 2337
-    }
-
-    soldiers = {
-        culture = lotharian
-        religion = animist
-        size = 1870
+        size = 1654
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 41012
+        size = 29025
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 52
+        size = 37
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 106
-    }
-
-    soldiers = {
-        culture = lotharian
-        religion = animist
-        size = 25
+        size = 75
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 1933
+        size = 1368
     }
 }
 #San Pedro (84000/21000 POPS)
@@ -329,79 +293,67 @@
     aristocrats = {
         culture = lotharian
         religion = animist
-        size = 902
+        size = 638
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 265
+        size = 188
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 425
+        size = 301
     }
 
     soldiers = {
         culture = lotharian
         religion = animist
-        size = 85
+        size = 1401
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 6800
+        size = 4813
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 158
+        size = 112
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 1700
-    }
-
-    soldiers = {
-        culture = lotharian
-        religion = animist
-        size = 1870
+        size = 1203
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 30015
+        size = 21242
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 52
+        size = 37
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 106
-    }
-
-    soldiers = {
-        culture = lotharian
-        religion = animist
-        size = 25
+        size = 75
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 1933
+        size = 1368
     }
 }
 #Concepcion (16000/4000 POPS)
@@ -409,54 +361,48 @@
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 52
+        size = 37
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 106
+        size = 75
     }
 
     soldiers = {
         culture = lotharian
         religion = animist
-        size = 42
+        size = 60
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 1912
+        size = 1353
     }
 
     aristocrats = {
         culture = lotharian
         religion = animist
-        size = 106
+        size = 75
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 158
+        size = 112
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 318
-    }
-
-    soldiers = {
-        culture = lotharian
-        religion = animist
-        size = 42
+        size = 225
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 5737
+        size = 4060
     }
 }

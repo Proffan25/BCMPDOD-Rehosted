@@ -27,9 +27,9 @@
     }
 
     soldiers = {
-        culture = scandinavian
+        culture = filipino
         religion = animist
-        size = 99
+        size = 4494
     }
 
     aristocrats = {
@@ -68,12 +68,6 @@
         size = 8550
     }
 
-    soldiers = {
-        culture = filipino
-        religion = animist
-        size = 4000
-    }
-
     farmers = {
         culture = filipino
         religion = animist
@@ -90,12 +84,6 @@
         culture = nanfaren
         religion = animist
         size = 760
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 190
     }
 
     aristocrats = {
@@ -122,12 +110,6 @@
         size = 53
     }
 
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 5
-    }
-
     aristocrats = {
         culture = qingqiuan
         religion = animist
@@ -144,12 +126,6 @@
         culture = qingqiuan
         religion = animist
         size = 101
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 200
     }
 
 }
@@ -176,7 +152,7 @@
     soldiers = {
         culture = filipino
         religion = animist
-        size = 1425
+        size = 1550
     }
 
     farmers = {
@@ -195,12 +171,6 @@
         culture = filipino
         religion = animist
         size = 237
-    }
-
-    soldiers = {
-        culture = filipino
-        religion = animist
-        size = 47
     }
 
     farmers = {
@@ -227,12 +197,6 @@
         size = 368
     }
 
-    soldiers = {
-        culture = filipino
-        religion = animist
-        size = 75
-    }
-
     farmers = {
         culture = filipino
         religion = animist
@@ -249,12 +213,6 @@
         culture = qingqiuan
         religion = animist
         size = 13
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 3
     }
 
     farmers = {
@@ -286,7 +244,7 @@
     soldiers = {
         culture = filipino
         religion = animist
-        size = 1282
+        size = 1450
     }
 
     farmers = {
@@ -305,12 +263,6 @@
         culture = filipino
         religion = animist
         size = 475
-    }
-
-    soldiers = {
-        culture = filipino
-        religion = animist
-        size = 95
     }
 
     farmers = {
@@ -337,12 +289,6 @@
         size = 325
     }
 
-    soldiers = {
-        culture = filipino
-        religion = animist
-        size = 68
-    }
-
     farmers = {
         culture = filipino
         religion = animist
@@ -359,12 +305,6 @@
         culture = filipino
         religion = animist
         size = 25
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 5
     }
 
     farmers = {
@@ -396,7 +336,7 @@
     soldiers = {
         culture = filipino
         religion = animist
-        size = 427
+        size = 550
     }
 
     farmers = {
@@ -415,12 +355,6 @@
         culture = filipino
         religion = animist
         size = 712
-    }
-
-    soldiers = {
-        culture = filipino
-        religion = animist
-        size = 95
     }
 
     farmers = {
@@ -447,12 +381,6 @@
         size = 105
     }
 
-    soldiers = {
-        culture = filipino
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = filipino
         religion = animist
@@ -469,12 +397,6 @@
         culture = qingqiuan
         religion = animist
         size = 38
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 5
     }
 
     farmers = {
@@ -508,7 +430,7 @@
     soldiers = {
         culture = filipino
         religion = animist
-        size = 47
+        size = 225
     }
 
     farmers = {
@@ -535,12 +457,6 @@
         size = 285
     }
 
-    soldiers = {
-        culture = filipino
-        religion = animist
-        size = 71
-    }
-
     farmers = {
         culture = filipino
         religion = animist
@@ -557,12 +473,6 @@
         culture = filipino
         religion = animist
         size = 427
-    }
-
-    soldiers = {
-        culture = filipino
-        religion = animist
-        size = 95
     }
 
     farmers = {
@@ -589,12 +499,6 @@
         size = 10
     }
 
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 3
-    }
-
     farmers = {
         culture = filipino
         religion = animist
@@ -619,12 +523,6 @@
         size = 15
     }
 
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 4
-    }
-
     farmers = {
         culture = filipino
         religion = animist
@@ -641,12 +539,6 @@
         culture = qingqiuan
         religion = animist
         size = 23
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 5
     }
 
     farmers = {
@@ -678,7 +570,7 @@
     soldiers = {
         culture = filipino
         religion = animist
-        size = 712
+        size = 850
     }
 
     farmers = {
@@ -697,12 +589,6 @@
         culture = filipino
         religion = animist
         size = 475
-    }
-
-    soldiers = {
-        culture = filipino
-        religion = animist
-        size = 95
     }
 
     farmers = {
@@ -729,12 +615,6 @@
         size = 175
     }
 
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 38
-    }
-
     farmers = {
         culture = filipino
         religion = animist
@@ -751,12 +631,6 @@
         culture = qingqiuan
         religion = animist
         size = 25
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 5
     }
 
     farmers = {
@@ -788,7 +662,7 @@
     soldiers = {
         culture = filipino
         religion = animist
-        size = 807
+        size = 850
     }
 
     farmers = {
@@ -815,12 +689,6 @@
         size = 213
     }
 
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 43
-    }
-
     farmers = {
         culture = filipino
         religion = animist
@@ -842,9 +710,9 @@
     }
 
     soldiers = {
-        culture = scandinavian
+        culture = filipino
         religion = animist
-        size = 24
+        size = 850
     }
 
     aristocrats = {
@@ -871,12 +739,6 @@
         size = 3325
     }
 
-    soldiers = {
-        culture = filipino
-        religion = animist
-        size = 712
-    }
-
     farmers = {
         culture = filipino
         religion = animist
@@ -893,12 +755,6 @@
         culture = filipino
         religion = animist
         size = 475
-    }
-
-    soldiers = {
-        culture = filipino
-        religion = animist
-        size = 71
     }
 
     farmers = {
@@ -925,12 +781,6 @@
         size = 7
     }
 
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 1
-    }
-
     aristocrats = {
         culture = qingqiuan
         religion = animist
@@ -955,12 +805,6 @@
         size = 175
     }
 
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 38
-    }
-
     farmers = {
         culture = filipino
         religion = animist
@@ -977,12 +821,6 @@
         culture = qingqiuan
         religion = animist
         size = 25
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 4
     }
 
     farmers = {
@@ -1014,9 +852,9 @@
     }
 
     soldiers = {
-        culture = scandinavian
+        culture = filipino
         religion = animist
-        size = 24
+        size = 1325
     }
 
     aristocrats = {
@@ -1035,12 +873,6 @@
         culture = filipino
         religion = animist
         size = 807
-    }
-
-    soldiers = {
-        culture = filipino
-        religion = animist
-        size = 1045
     }
 
     farmers = {
@@ -1065,12 +897,6 @@
         culture = filipino
         religion = animist
         size = 570
-    }
-
-    soldiers = {
-        culture = filipino
-        religion = animist
-        size = 95
     }
 
     farmers = {
@@ -1103,12 +929,6 @@
         size = 332
     }
 
-    soldiers = {
-        culture = filipino
-        religion = animist
-        size = 95
-    }
-
     farmers = {
         culture = filipino
         religion = animist
@@ -1127,12 +947,6 @@
         size = 7
     }
 
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 1
-    }
-
     aristocrats = {
         culture = qingqiuan
         religion = animist
@@ -1149,12 +963,6 @@
         culture = qingqiuan
         religion = animist
         size = 43
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 55
     }
 
     farmers = {
@@ -1179,12 +987,6 @@
         culture = qingqiuan
         religion = animist
         size = 30
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 5
     }
 
     farmers = {
@@ -1217,12 +1019,6 @@
         size = 18
     }
 
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 5
-    }
-
     farmers = {
         culture = filipino
         religion = animist
@@ -1253,7 +1049,7 @@
     soldiers = {
         culture = filipino
         religion = animist
-        size = 475
+        size = 600
     }
 
     farmers = {
@@ -1304,12 +1100,6 @@
         size = 285
     }
 
-    soldiers = {
-        culture = filipino
-        religion = animist
-        size = 95
-    }
-
     farmers = {
         culture = filipino
         religion = animist
@@ -1332,12 +1122,6 @@
         culture = qingqiuan
         religion = animist
         size = 125
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -1388,12 +1172,6 @@
         size = 15
     }
 
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 5
-    }
-
     farmers = {
         culture = filipino
         religion = animist
@@ -1435,7 +1213,7 @@
     soldiers = {
         culture = malay
         religion = animist
-        size = 214
+        size = 225
     }
 
     farmers = {
@@ -1472,12 +1250,6 @@
         culture = qingqiuan
         religion = animist
         size = 30
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 11
     }
 
     farmers = {
